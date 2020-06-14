@@ -1,0 +1,24 @@
+{
+    "title": "facebook tắt tính_năng tự_động nhận_diện gắn nhãn người dùng",
+    "abstract": "mạng xã_hội facebook ngày 3-9 thông_báo đã dừng sử_dụng phần_mềm nhận_diện người dùng , tính_năng tự_động dò_tìm , phát_hiện hình_ảnh người dùng , bạn_bè và đề_xuất “ gắn nhãn ” ( tag ) .",
+    "article": [
+        "theo trang tin the_verge , theo thông_báo ngày 3-9 trên blog công_ty , facebook sẽ triển_khai chính_sách riêng_tư mới với công_cụ nhận_diện ( face_recognition ) của mạng xã_hội , đưa nó trở_thành một tuỳ chọn để người dùng tự quyết_định chứ không phải mặc_định tham_gia như trước_đây .",
+        "cụ_thể , với chính_sách mới , những người dùng facebook mới sẽ không được mặc_định sẵn việc phải dùng tính_năng face_recognition .",
+        "với những người dùng hiện_tại của facebook , nếu chọn bật tính_năng này , facebook mới gửi thông_báo tới họ khi ai đó đăng hình_ảnh ( gồm cả ảnh và video ) có gương_mặt họ , ngay cả khi họ không bị \" tag \" ( gắn nhãn trong hình_ảnh đăng ) .",
+        "sau khi được cảnh_báo việc có ảnh mặt mình được đăng lên ở đâu_đó trên mạng xã_hội facebook , người dùng có các tuỳ chọn : tự tag tên mình , để nguyên tình_trạng không tag , hoặc báo_cáo vi_phạm với facebook nếu đó là hình họ không muốn xuất_hiện .",
+        "theo chia_sẻ thông_tin của facebook với trang the_verge , mạng xã_hội này dự_định sẽ triển_khai đồng_loạt và toàn_bộ việc huỷ_bỏ tính_năng face_recognition mặc_định này trong vài tuần tới .",
+        "theo đó , nếu bạn chưa thiết_lập chế_độ riêng về face_recognition , facebook cho biết , bạn sẽ nhận được thông_báo về việc này trong bảng cấp tin ( news_feed ) .",
+        "khi đó bạn có_thể tuỳ chọn bật ( turn on ) hay tắt ( turn off ) tính_năng này .",
+        "đáng chú_ý , ngay cả khi bạn không chọn bật / tắt thì tính_năng face_recognition cũng sẽ không tự_động bật .",
+        "bởi_vậy , những người dùng mới trên facebook sẽ được mặc_định tắt tính_năng face_recognition .",
+        "tuỳ chọn sử_dụng tính_năng này sẽ có trong phần cài_đặt ( setting menu ) của giao_diện tài_khoản facebook ."
+    ],
+    "image": [
+        "mô_tả thông_báo về lựa_chọn bật / tắt tính_năng nhận_diện người dùng của facebook - ảnh : cnn"
+    ],
+    "label": [
+        2,
+        0,
+        7
+    ]
+}

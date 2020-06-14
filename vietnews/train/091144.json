@@ -1,0 +1,42 @@
+{
+    "title": "nam sinh viết phần_mềm học toán",
+    "abstract": "phần_mềm hỗ_trợ việc dạy và học 3 môn tự_nhiên toán , lý , hoá do một sinh_viên năm nhất viết được học_sinh chuẩn_bị thi đại_học đánh_giá là dễ hiểu , tiện_dụng và được sử_dụng miễn_phí .",
+    "article": [
+        "dù học chuyên_toán nhưng không ít lần hoàng_văn_hiệp , học_sinh trường thpt chuyên lương_văn_tuỵ ( ninh_bình ) , bị chính những phương_trình , đồ_thị hay bất_đẳng_thức làm_khó .",
+        "năm lớp 11 , sau vài tháng mày_mò tìm_hiểu trên internet , hiệp tự lập_trình được “ phần_mềm giải phương_trình toán , lý , hoá ” bản đầu_tiên .",
+        "“ với phần_mềm này , mình có_thể dễ_dàng tra_cứu kết_quả các bài_tập thầy_cô_giáo cho về nhà , tự sửa lỗi sai đến khi có kết_quả đúng ” , hiệp chia_sẻ .",
+        "từng_trải qua quá_trình học_tập miệt_mài chuẩn_bị cho kỳ thi đại_học , thấu_hiểu nỗi lòng sĩ tử , hiệp tiếp_tục nâng_cấp , cải_tiến phần_mềm sau khi trở_thành sinh_viên năm nhất khoa kỹ_thuật phần_mềm của đại_học fpt .",
+        "phần_mềm do hiệp lập_trình và phát_triển chạy trên window bản desktop .",
+        "ở phiên_bản đầu_tiên , phần_mềm bao_gồm các ứng_dụng nhỏ , mỗi ứng_dụng giải_quyết một bài_toán cụ_thể trong chương_trình phổ_thông và các chức_năng phụ về lý , hoá , các thủ_thuật giải bài tập môn tự_nhiên .",
+        "tuy_nhiên , một_số dạng bài phức_tạp như bài_toán đồ_thị thì chưa được giải_quyết triệt_để .",
+        "để khắc_phục các vấn_đề này , mới_đây hiệp đã trình_làng phiên_bản cải_tiến với tên gọi “ phần_mềm hỗ_trợ dạy và học toán , lý , hoá ” .",
+        "ngoài những tính_năng đã có , phiên_bản này xử_lý tốt các bài_toán đồ_thị , hỗ_trợ 80-90 % trong việc tra_cứu kết_quả bài thi đại_học một_cách nhanh_chóng , chính_xác cho học_sinh và giáo_viên …",
+        "giao_diện tính_năng vẽ đồ_thị và kiểm_tra kết_quả bài_toán đồ_thị của phần_mềm .",
+        "vẫn còn đang trong quá_trình hoàn_thiện nên hiệp quyết_định chưa đưa bản dùng thử lên mạng .",
+        "tuy_nhiên , sản_phẩm đã nhận được sự quan_tâm của rất nhiều bạn_bè , thầy_cô_giáo khi đưa lên một host chia_sẻ phổ_biến .",
+        "đã có hàng nghìn lượt tải xuống và con_số này tiếp_tục tăng .",
+        "thầy đặng_đình_sơn , giáo_viên toán trường thpt chuyên lương_văn_tuỵ , ninh_bình nhận_xét : “ ưu_điểm của phần_mềm này là dung_lượng nhẹ , giải_quyết được khá nhiều vấn_đề toán_học đối_với học_sinh thpt như giải phương_trình , giải các bài_toán bất_đẳng_thức , cực_trị cũng như một_số bài_tập lý , hoá theo công_thức .",
+        "đối_với giáo_viên , phần_mềm tiện_dụng nhất trong việc kiểm_tra kết_quả các bài_tập giao cho học_sinh một_cách nhanh_chóng , tiết_kiệm thời_gian ” .",
+        "đây không phải lần đầu_tiên chàng sinh_viên năm nhất đại_học fpt có những sản_phẩm phần_mềm hữu_ích .",
+        "cậu từng giành nhiều giải cao trong cuộc thi sáng_tạo dành cho thanh_thiếu_niên nhi_đồng tỉnh ninh_bình các năm 2011 , 2012 .",
+        "năm 2014 , với “ phần_mềm giải phương_trình toán , lý , hoá ” , hiệp đã xuất_sắc vượt qua hàng trăm đối_thủ để giành giải nhất cuộc_thi sáng_tạo cấp toàn_quốc .",
+        "kể từ đó , hiệp bổ_sung vào bộ sưu_tập thành_tích của mình giải ba cuộc_thi tin_học trẻ toàn_quốc lần thứ 21 cũng như huy_chương bạc triển_lãm quốc_tế sáng_tạo khoa_học công_nghệ trẻ ieyi 2015 ( 18/11 ) dành cho “ phần_mềm hỗ_trợ dạy và học toán , lý , hoá ” bản nâng_cấp .",
+        "nhờ bề dày thành_tích này mà hiệp được thầy_cô bạn_bè gọi với cái tên thân_mật - anh_chàng chuyên sáng_tạo .",
+        "đến với lập_trình một_cách tự_nhiên từ niềm yêu_thích và tự học , hiệp chia_sẻ : “ bố_mẹ bán hàng ăn , gia_đình cũng không ai theo nghề này nên mình toàn tự tìm_hiểu trên mạng .",
+        "mình thường tranh_thủ làm phần_mềm khi rỗi nhưng có những lần say_mê quá , quên cả làm bài_tập thầy_cô_giáo cho về nhà .",
+        "sáng hôm sau đến lớp , mình bị điểm kém , không_chỉ một mà vài_ba lần như_thế rồi ” .",
+        "hiện_tại , hiệp tham_gia câu_lạc_bộ robotic của đại_học fpt và tiếp_tục theo_đuổi đam_mê lập_trình với những sản_phẩm công_nghệ_cao như dự_án robot chơi cờ - sản_phẩm tham_gia cuộc thi nhà sáng_tạo việt_nam với intel_galileo 2015 .",
+        "“ mình đang thử sức với một_số sản_phẩm lập_trình mới như robot hoặc phần_mềm hỗ_trợ quản_lý máy_tính .",
+        "ngoài_ra , mình còn muốn học nâng_cao trình_độ tiếng anh bởi làm phần_mềm gì thì cũng cần có vốn ngoại_ngữ để nói cho mọi người , nhất_là người nước_ngoài ở các cuộc thi quốc_tế hiểu được sản_phẩm của mình ” , nam sinh chia_sẻ về những dự_định sắp tới .",
+        "ngọc_trâm"
+    ],
+    "image": [
+        "giao_diện tính_năng vẽ đồ_thị và kiểm_tra kết_quả bài_toán đồ_thị của phần_mềm .",
+        "hoàng_văn_hiệp ( thứ ba từ phải sang ) nhận giải ba tại cuộc thi tin_học trẻ toàn_quốc lần 21 nhờ “ phần_mềm giải phương_trình toán , lý , hoá ” ."
+    ],
+    "label": [
+        7,
+        3,
+        5
+    ]
+}

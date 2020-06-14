@@ -1,0 +1,28 @@
+{
+    "title": "ngân_hàng nhà_nước siết quy_định về bảo_mật ngân_hàng trực_tuyến",
+    "abstract": "ngân_hàng nhà_nước vừa ban_hành văn_bản quy_định về an_toàn , bảo_mật cho việc cung_cấp dịch_vụ ngân_hàng trên mạng internet .",
+    "article": [
+        "theo đó , thống_đốc ngân_hàng nhà_nước việt_nam vừa ban_hành thông_tư 35 quy_định về an_toàn , bảo_mật cho việc cung_cấp dịch_vụ ngân_hàng trên internet .",
+        "thông_tư 35 thay_thế thông_tư 29 , có nhiều điều_khoản siết chặt hơn về an_ninh ngân_hàng .",
+        "cụ_thể , theo thông_tư mới này , các tài_khoản phải được xác_thực tối_thiểu bằng tên đăng_nhập và mã khoá bí_mật , trong đó tên đăng_nhập có độ dài tối_thiểu 6 ký_tự , không được sử_dụng toàn_bộ ký_tự trùng nhau hoặc liên_tục theo thứ_tự trong bảng_chữ_cái , chữ_số .",
+        "mã khoá bí_mật cũng phải có độ dài tối_thiểu 6 ký_tự , bao_gồm chữ và số , chứa chữ hoa có ký_tự đặc_biệt .",
+        "thời_gian hiệu_lực của mã khoá bí_mật tối_đa là 12 tháng kể từ ngày lập .",
+        "đồng_thời , thông_tư 35 đặc_biệt nhắc tới việc các quy_định về sử_dụng mật_khẩu 1 lần ( mã otp ) gửi qua tin nhắn sms hoặc thư_điện_tử để xác_thực các giao_dịch ngân_hàng .",
+        "theo đó , khi người_dân thực_hiện các giao_dịch ngân_hàng cần sử_dụng mã otp gửi qua tin nhắn sms , các ngân_hàng sẽ phải gửi kèm thông_tin cảnh_báo để người_dân nhận_biết được mục_đích của mã otp trong các giao_dịch ngân_hàng .",
+        "sau 5 phút không được sử_dụng , mã otp sẽ không có hiệu_lực .",
+        "đối_với việc thực_hiện các giao_dịch ngân_hàng và xác_thực bằng thẻ , otp sẽ có thời hạn_sử_dụng tối_đa một năm kể từ ngày đăng_ký thẻ , và mã otp khi được cung_cấp cũng chỉ có hiệu_lực trong vòng 2 phút .",
+        "đối_với mã otp được tạo từ phần mền cài_đặt trên thiết_bị di_động , các ngân_hàng phải cũng cấp rõ dường_dẫn trên website hoặc kho ứng_dụng để người_dân tải và cài_đặt phần_mềm tạo otp .",
+        "theo ngân_hàng nhà_nước , việc này sẽ giúp tránh trường_hợp kẻ_gian lợi_dụng tạo các website giả_mạo lừa_đảo chiếm_đoạt thông_tin khách_hàng .",
+        "phần_mềm tạo otp phải sử_dụng mã khoá do đơn_vị cung_cấp để kích_hoạt trước khi sử_dụng .",
+        "một mã khoá chỉ được sử_dụng cho một máy di_động .",
+        "phần_mềm tạo otp phải được kiểm_soát truy_cập .",
+        "nếu xác_thực truy_cập sai 5 lần liên_tiếp , ngân_hàng phải tự_động khoá không cho khách_hàng sử_dụng tiếp .",
+        "khi đã được cung_cấp , mã otp sẽ có hiệu_lực trong vòng 2 phút .",
+        "trường_hợp người_dân xác_thực giao dịch_chuyển , rút_tiền bằng chữ_ký số , phải sử_dụng chữ_ký số và dịch_vụ chứng_thực chữ_ký số của ngân_hàng cung_cấp dịch_vụ theo quy_định của pháp_luật về chữ_ký số và dịch_vụ chứng_thực .",
+        "thông_tư mới sẽ có hiệu_lực thi_hành từ 1/7/2017 ."
+    ],
+    "image": [],
+    "label": [
+        0
+    ]
+}

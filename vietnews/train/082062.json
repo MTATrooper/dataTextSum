@@ -1,0 +1,39 @@
+{
+    "title": "lan_toả công_tắc nụ_cười",
+    "abstract": "sáng_chế có tên ' lan_toả nụ_cười ' do nhóm newcp gồm nguyễn_trần_duy_khang , nguyễn_đức_hoàng , huỳnh_trung_nhật , nguyễn_minh_hiếu , hoàng_nghĩa - lớp 11 trường thpt chuyên lê_quý_đôn , đà_nẵng - thực_hiện .",
+    "article": [
+        "tình_cờ xem được video bệnh_nhân ung_thư khi soi một chiếc gương đặc_biệt , phải cười mới có_thể thấy được ảnh của mình qua gương , giúp tâm_trạng người_bệnh phấn_chấn hơn , nhóm các bạn đã hình_thành ý_tưởng chế_tạo thiết_bị điều_khiển các vật_dụng bằng nụ_cười .",
+        "hệ_thống giúp con_người bằng nụ_cười có_thể điều_khiển bật / tắt đèn_điện .",
+        "cười xoa_dịu căng_thẳng",
+        "nhóm trưởng duy_khang nói dường_như chúng_ta ngày_nay đang bị cuốn vào vòng xoáy của công_việc và học_tập , vào những mối quan_hệ cá_nhân .",
+        "áp_lực , mệt_mỏi , căng_thẳng dồn_nén để rồi khi về đến nhà , dễ xảy ra những cuộc cãi_vã giữa các thành_viên trong gia_đình .",
+        "\" lứa tuổi học_sinh cũng dần ít cười hơn .",
+        "nhiều bạn từ áp_lực tâm_lý , dần im_lặng và trầm_tính , thậm_chí dẫn đến trầm_cảm \" - duy_khang bộc_bạch .",
+        "các thành_viên newcp nhất_trí với nhau rằng cười là giải_pháp đơn_giản hiệu_quả nhất để xoa_dịu vấn_đề , đưa mọi người lại gần nhau hơn .",
+        "nhóm bạn cùng chế_tạo thiết_bị bao_gồm một camera , một bộ_xử_lý thông_tin , các dây nối và một thiết_bị bất_kỳ trong nhà .",
+        "camera sẽ nhận_diện nụ_cười truyền đến bộ_xử_lý thông_tin .",
+        "ở đây , máy_tính sử_dụng thuật_toán 68 landmarks nhận_diện và so_sánh sự khác nhau giữa các điểm cơ_bản trên mặt mỗi người , từ đó xuất thông_tin đầu_ra là người sử_dụng có đang cười hay không .",
+        "nếu cười , thay_đổi trạng_thái của đèn đang kết_nối ( bật sang tắt hoặc tắt sang bật ) .",
+        "nụ_cười lúc này đóng vai_trò như một công_tắc .",
+        "hoàng_nghĩa thông_tin theo tiến_sĩ isha_gupta và murray_grossan , một nụ_cười ( dù là gượng_ép ) cũng có_thể đánh_lừa não bộ rằng con_người chúng_ta đang vui , từ đó kích_thích tiết ra các hormon tăng cảm_giác phấn_chấn và hạnh_phúc , giúp giảm cảm_giác thất_vọng , suy_sụp .",
+        "các hormon này sẽ góp_phần cải_thiện sức_khoẻ tinh_thần của con_người , giúp người dùng vui_vẻ hơn , yêu_đời hơn .",
+        "cải_thiện sức_khoẻ tinh_thần",
+        "nguyễn_minh_hiếu chia_sẻ khó_khăn nhất là thuật_toán để nhận_diện khuôn_mặt .",
+        "trong khoảng hai tháng thiết_kế , lập_trình cho sản_phẩm , nhóm đã đưa ra đến ba phiên_bản sử_dụng các thuật_toán xử_lý nụ_cười khác nhau .",
+        "hiện_tại sản_phẩm đã có_thể sử_dụng camera để nhận_diện hình_ảnh , video , xử_lý để kiểm_tra \" cười \" , sau đó laptop sẽ truyền_thông tin qua arduino để điều_khiển bật / tắt đèn và một_số thiết_bị khác như loa , cửa ... với độ_chính_xác cao .",
+        "sau khi hoàn_thiện thiết_bị , nhóm đã đưa sản_phẩm đến trường tư_thục chuyên_biệt thanh_tâm ( quận ngũ_hành_sơn , đà_nẵng ) để thử_nghiệm .",
+        "các em học_sinh ở đây rất thích_thú khi một nụ_cười của mình có_thể làm căn phòng từ tối trở_thành sáng , hay đang im_ắng lại trở_nên vui_nhộn ( bật nhạc ) .",
+        "huỳnh_trung_nhật chia_sẻ : \" nhóm newcp mong_muốn đưa sản_phẩm của mình đến nhiều hơn các trường chuyên_biệt dành cho trẻ khuyết_tật , trẻ tự kỷ , trầm_cảm để góp_phần cải_thiện sức_khoẻ tinh_thần của các em \" .",
+        "các soeur hiệu_trưởng , hiệu phó trường tư_thục chuyên_biệt thanh_tâm cho_biết rất ủng_hộ sáng_chế của nhóm newcp .",
+        "ban_giám_hiệu trường mong_muốn nhóm phát_triển thêm các sản_phẩm có dạng đồ_chơi trẻ_em như đèn_kéo_quân , xe điều_khiển ... sử_dụng chính công_nghệ này .",
+        "theo các soeur , đồ_chơi có sự tiếp_cận trực_tiếp và thường_xuyên nhất với trẻ_em , từ đó sẽ có nhiều tác_động tích_cực hơn lên sức_khoẻ tinh_thần của những đứa trẻ đặc_biệt ."
+    ],
+    "image": [
+        "nhóm newcp điều_khiển đèn_chiếu sáng bằng nụ_cười - ảnh : u - invent"
+    ],
+    "label": [
+        21,
+        13,
+        6
+    ]
+}

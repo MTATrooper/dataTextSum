@@ -1,0 +1,50 @@
+{
+    "title": "vụ điểm thi từ 8,75 thành 0 : do thí_sinh , người chấm hay phần_mềm ?",
+    "abstract": "có sự thiếu nhất_quán trong thông_tin giữa bộ gd-đt , các đơn_vị liên_quan và nhận_định của chuyên_gia xung_quanh vụ 58 bài thi_trắc_nghiệm của 34 thí_sinh tây_ninh bị điểm 0 .",
+    "article": [
+        "theo lãnh_đạo cục quản_lý chất_lượng bộ gd-đt , nguyên_nhân của sự_việc này là do thí_sinh tô sai mã_đề , tô nhầm số_báo_danh và tô mờ đáp_án .",
+        "phải kiểm_tra",
+        "trao_đổi với tuổi_trẻ về câu_chuyện chấm trắc_nghiệm thi thpt quốc_gia , pgs.ts trần_văn_tớp - hiệu phó trường đh bách_khoa hà_nội , trưởng_ban chấm thi_trắc_nghiệm tại thanh_hoá năm nay - cho_biết theo quy_trình chấm thi năm nay , sau khi scan các túi bài thi và mã_hoá , gửi file gốc cho bộ gd-đt , hội_đồng chấm thi mới chuyển sang bước kiểm_dò , phát_hiện lỗi .",
+        "theo ông trần_văn_tớp , từ thực_tế chấm thi của trường đh bách_khoa hà_nội ở thanh_hoá cho thấy có hai loại lỗi ở bài thi_trắc_nghiệm .",
+        "một loại là lỗi bắt_buộc phải sửa thì phần_mềm chấm thi mới cho nhận_diện chấm , đó là thí_sinh tô sai số_báo_danh , tô sai mã_đề .",
+        "loại lỗi thứ hai là thí_sinh tô phương_án trả_lời quá mờ , hoặc thay_đổi phương_án trả_lời nhưng xoá không hết phương_án đã chọn trước đó , với loại lỗi này phần_mềm chấm thi khuyến_cáo nên kiểm_tra .",
+        "\" nếu phần_mềm ổn_định thì trường_hợp tô sai mã_đề , số_báo_danh , hoặc tô nhầm số_báo_danh , mã_đề của thí_sinh khác , nếu không sửa , máy sẽ loại không chấm .",
+        "vì_thế tôi không rõ các trường_hợp thí_sinh ở tây_ninh rơi vào lỗi gì .",
+        "nhưng nếu do tô sai mã_đề và số_báo_danh mà hội_đồng chấm trắc_nghiệm không kiểm_tra thì cũng khó hiểu \" - ông tớp bày_tỏ băn_khoăn .",
+        "đề_cập đến trường_hợp tô mờ , xoá không sạch , ông tớp cho_biết đây là lỗi gặp rất nhiều ở thanh_hoá : \" chúng_tôi đã phải mở 11.000 bài thi_trắc_nghiệm để kiểm_tra lỗi do phần_mềm khuyến_cáo xem_xét .",
+        "hội_đồng chấm thi xem_xét kỹ từng bài .",
+        "có những bài phải zoom hết cỡ để kiểm_tra có đúng thí_sinh đã tô phương_án trả_lời nhưng mờ không .",
+        "những trường_hợp không rõ sẽ không sửa , nhưng những trường_hợp xác_định được thì sẽ sửa để bảo_đảm quyền_lợi cho thí_sinh .",
+        "chúng_tôi đã sửa 1.000 bài thi trong số này \" .",
+        "pgs.ts nguyễn_việt_hà , hiệu_trưởng trường đh công_nghệ - đh quốc_gia hà_nội , đơn_vị chấm thi_trắc_nghiệm cho hà_nội , cũng xác_nhận phần_mềm chấm thi năm nay tự_động phát_hiện lỗi sai .",
+        "\" những trường_hợp tô sai số_báo_danh , mã_đề đều báo lỗi và bộ_phận chấm thi sẽ kiểm_tra , đối_sánh để sửa lại .",
+        "duy có trường_hợp thí_sinh tô nhầm mã_đề , số_báo_danh của thí_sinh vắng_mặt trong buổi thi thì phần_mềm có_thể không phát_hiện được .",
+        "tuy_nhiên , hội_đồng chấm thi làm đúng trách_nhiệm thì phải cập_nhật dữ_liệu về thí_sinh vắng_mặt để phát_hiện lỗi kiểu này \" - ông hà nói .",
+        "không_chỉ lỗi của thí_sinh ?",
+        "nhiều cán_bộ ở các trường đh làm công_tác chấm thi_trắc_nghiệm các bài thi thpt quốc_gia 2019 không đồng_ý với quan_điểm cho_rằng chỉ có lỗi của thí_sinh .",
+        "cán_bộ một trường đh tham_gia chấm thi khu_vực phía nam cho_rằng nguyên_nhân dẫn tới việc máy chấm sai có_thể đến từ ba yếu_tố : thí_sinh , người chấm và phần_mềm .",
+        "thí_sinh có_thể tô sai mã_đề , chưa xoá kỹ câu trả_lời bỏ , đó là lỗi của thí_sinh .",
+        "khi chấm , cán_bộ chấm thi không nhận ra các lỗi này hoặc phát_hiện nhưng không biết sửa thế_nào , đó là lỗi của cán_bộ chấm thi .",
+        "khi phần_mềm không nhận_diện được bài thi , đó là phần_mềm lỗi .",
+        "\" không phải lỗi nào phần_mềm cũng báo .",
+        "thực_tế trong quá_trình chấm , chúng_tôi cũng gặp trường_hợp phần_mềm không nhận_dạng được bài thi hoặc nhận_dạng không đúng .",
+        "chúng_tôi phát_hiện và báo_cáo bộ để chỉnh_sửa , cập_nhật phần_mềm rất nhiều lần trong suốt quá_trình chấm thi \" - vị cán_bộ này nói thêm .",
+        "tương_tự , đại_diện một trường đh khác cũng cho_biết khi chấm thi , lúc đưa dữ_liệu vào phần_mềm chấm , có một_số bài thi bị nhận_diện ngang ( trong khi phải nhận_diện đứng ) mới chấm được .",
+        "sau khi báo_cáo bộ trường_hợp này thì đã được cập_nhật phần_mềm chấm thi .",
+        "do_vậy , trong trường_hợp 58 bài thi bị điểm 0 tại tây_ninh , có_thể phần_mềm lỗi , cán_bộ chấm thi không phát_hiện , không thực_hiện cập_nhật phần_mềm .",
+        "có_lẽ cán_bộ chấm thi đã bỏ_qua một khâu nào đó của quy_trình chấm thi mới xảy ra lỗi như_thế .",
+        "bên cạnh đó , ở khâu ráp điểm , đối_soát điểm cũng có_thể phát_hiện những bất_thường này và khắc_phục nhưng cũng bị bỏ_qua .",
+        "\" dù thí_sinh có lỗi khi tô sai , tô mờ cũng không_thể khiến một bài thi 8 điểm thành 0 điểm được , thậm_chí hàng_loạt bài thi , môn thi bị điểm 0 như_thế .",
+        "đó là lỗi phần_mềm trước_tiên và cái chính là lỗi của người chấm , không phát_hiện sai_sót để điều_chỉnh kịp_thời .",
+        "nói lỗi đó hoàn_toàn của thí_sinh là không thoả_đáng \" - vị này khẳng_định ."
+    ],
+    "image": [
+        "điểm thi tốt_nghiệp thpt có ý_nghĩa vô_cùng quan_trọng đối_với cuộc_đời mỗi người .",
+        "trong ảnh : học_sinh lớp 12 trường thpt nguyễn_hữu_thọ , q. 4 , tp. hcm xem điểm thi thpt quốc_gia 2019 trên báo tuổi_trẻ điện_tử - ảnh : như_hùng ."
+    ],
+    "label": [
+        29,
+        0,
+        19
+    ]
+}

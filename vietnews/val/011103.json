@@ -1,0 +1,31 @@
+{
+    "title": "boeing công_bố những thay_đổi phần_mềm với 737 max",
+    "abstract": "hệ_thống mcas sẽ nhận dữ_liệu từ hai cảm_biến góc tấn thay_vì một như trước_đây và đèn cảnh_báo sẽ được cài_đặt miễn_phí .",
+    "article": [
+        "máy_bay 737 max được sản_xuất trong nhà_máy boeing ở bang washington ngày 27/3 .",
+        "boeing ngày 27/3 tập_hợp hàng trăm phi_công và phóng_viên tại một nhà_máy ở bang washington để thông_báo những thay_đổi trong hệ_thống tăng_cường tính_năng điều_khiển bay ( mcas ) bị nghi_ngờ là nguyên_nhân vụ tai_nạn ở ethiopia ngày 10/3 và indonesia tháng 10 năm_ngoái .",
+        "mcas là hệ_thống chống thất_tốc ( luồng khí đi qua cánh máy_bay quá ít để tạo ra lực nâng ) được phát_triển riêng cho 737 max vì máy_bay này có xu_hướng ngóc mũi lên do động_cơ nặng hơn so với phiên_bản trước .",
+        "thay_đổi lớn mà boeing đưa ra là mcas sẽ không_chỉ nhận dữ_liệu từ một cảm_biến góc tấn ( xác_định khi nào máy_bay bị thất_tốc ) mà sẽ nhận từ hai cảm_biến .",
+        "phi_công sẽ được cảnh_báo bằng đèn nếu hai cảm_biến góc tấn cho dữ_liệu trái_ngược nhau .",
+        "boeing đã cung_cấp tính_năng này nhưng tính phí .",
+        "giờ_đây , các hãng hàng_không sẽ được cài_đặt miễn_phí .",
+        "mcas sẽ không liên_tục can_thiệp khi phi_công lấy lại quyền kiểm_soát .",
+        "phi_công luôn có khả_năng vô_hiệu_hoá hệ_thống này .",
+        "boeing cũng cập_nhật chương_trình đào_tạo cho phi_công max để cung_cấp cho họ \" sự hiểu_biết nâng_cao \" về các hệ_thống .",
+        "đây là chương_trình đào_tạo trên máy_tính .",
+        "\" chúng_tôi sẽ làm mọi thứ để đảm_bảo những tai_nạn sẽ không xảy ra nữa \" , mike_sinnett , phó chủ_tịch chiến_lược sản_phẩm của boeing , nói với các phóng_viên .",
+        "cục quản_lý hàng_không liên_bang mỹ ( faa ) cho_biết họ chưa cấp chứng_nhận cho bản nâng_cấp phần_mềm này .",
+        "sinnett nói rằng phần_mềm đã được thử_nghiệm rộng_rãi nhưng không_thể cung_cấp khung thời_gian khi nào lệnh ngừng bay trên toàn thế_giới đối_với 737 max sẽ được gỡ bỏ .",
+        "phương_vũ ( theo afp )"
+    ],
+    "image": [
+        "máy_bay 737 max được sản_xuất trong nhà_máy boeing ở bang washington ngày 27/3 .",
+        "phi_công mỹ giải_thích về cơ_chế hoạt_động của mcas trước khi boeing cập_nhật phần_mềm .",
+        "video : washington_post ."
+    ],
+    "label": [
+        3,
+        4,
+        1
+    ]
+}

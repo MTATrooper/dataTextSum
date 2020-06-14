@@ -1,0 +1,24 @@
+{
+    "title": "tin tặc tấn_công hệ_thống thư_điện_tử công_vụ tỉnh quảng_ninh",
+    "abstract": "giả_mạo hệ_thống nâng_cấp email , tin_tặc đã đánh_cắp nhiều tài_khoản và phát_tán thông_tin sai_lệch , làm ảnh_hưởng đến hoạt_động điều_hành của tỉnh quảng_ninh .",
+    "article": [
+        "sở thông_tin và truyền_thông quảng_ninh vừa phát đi cảnh_báo đến các cơ_quan_chức_năng tỉnh này về việc tin_tặc đã tấn_công vào hòm thư_điện_tử công_vụ của tỉnh .",
+        "một thư giả_mạo gửi đến thư_điện_tử công_vụ .",
+        "tin_tặc đã giả_mạo địa_chỉ thư_điện_tử giống với tên miền thư_điện_tử nội_bộ để gửi mã độc đến người dùng trong hệ_thống .",
+        "các mã độc này thường được gửi dưới dạng file nén : . rar , . zip … chứa các tệp_tin thực_thi hoặc giả_mạo quản_trị hệ_thống gửi các thông_báo yêu_cầu người dùng truy_cập đến một trang do tin_tặc xây_dựng để nâng_cấp hòm_thư , thay_đổi mật_khẩu .",
+        "người dùng thư_điện_tử công_vụ tỉnh quảng_ninh đã nhận được thư giả_mạo với tiêu_đề \" cổng thông_tin điện_tử tỉnh quảng_ninh \" có địa_chỉ gửi là apicola@rdsor.ro với nội_dung yêu_cầu người sử_dụng bấm vàoliên kết ( dẫn đến địa_chỉ website bị nhiễm mã độc tại nước_ngoài ) để nâng_cấp hòm_thư .",
+        "khi người dùng bấm vào đường liên_kết , máy_tính của họ nhiều khả_năng bị nhiễm mã độc .",
+        "tin_tặc sẽ dùng chính tài_khoản email ăn_cắp được tiếp_tục gửi thư giả_mạo đến các địa_chỉ khác để phát_tán virus , ảnh_hưởng đến công_tác chỉ_đạo , điều_hành của tỉnh .",
+        "theo trung_tâm công_nghệ_thông_tin - truyền_thông , sở thông_tin và truyền_thông quảng_ninh , hệ_thống thư_điện_tử công_vụ của tỉnh đã được nâng_cấp và trang_bị hệ_thống chặn lọc thư rác , thư giả_mạo , các loại mã độc .",
+        "dù vậy , trung_tâm khuyến_cáo người dùng nên cài_đặt và thường_xuyên cập_nhật các phần_mềm chống mã độc như : kaspersky , symantec , avg …",
+        "minh_cương"
+    ],
+    "image": [
+        "một thư giả_mạo gửi đến thư_điện_tử công_vụ ."
+    ],
+    "label": [
+        6,
+        7,
+        5
+    ]
+}

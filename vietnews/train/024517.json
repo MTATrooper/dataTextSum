@@ -1,0 +1,29 @@
+{
+    "title": "google dẹp dự_án công_cụ tìm_kiếm có kiểm_duyệt ở trung_quốc",
+    "abstract": "sau nhiều khó_khăn và vấp phải phản_đối từ chính nhân_viên của mình , công_ty google quyết_định dẹp dự_án công_cụ tìm_kiếm dragonfly , theo báo the_intercept .",
+    "article": [
+        "dragonfly là một hệ_thống phân_tích dữ_liệu do google tạo ra , nhằm phát_triển công_cụ tìm_kiếm \" có kiểm_duyệt \" cho thị_trường trung_quốc .",
+        "các nhân_viên trong dự_án này đã sử_dụng một website tìm_kiếm của trung_quốc có tên 265.com .",
+        "google đã mua lại 265.com từ năm 2008 từ tỉ_phú trung_quốc_cai_wensheng .",
+        "website này trước đó đặt mục_tiêu trở_thành \" trang_chủ được dùng nhiều nhất trung_quốc \" , hoạt_động giống như google với các mảng tìm_kiếm , cập_nhật tin_tức , thị_trường , chuyến bay , khách_sạn …",
+        "tuy_nhiên , tất_cả những yêu_cầu tìm_kiếm trên 265.com đều dẫn về nền_tảng baidu - một \" google của trung_quốc \" .",
+        "ít_nhất một trong số các kỹ_sư lập_trình của google được phép truy_cập vào api - giao_diện lập_trình ứng_dụng , để liên_kết với 265.com , nhưng các nhân_viên còn lại trong đội bảo_mật của google đều không được thông_báo điều gì về 265.com .",
+        "về nguyên_tắc , dự_án dragonfly sẽ dựa vào dữ_liệu từ 265.com để tạo ra một \" danh_sách đen \" cho công_cụ tìm_kiếm của mình .",
+        "danh_sách này dùng để chặn truy_cập , loại_bỏ các kết_quả tìm_kiếm về nhân_quyền , biểu_tình hay vấn_đề \" dân_chủ \" .",
+        "nói cách khác , công_cụ tìm_kiếm mà google muốn phát_triển tại thị_trường trung_quốc có sự can_thiệp về nội_dung rõ_ràng , và điều này đã gặp chỉ_trích từ bên ngoài lẫn nội_bộ .",
+        "theo hai nguồn thạo tin của the_intercept , các lãnh_đạo google đã buộc phải giam dự_án này lại \" ít_nhất trong ngắn_hạn \" , và việc này bị xem như cú đánh trời giáng vào các giám_đốc , bao_gồm cả giám_đốc_điều_hành ( ceo ) sundar_pichai - người trong hai năm qua đã đặt dự_án trung_quốc làm ưu_tiên .",
+        "báo the_intercept cũng cho_biết nhiều kỹ_sư google trong dự_án dragonfly đã được điều_chuyển sang công_tác ở những dự_án khác ở brazil , indonesia và nga .",
+        "thất_bại này của google một lần nữa phản_ánh khó_khăn của các công_ty công_nghệ mỹ trong việc khai_thác thị_trường màu_mỡ ở trung_quốc .",
+        "cho đến nay , các công_ty như facebook hay twitter vẫn bị cấm hoạt_động tại trung_quốc , ngoại_trừ việc có văn_phòng thực_hiện giao_dịch , quảng_cáo .",
+        "hồi giữa năm , facebook tiếp_tục nỗ_lực ( đã 10 năm qua ) thông_qua sáng_kiến lập khu hỗ_trợ cho những phát_minh công_nghệ .",
+        "tuy_nhiên chỉ một ngày sau khi có tin facebook được chính_quyền chấp_thuận kế_hoạch này , mọi thông_tin về điều đó đã biến mất ."
+    ],
+    "image": [
+        "giám_đốc_điều_hành của google , ông sundar_pichai - ảnh : reuters"
+    ],
+    "label": [
+        6,
+        9,
+        10
+    ]
+}

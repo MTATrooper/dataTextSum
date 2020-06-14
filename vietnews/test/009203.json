@@ -1,0 +1,28 @@
+{
+    "title": "hệ_thống phát_hiện lính bắn tỉa từ khoảng_cách 1 km của trung_quốc",
+    "abstract": "dựa trên công_nghệ định_vị nguồn âm_thanh , hệ_thống phát_hiện bắn tỉa của trung_quốc có_thể xác_định vị_trí của xạ_thủ từ khoảng_cách tới 1 km .",
+    "article": [
+        "bộ thiết_bị định_vị lính bắn tỉa mới của trung_quốc .",
+        "hệ_thống chống bắn tỉa của trung_quốc được phát_triển nhằm phát_hiện , định_vị hiệu_quả những xạ_thủ bắn tỉa của đối_phương , nhằm giảm tiêu_hao sinh_lực và tổn_thương tâm_lý của các đơn_vị trên chiến_trường , sina ngày 7/11 đưa tin .",
+        "hệ_thống này khá gọn_nhẹ , đủ để bộ_binh mang vác .",
+        "hệ_thống gồm một ăng ten trung_tâm và các cảm_biến âm_thanh , thiết_bị đo_đạc quang_học , màn_hình hiển_thị và một_số thành_phần khác , sử_dụng công_nghệ_định_vị nguồn âm_thanh , tín_hiệu hồng_ngoại và laser .",
+        "cảm_biến trên hệ_thống sẽ ghi_nhận tiếng nổ từ phát đạn bắn tỉa ngay sau khi viên đạn rời khỏi nòng súng .",
+        "dựa vào các dữ_liệu thu được , hệ_thống sẽ tính_toán và định_vị nguồn phát của tiếng nổ đó .",
+        "ngoài_ra , chớp lửa đầu nòng cũng có_thể được cảm_biến quang_học ghi_nhận , tăng độ_chính_xác cho hệ_thống .",
+        "dữ_liệu về mục_tiêu sau đó được hiển_thị trên bản_đồ thời_gian thực , giúp người vận_hành dễ_dàng điều_phối hoạt_động bắn trả và tiêu_diệt lính bắn tỉa của đối_phương .",
+        "sina cho_biết hệ_thống này có_thể phát_hiện các loại súng bộ_binh có cỡ nòng từ 5,45 đến 20 mm .",
+        "cảm_biến âm_thanh có_thể theo_dõi 360 độ xung_quanh thiết_bị và góc tà -10 đến 30 độ .",
+        "phiên_bản nội_địa của hệ_thống này phát_hiện được súng cỡ nòng 5,45-5,8 mm ( ak -74 , m -16 ... ) từ khoảng_cách trên 400 m , cỡ nòng 7,62 mm ( akm , svd , m40a5 ... ) từ cách 500 m . các loại súng bắn tỉa hạng nặng dùng cỡ nòng 12,7 đến 20 mm có_thể bị phát_hiện ở khoảng_cách tới hơn 1 km .",
+        "cơ_chế hoạt_động hệ_thống chống bắn tỉa metravib pilar của mỹ",
+        "xem thêm : trung_quốc trình_làng uav sát_thủ mạnh hơn reaper_mỹ",
+        "tử_quỳnh"
+    ],
+    "image": [
+        "bộ thiết_bị định_vị lính bắn tỉa mới của trung_quốc ."
+    ],
+    "label": [
+        10,
+        1,
+        3
+    ]
+}

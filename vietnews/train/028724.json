@@ -1,0 +1,24 @@
+{
+    "title": "nhật_bản phát_triển hệ_thống dự_báo ngập do mưa",
+    "abstract": "hệ_thống mới này có_thể tính mức_độ ngập_lụt do các trận mưa lớn gây ra tại 23 quận ở tokyo , giúp chính_quyền thành_phố triển_khai các biện_pháp cụ_thể hơn để ngăn_chặn tình_trạng ngập_lụt .",
+    "article": [
+        "ngày 20-5 , các nhà_khoa_học nhật_bản thông_báo đã phát_triển một hệ_thống mới , có_thể ước_lượng tình_trạng ngập_lụt khi mưa đang trút xuống tại khu_vực đô_thị ở thủ_đô tokyo .",
+        "một nhóm các nhà_nghiên_cứu thuộc đại_học waseda , đại_học tokyo và các trường khác đã phát_triển hệ_thống có_thể tính mức_độ ngập_lụt do các trận mưa lớn gây ra tại 23 quận ở tokyo .",
+        "họ đã lập một chương_trình dự_báo lượng nước tại các khu_vực đô_thị , trong đó có tính tới mật_độ các toà nhà , các dòng sông và cống thoát nước .",
+        "bằng cách sử_dụng dữ_liệu của cơ_quan khí_tượng nhật_bản ( jma ) và các cơ_quan khác , hệ_thống này có_thể phân_tích mức_độ thiệt_hại do tình_trạng ngập_lụt từ các trận mưa lớn và bão gây ra .",
+        "mức_độ ngập_lụt dự_báo được nhận_diện bằng màu_sắc trên bản_đồ .",
+        "ví_dụ , màu đỏ tượng_trưng cho mực nước từ 80 cm trở lên , màu cam từ 40-80 cm và màu xanh từ 20-40 cm nước .",
+        "ngoài_ra , hệ_thống này cũng có_thể hiển_thị những dự_báo cứ khoảng 5 phút đến 20 phút / lần .",
+        "theo các nhà_nghiên_cứu , tình_trạng ngập_lụt tại khu_vực đô_thị trước_đây được ước_lượng chủ_yếu từ những đám mây báo_hiệu cơn mưa .",
+        "tuy_nhiên , hệ_thống mới có_thể đánh_giá tình_hình ngập_lụt một_cách chi_tiết hơn nhờ sử_dụng nhiều dữ_liệu dựa trên thực_địa , từ đó giúp chính_quyền thành_phố triển_khai các biện_pháp cụ_thể hơn để ngăn_chặn tình_trạng ngập_lụt .",
+        "theo kế_hoạch , hệ_thống này sẽ được đưa vào hoạt_động trước khi thế_vận_hội mùa_hè tại tokyo bắt_đầu vào tháng 7-2020 ."
+    ],
+    "image": [
+        "một khu_vực ở oyama , tochigi , bắc tokyo trong một đợt ngập - ảnh : afp"
+    ],
+    "label": [
+        1,
+        8,
+        3
+    ]
+}

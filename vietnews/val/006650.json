@@ -1,0 +1,19 @@
+{
+    "title": "ios 12.1 vừa ra_mắt đã bị \" dính chấu \" lỗi màn_hình khoá",
+    "abstract": "bản cập_nhật hệ_điều_hành mới nhất của apple là ios 12.1 lại vướng phải lỗ_hổng bảo_mật cho_phép bất_kỳ ai có_thể truy_cập danh_bạ và thực_hiện cuộc_gọi facetime mà không cần mật_khẩu .",
+    "article": [
+        "apple đã phát_hành bản cập_nhật ios 12.1 mới nhất cho các thiết_bị đầu tuần này và các nhà_nghiên_cứu bảo_mật đã phát_hiện ra một lỗi mới trên màn_hình khoá .",
+        "theo đó , lỗi này sẽ cho_phép bất_kỳ ai truy_cập vào danh_bạ trên iphone và có_thể kích_hoạt cuộc_gọi facetime và truy_cập tính_năng facetime nhóm mà không cần mật_mã .",
+        "lỗi hy_hữu này chỉ có trên ios 12.1 và được phát_hiện vài giờ sau khi apple phát_hành bản cập_nhật vào hôm thứ ba vừa_qua .",
+        "trước đó , bản cập_nhật ios 12.0.1 cũng có lỗ_hổng bảo_mật khiến cho kẻ_gian có_thể xem được các hình_ảnh vừa được chụp của thiết_bị .",
+        "trong quá_khứ , apple cũng thường_xuyên gặp lỗi liên_quan đến màn_hình khoá .",
+        "một lỗi trong ios 6.1 vào năm 2013 cho_phép người khác có_thể truy_cập vào lịch_sử cuộc_gọi , danh_bạ và ảnh một_cách tự_do .",
+        "ios 7 cũng gặp lỗ_hổng bảo_mật tương_tự , trong khi ios 8.1 vài năm trước cũng dễ_dàng bị qua_mặt chỉ bằng vài thủ_thuật nhỏ ."
+    ],
+    "image": [],
+    "label": [
+        1,
+        0,
+        3
+    ]
+}

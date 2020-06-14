@@ -1,0 +1,52 @@
+{
+    "title": "chạy_đua sử_dụng trí_tuệ_nhân_tạo chẩn_đoán bệnh",
+    "abstract": "theo dự_báo , thị_trường trí_tuệ_nhân_tạo ( ai ) trong lĩnh_vực y_khoa trên thế_giới có_thể lên đến 11 tỉ usd vào năm 2024 với tỉ_lệ tăng_trưởng 7 % / năm . google và ibm đã ráo_riết chạy_đua chiếm thị_phần .",
+    "article": [
+        "tháng 7-2017 , viện nghiên_cứu rockefeller ở new_york đã công_bố công_trình nghiên_cứu chứng_minh trí_tuệ_nhân_tạo ( ai ) phân_tích ung_thư não nhanh hơn nhà di_truyền_học đỉnh_cao gấp 1.000 lần .",
+        "chính vì_vậy , sergey_brin ( người đồng sáng_lập google ) tiên_đoán quyền_lực y_học trong tương_lai sẽ nằm trong tay các nhà sáng_chế biết sử_dụng ai cho công_cụ của mình .",
+        "google với máy phát_hiện bệnh mắt",
+        "hiện_nay , google và ibm là hai tên_tuổi lớn trong lĩnh_vực kỹ_thuật_số đầu_tư nhiều nhất cho y_tế .",
+        "google đã thực_hiện dự_án deepmind_health với tham_vọng sử_dụng ai phân_tích bệnh_án và hỗ_trợ chẩn_đoán .",
+        "tháng 7-2016 , công_ty trí_tuệ_nhân_tạo deepmind ở anh ( google mua lại công_ty này vào năm 2014 ) thông_báo đã ký hợp_đồng với hệ_thống y_tế công của anh ( nhs ) và bệnh_viện mắt moorfields ở london về phát_triển ai phát_hiện các bệnh về mắt .",
+        "trong hai năm qua , deepmind đã sử_dụng phương_pháp deep learning ( phương_pháp dạy cho máy ) để lập thuật_toán có khả_năng nhận_biết bệnh mắt .",
+        "thuật_toán được nạp hàng ngàn bản quét võng_mạc ba chiều do bệnh_viện mắt moorfields cung_cấp .",
+        "thuật_toán sẽ học cách phân_tích dữ_liệu để phát_hiện ba bệnh mắt quan_trọng gồm bệnh cườm nước ( glaucoma ) , bệnh thoái_hoá điểm vàng do tuổi_tác và bệnh_lý võng_mạc do tiểu_đường .",
+        "kết_quả nghiên_cứu dự_kiến sẽ được công_bố vào năm tới .",
+        "giai_đoạn thử_nghiệm lâm_sàng sẽ được tiến_hành trong vài năm nữa .",
+        "công_ty deepmind cũng đã thiết_lập ứng_dụng streams dành cho các bác_sĩ .",
+        "bác_sĩ sử_dụng ứng_dụng này sẽ tự_động nhận được bệnh_án , như_vậy giảm thời_gian chờ_đợi của người khám bệnh và giảm thủ_tục rườm_rà .",
+        "tiến tới chẩn_đoán bệnh ung_thư",
+        "trong giai_đoạn tới , công_ty deepmind dự_kiến sẽ sử_dụng ai để chẩn_đoán các bệnh ung_thư .",
+        "công_ty đã hợp_tác với bệnh_viện trường đại_học london ( uclh ) phân_tích các bản phim x quang và hợp_tác với trung_tâm y_tế thuộc đại_học hoàng_gia london phân_tích các bản phim nhũ ảnh .",
+        "trong khi đó , giữa tháng 2-2018 , công_ty verily ( chi_nhánh của alphabet_inc ở mỹ , công_ty_mẹ của google ) , đã công_bố công_trình nghiên_cứu về thiết_bị sử_dụng ai phân_tích ảnh chụp võng_mạc mắt , từ đó có_thể chẩn_đoán nguy_cơ mắc bệnh tim_mạch .",
+        "kết_quả thử_nghiệm trên 284.335 người cho thấy tỉ_lệ thành_công đạt 70 % .",
+        "khó_khăn cần giải_quyết là vấn_đề đạo_đức nghề_nghiệp .",
+        "năm_ngoái , uỷ_ban bảo_vệ dữ_liệu anh đánh_giá nhs đã phạm_luật khi đồng_ý cho công_ty deepmind tiếp_cận bệnh_án của 1,6 triệu bệnh_nhân để thiết_lập ứng_dụng streams .",
+        "đúng_ra theo luật , deepmind phải được từng cá_nhân bệnh_nhân đồng_ý .",
+        "sau khi bị phản_đối , deepmind mới thành_lập một bộ_phận nghiên_cứu về hậu_quả đạo_đức nghề_nghiệp và xã_hội của trí thông_minh nhân_tạo .",
+        "ibm giới_thiệu phần_mềm watson",
+        "để cạnh_tranh với google , tập_đoàn ibm có vũ_khí lợi_hại là phần_mềm thông_minh nhân_tạo watson .",
+        "watson được áp_dụng trong nhiều lĩnh_vực .",
+        "riêng về y_khoa , ibm giới_thiệu watson là một cuộc cách_mạng trong y_khoa , có_thể phân_tích nhiều loại ung_thư và giới_thiệu cho bệnh_nhân kế_hoạch điều_trị .",
+        "năm 2016 , đại_học tokyo đã sử_dụng máy watson với kết_quả phân_tích 20 triệu nghiên_cứu lâm_sàng ung_bướu , từ đó chẩn_đoán được một căn_bệnh máu ác_tính dạng hiếm nơi một bệnh_nhân nữ 60 tuổi .",
+        "theo hiệp_hội ung_bướu lâm_sàng mỹ , watson chẩn_đoán đúng 96 % số ca ung_thư phổi , 93 % số ca ung_thư trực_tràng và 81 % số ca ung_thư ruột_già .",
+        "về ung_thư phổi và ung_thư vú , watson phân_tích và đưa ra hướng_dẫn điều_trị nhanh hơn bác_sĩ 24 phút .",
+        "ibm dự_kiến đến cuối năm 2018 , watson có_thể tư_vấn điều_trị đối_với 12 loại ung_thư chiếm 80 % số ca ung_thư trên toàn thế_giới .",
+        "dù vậy theo điều_tra của trang_web stat ( mỹ ) , siêu máy_tính watson không nhận_biết nhiều hình_thức ung_thư nên chỉ có hơn 10 bệnh_viện sử_dụng máy này .",
+        "phản_ứng lại kết_quả điều_tra , ibm khẳng_định máy watson đã được lắp_đặt tại hơn 50 bệnh_viện trên thế_giới và các bác_sĩ cũng như bệnh_nhân đều phản_ánh watson rất có_ích .",
+        "ngoài google và ibm , nhiều ông lớn trong lĩnh_vực kỹ_thuật_số cũng quan_tâm đến trí thông_minh nhân_tạo trong y_khoa .",
+        "microsoft đặt mục_tiêu sẽ chiến_thắng bệnh ung_thư trước năm 2026 .",
+        "tháng 9-2016 , mark_zuckerberg ( người sáng_lập facebook ) tuyên_bố khoản đầu_tư ban_đầu 3 tỉ usd để sử_dụng trí thông_minh nhân_tạo xoá_bỏ bệnh_tật trước năm 2100 .",
+        "amazon cũng đã lập bộ_phận 1492 nghiên_cứu trí thông_minh nhân_tạo trong y_khoa ."
+    ],
+    "image": [
+        "phần_mềm watson của ibm giúp xử_lý dữ_liệu trong điều_trị ung_thư - ảnh : afp .",
+        "ứng_dụng streams của công_ty deepmind giúp bác_sĩ biết bệnh_án nhanh nhất - ảnh : deepmind .",
+        "robot_idx - dr có chức_năng chẩn_đoán bệnh_lý võng_mạc do tiểu_đường ."
+    ],
+    "label": [
+        5,
+        29,
+        32
+    ]
+}

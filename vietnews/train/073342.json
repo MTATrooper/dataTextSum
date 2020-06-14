@@ -1,0 +1,39 @@
+{
+    "title": "học_trò chế hệ_thống định_vị phà , ứng_dụng xem nhà từ xa",
+    "abstract": "hệ_thống giao_tiếp giữa con_người và thiết_bị điện , định_vị tàu qua xã đảo thạnh_an ... thật_sự hữu_ích nếu được áp_dụng vào đời_sống .",
+    "article": [
+        "xuất_phát từ thực_tiễn cuộc_sống , nhiều bạn trẻ đam_mê công_nghệ đã có những sáng_tạo thú_vị .",
+        "lớp 11 mày_mò trí_tuệ_nhân_tạo",
+        "lấy cảm_hứng từ bộ phim iron_man với căn phòng thông_minh dựa trên trí_tuệ_nhân_tạo , võ_ngọc_khang , học_sinh lớp 11 chuyên_toán - tin trường thpt chuyên_thoại_ngọc_hầu ( long_xuyên , an_giang ) , đã thiết_kế hệ_thống giao_tiếp giữa con_người và thiết_bị điện qua động_tác chỉ tay .",
+        "hoverroom là sản_phẩm thuộc lĩnh_vực trí_tuệ_nhân_tạo ( ai ) do khang thực_hiện .",
+        "sản_phẩm đã đoạt giải nhì tại cuộc thi young_makers_challenge 2017 .",
+        "để bật , tắt đèn , tivi , người dùng chỉ vào vật trong ba giây ; để chuyển kênh_truyền_hình , người dùng chỉ ngón tay lên hoặc xuống .",
+        "đó là những bài_học cơ_bản do hệ_thống máy_tính tiếp_nhận và tìm_hiểu về khung xương , cử_động tay người ...",
+        "sử_dụng nền_tảng opencv3 , caffe_deep learning và mscoco_model , khang tạo ra một máy_chủ có khả_năng nhận_biết khung xương con_người trên ảnh chụp , hiểu các hướng chỉ tay .",
+        "trong đó , opencv3 là một mã nguồn mở đọc hình_ảnh từ camera , truyền ảnh sang caffe cũng như hiển_thị khung xương người lên màn_hình .",
+        "còn caffe_deep learning là một phần_mềm xây_dựng mạng neuron nhân_tạo - cơ_sở cho ai .",
+        "mscoco là mã nguồn chứa dữ_liệu dành cho ai có_thể học được , ở đây khang sử_dụng phương_pháp keypoint model ( đánh_dấu ) để máy_tính học khung xương con_người .",
+        "tận_dụng server của amazon và gpu có sẵn trên laptop , khang_tạo môi_trường cho máy_tính học dữ_liệu ( cử_động khung xương người dùng ) .",
+        "khang cho_biết : \" em đang mày_mò giúp hệ_thống học và nhận_diện cảm_xúc để lựa_chọn bài_hát phù_hợp tâm_trạng người dùng .",
+        "toàn_bộ kiến_thức tạo ra hoverroom là do em học từ thầy ...",
+        "ban giám_khảo cuộc_thi nói vui rằng nếu sản_phẩm đạt mức hoàn_thiện , khang có_thể sẽ trở_thành \" iron man \" đầu_tiên của việt_nam .",
+        "định_vị tàu qua xã đảo thạnh_an",
+        "hiện_tại phải mất 45 phút để đi tàu đò từ cần_thạnh sang xã đảo thạnh_an .",
+        "vì nhiều nguyên_nhân , các chuyến tàu thường_xuyên xuất_phát trễ giờ , người_dân phải chờ_đợi rất mất thời_gian .",
+        "câu_chuyện đó được bí_thư đoàn biên_phòng tp. hcm kể lại cho đại_diện trường đh công_nghệ_thông_tin ( đh quốc_gia tp. hcm ) , từ đó các bạn này nảy_sinh đề_tài nghiên_cứu mang tính phục_vụ cộng_đồng , dự_kiến thử_nghiệm vào tháng 3-2018 .",
+        "ts trịnh_lê_huy ( giảng_viên khoa kỹ_thuật máy_tính trường đh công_nghệ_thông_tin ) đã thực_hiện hệ_thống định_vị thời_gian thật trên tàu phà sử_dụng tại huyện đảo cần_giờ .",
+        "hệ_thống định_vị tàu , bến và người dùng cho_biết chính_xác tàu đang ở đâu , cách bờ bao_xa , khi nào đến bờ , người dùng có kịp đến bến đón chuyến tàu tiếp_theo hay không ...",
+        "hệ_thống này bao_gồm nhiều module phát / nhận tín_hiệu gắn trên tàu , ở bốn bến và phần_mềm ứng_dụng trên điện_thoại_di_động …",
+        "anh lê_đức_thịnh , bí_thư đoàn trường , cho_biết : \" nhóm nghiên_cứu đã chạy thử hệ_thống trên xe_gắn_máy trong nội_ô , chuẩn_bị sau tết sẽ liên_hệ địa_phương , chủ tàu để chạy thử trên tàu ở cần_giờ .",
+        "ngoài_ra , chúng_tôi đang hoàn_chỉnh đề_án gửi doanh_nghiệp để họ tài_trợ dự_án xã_hội này , chi_phí 50-60 triệu đồng \" ."
+    ],
+    "image": [
+        "võ_ngọc_khang trình_diễn hệ_thống máy_tính đã được dạy về khung xương người - ảnh : k.n .",
+        "thiết_bị điện giao_tiếp với người dùng bằng ngôn_ngữ - ảnh : đ . a ."
+    ],
+    "label": [
+        2,
+        15,
+        18
+    ]
+}

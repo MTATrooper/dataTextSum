@@ -1,0 +1,35 @@
+{
+    "title": "hệ_thống thu phí không dừng tự_động nhưng chưa thông_minh",
+    "abstract": "ngoài những bất_hợp_lý đã nêu , trong thời_gian vừa_qua , hệ_thống thu phí không dừng ( tpkd ) chưa thông_minh , bộc_lộ sai_sót .",
+    "article": [
+        "lo xảy ra ùn ứ vì hệ_thống bị lỗi",
+        "tại các trạm đã lắp_đặt hệ_thống tpkd , thực_tế hoạt_động đã xảy ra khá nhiều lỗi khiến đơn_vị quản_lý trạm thu phí bot lo_lắng .",
+        "\" dù mới chỉ lắp_đặt 2 trong số 6 làn nhưng đã xảy ra nhiều lỗi khiến xe bị ùn ứ tại một_số thời_điểm trên làn tpkd .",
+        "nếu lắp hết tất_cả các làn , nguy_cơ xảy ra ùn ứ trạm thu phí do hệ_thống bị lỗi là có \" - lãnh_đạo một trạm thu phí bot ở miền tây nói .",
+        "ông nguyễn_sỹ_cường , trưởng trạm bot phụng_hiệp - cần_thơ ( tp cần_thơ ) , cho_rằng đơn_vị cung_cấp dịch_vụ tpkd cần khắc_phục những bất_cập trước khi triển_khai đại_trà .",
+        "cụ_thể , ông cường chỉ ra những lỗi thường xảy ra tại trạm thu phí của mình như : barie không mở hoặc đóng mở không ổn_định và đập vào xe , xe qua trạm 1 lần nhưng bị ghi_nhận 2 lần và bị trừ tiền oan hoặc ngược_lại xe qua trạm nhưng không ghi_nhận , có lúc hệ_thống trừ tiền không đúng ...",
+        "xe chạy tốc_độ nhanh khó nhận_diện thẻ",
+        "theo ông nguyễn_dũng_minh - trưởng trạm thu phí cầu phú_mỹ ( q. 2 - q. 7 ) , vetc - đơn_vị chủ_đầu_tư lắp_đặt hệ_thống tpkd - cho_rằng máy_chủ ở trạm thu phí vẫn nhận_diện được thẻ etag khi ôtô chạy với tốc_độ đến 60 km/h .",
+        "tuy_nhiên , trong thực_tế một_số tài_xế chạy tốc_độ 50-60 km/h vào làn tpkd mà máy lại không nhận_diện được thẻ .",
+        "việc xe chạy quá nhanh cũng dễ gây nguy_hiểm cho nhân_viên khi thao_tác các nghiệp_vụ ở trạm .",
+        "ngoài_ra , trong trường_hợp lái_xe dán thêm phim cách nhiệt lên kính khiến kính xe chắn gần_như toàn_bộ sóng ... trong khi thẻ dán ở các vị_trí khác nhau khiến máy_chủ không nhận_diện được thẻ .",
+        "theo một chuyên_gia về giao_thông , công_nghệ thu phí mà vetc thực_hiện chưa phải là công_nghệ_cao của tpkd .",
+        "chẳng_hạn , singapore cách đây hàng chục năm đã thu phí xe ra vào trung_tâm tp mà xe không cần phải dừng để thiết_bị thu phí ghi_nhận rồi mới mở barie như ở vn .",
+        "khắc_phục ngay tồn_tại \" khác hệ \"",
+        "hiện_nay trở_ngại lớn nhất đối_với người lái ôtô sử_dụng thẻ etag là chỉ được vào làn tpkd đối_với trạm thu phí trên quốc_lộ 1 nhưng không có tác_dụng khi qua trạm thu phí khác .",
+        "lý_giải điều này , một lãnh_đạo ở tổng_công_ty đầu_tư phát_triển đường_cao_tốc vn ( vec ) cho_biết do công_nghệ thu phí tự_động của đường_cao_tốc khác với công_nghệ trạm thu phí trên quốc_lộ 1 .",
+        "do_đó , muốn đồng_bộ thu phí trên quốc_lộ 1 đòi_hỏi phải bỏ hệ_thống thu phí trên cao_tốc để đầu_tư mới từ đầu .",
+        "một cán_bộ ngành giao_thông cho_rằng điều sai_lầm là ngay từ đầu bộ gtvt đã không đưa ra tiêu_chuẩn kỹ_thuật về công_nghệ tpkd để áp_dụng chung trong toàn_quốc .",
+        "hơn_nữa việc chỉ_định một đơn_vị độc_quyền về đầu_tư công_nghệ tpkd không tạo ra sự cạnh_tranh để cho các doanh_nghiệp trạm thu phí có sự lựa_chọn về công_nghệ tốt hơn và chi_phí thấp hơn .",
+        "vì_vậy , ngay từ đầu nhiều doanh_nghiệp trạm thu phí đã chần_chờ và không \" mặn_mà \" đầu_tư làn tpkd .",
+        "điều này dẫn đến chậm thực_hiện lộ_trình triển_khai tpkd của các cơ_quan thẩm_quyền ."
+    ],
+    "image": [
+        "thu phí không dừng tại trạm bot cam_thịnh ( khánh_hoà ) mới chỉ đạt 12 % - ảnh : m.trường"
+    ],
+    "label": [
+        7,
+        12,
+        2
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "giải_pháp “ né ” điểm kẹt xe",
+    "abstract": "vào cổng thông_tin giao_thông tp. hcm , người dùng có_thể tìm lộ_trình phù_hợp để tránh những điểm kẹt xe đang diễn ra .",
+    "article": [
+        "để cung_cấp thông_tin liên_tục cho cổng thông_tin này , anh nguyễn_trường_sang , chuyên_viên phòng quản_lý khai_thác hạ_tầng giao_thông đường_bộ ( sở giao_thông vận_tải tp. hcm ) , đã đề_xuất giải_pháp tích_hợp dữ_liệu .",
+        "anh vừa được thành_đoàn tp. hcm tuyên_dương giải_thưởng \" cán_bộ , công_chức , viên_chức trẻ giỏi thân_thiện \" năm 2018 .",
+        "tìm giải_pháp thay_thế",
+        "trong tình_trạng chưa_thể giải_quyết vấn_nạn kẹt xe tại tp. hcm thì việc hỗ_trợ người đi đường chọn được lộ_trình hợp_lý \" né \" những điểm ùn ứ nhiều xe_cộ cũng là cách góp_sức cho tp.",
+        "đó là những trăn_trở mà anh sang cùng đồng_nghiệp đề_xuất ban lãnh_đạo cho thực_hiện cổng thông_tin này .",
+        "anh sang cho_biết : \" việc ùn_tắc giao_thông là vấn_đề phức_tạp cần có nhiều giải_pháp phối_hợp .",
+        "trong đó phát_triển hệ_thống quản_lý giao_thông thông_minh là một trong những công_việc cần thực_hiện sớm .",
+        "cổng thông_tin tích_hợp dữ_liệu từ các camera giám_sát hành_trình , các thông_tin tiện_ích như bãi đậu xe , trạm xăng ... , tích_hợp lên bản_đồ số .",
+        "từ đó cung_cấp thông_tin , công_cụ nhằm nâng_cao khả_năng quản_lý , điều_hành giao_thông của tp \" .",
+        "quy_định hiện_nay , các xe kinh_doanh vận_tải đều phải gắn camera giám_sát hành_trình .",
+        "sang suy_nghĩ phải khai_thác triệt_để nguồn thông_tin từ các camera này .",
+        "và từ tính_toán phân_tích từ hơn 62.000 xe kinh_doanh vận_tải được chia_sẻ từ tổng_cục đường_bộ việt_nam , sang đã đề_xuất tích_hợp nội_dung thông_tin này vào phần_mềm xử_lý cho ra những thông_số chính_xác nhất về tình_trạng ùn ứ xe cục_bộ tại bất_kỳ điểm nào trên đường_phố .",
+        "ngoài_ra , thông_tin còn được tổng_hợp từ hơn 700 camera của sở quản_lý và các cơ_quan đơn_vị khai_thác đầu_tư quản_lý ...",
+        "cổng thông_tin giao_thông tp. hcm được chính_thức vận_hành vào đầu năm 2017 thông_qua ứng_dụng http://giaothong.hochiminhcity.gov.vn , ứng_dụng di_động trên hệ_điều_hành android và ios ( ttgt tp. hcm ) và hệ_thống chatbot trên nền_tảng mạng xã_hội zalo .",
+        "tăng độ tương_tác với người_dân",
+        "chị trần_thị_thuý_triều - một người thường_xuyên phải đi giao_nhận hàng - cho_biết chị đã tải app cổng thông_tin giao_thông về điện_thoại để xem tình_hình giao_thông một_cách nhanh nhất .",
+        "\" tôi thà chạy xa hơn một_chút nhưng lại nhanh hơn là lỡ đi vào đám kẹt xe rồi không_thể quay ra .",
+        "trước_đây , tôi nhiều lần rơi vào tình_huống \" trở đi mắc núi , trở_về mắc sông \" khi nhào vô đám kẹt xe cứng_ngắc .",
+        "bây_giờ tôi thường vào xem thông_tin giao_thông từ app này để chọn hướng đi thoáng và nhanh hơn \" - chị triều cho_hay .",
+        "trong cổng điện_tử này còn những thông_tin hữu_ích như 236 vị_trí bãi đậu xe trong các toà nhà , trung_tâm thương_mại , 125 nhà_vệ_sinh công_cộng , 577 trạm xăng , gần 1.500 trạm y_tế , bệnh_viện , thông_tin các công_trình rào_chắn thi_công ... ở tp. hcm .",
+        "ngoài_ra còn có thêm chức_năng hỗ_trợ tìm đường dựa vào điểm đầu và điểm cuối của lộ_trình .",
+        "đặc_biệt , phần_mềm còn tích_hợp cung_cấp chức_năng tra_cứu thông_tin về giấy_phép thi_công xây_dựng công_trình thiết_yếu trong phạm_vi bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ , tra_cứu giấy_phép lưu_thông vào khu_vực nội_đô tp , tra_cứu giấy_phép kinh_doanh thông_tin phù_hiệu , hợp_đồng vận_tải , thông_tin vi_phạm quy_định về trật_tự an_toàn giao_thông , giấy_phép lái_xe ...",
+        "\" nhờ những thông_tin tiện_ích này được đưa vào phần_mềm , không_chỉ cung_cấp thông_tin kịp_thời cho người_dân mà lực_lượng chức_năng cũng dễ_dàng tham_khảo khi cần_thiết , nhất_là trong việc xử_phạt các trường_hợp làm giả các loại giấy_phép \" - anh sang cho_hay .",
+        "qua nghiên_cứu các cách làm của thế_giới , anh sang còn đề_xuất và cùng cộng_sự xây_dựng để sản_phẩm này vận_hành thêm ứng_dụng tiếp_nhận thông_tin phản_ảnh sự_cố hạ_tầng giao_thông .",
+        "hơn 1.700 thông_tin đã được người_dân gửi về và kịp_thời được các khâu đảm_nhận xử_lý .",
+        "đến nay , cổng thông_tin giao_thông đã có hơn 4,1 triệu lượt truy_cập , hơn 154.000 lượt tải ứng_dụng và số_lượng sử_dụng thời_điểm cao nhất lên đến 4.000 người cùng sử_dụng / thời_điểm .",
+        "cũng đã có hơn 100.000 lượt quan_tâm trên ứng_dụng zalo ."
+    ],
+    "image": [
+        "anh nguyễn_trường sang giới_thiệu về cổng thông_tin giao_thông tp. hcm - ảnh : k.anh"
+    ],
+    "label": [
+        3,
+        0,
+        11
+    ]
+}

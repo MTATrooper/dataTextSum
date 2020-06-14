@@ -1,0 +1,35 @@
+{
+    "title": "thiết_bị phóng_xạ đầu_tiên được gắn định_vị",
+    "abstract": "hai bộ định_vị đã được lắp lên hai thiết_bị phóng_xạ di_động do tp hcm quản_lý . nếu thiết_bị phóng_xạ di_chuyển , thông_tin sẽ gửi về đơn_vị quản_lý .",
+    "article": [
+        "ngày 17/4 , đoàn cán_bộ sở khoa_học công_nghệ tp hcm đã đến công_ty apave - châu_á - thái_bình_dương ( tỉnh bà_rịa - vũng_tàu ) lắp 2 bộ định_vị lên thiết_bị chứa chất phóng_xạ .",
+        "đây là hai trong số 124 thiết_bị phóng_xạ di_động do sở quản_lý và là thiết_bị phóng_xạ đầu_tiên trên cả nước được gắn định_vị .",
+        "bộ định_vị được gắn vào thân thiết_bị chứa phóng_xạ của công_ty apave châu_á thái_bình_dương .",
+        "bộ định_vị có 2 phần là khung thép ( tuỳ kích_cỡ ) bo quanh thiết_bị chứa chất phóng_xạ và một hộp định_vị hình_chữ_nhật ( 5 x12 cm ) bằng nhựa chứa các vi_mạch điều_khiển .",
+        "thiết_bị này do trung_tâm nghiên_cứu chế_tạo thiết_kế vi_mạch ( icd_rec ) sản_xuất .",
+        "sau khi lắp_đặt , thiết_bị chứa phóng_xạ được sở khoa_học và công_nghệ quản_lý thông_qua phần mền do icd rec thiết_kế .",
+        "khi thiết_bị chứa phóng_xạ đứng yên , cứ 10 giờ định_vị sẽ gửi thông_tin về vị_trí , nồng_độ phóng_xạ một lần .",
+        "nếu thiết_bị di_chuyển , định_vị sẽ gửi thông_báo về phần_mềm quản_lý mỗi phút một lần .",
+        "giám_đốc idc rec ngô_đức_hoàng cho biết , có 2 loại định_vị .",
+        "loại thứ nhất có giá 5 triệu đồng nhưng chỉ_định vị được thiết_bị .",
+        "loại thứ 2 vừa định_vị vừa xác_định nồng_độ phóng_xạ có chi_phí 10 triệu đồng .",
+        "kinh_phí lắp_đặt cho 124 thiết_bị phóng_xạ ở tp hcm gần 2 tỷ đồng , do ubnd tp chi_trả .",
+        "“ ngoài_ra , khi di_chuyển , phần_mềm trực_tuyến cũng vẽ lại hành_trình của thiết_bị để quản_lý .",
+        "cùng một lúc , phần_mềm này có_thể quản_lý được 10.000 hoặc thậm_chí 50.000 định_vị ” , giám_đốc hoàng nói .",
+        "hộp nhựa chứa định_vị và các vi_mạch .",
+        "hộp định_vị được nghiên_cứu chế_tạo trong vòng 6 tháng , dựa trên con chip sg8v1 ( chip đầu_tiên của việt_nam do icd rec chế_tạo ) , hệ_thống gps , hệ_thống báo tin gsm / gprs , nguồn điện , đèn led ... pin của định_vị dùng khoảng một năm và dễ_dàng thay mới .",
+        "nếu bộ định_vị bị tháo rời khỏi thiết_bị hoặc có tác_động gỡ bỏ , hệ_thống lập_tức gửi cảnh_báo khẩn về trung_tâm để xử_lý .",
+        "sở khoa_học cho biết , từ nay đến cuối năm sẽ cho lắp định_vị lên 124 thiết_bị thường_xuyên phải di_chuyển trong tổng_số 200 thiết_bị chứa phóng_xạ .",
+        "trước đó , tháng 9/2014 , công_ty apave - châu_á - thái_bình_dương thất_lạc thiết_bị chứa phóng_xạ , được tìm thấy sau đó ít ngày .",
+        "gần đây , nguồn phóng_xạ co -60 tại nhà_máy luyện thép pomina 3 ( kcn phú mỹ i , huyện tân thành ) cũng bị thất_lạc nhưng vẫn chưa xác_định được dấu_vết .",
+        "duy_trần"
+    ],
+    "image": [
+        "bộ định_vị được gắn vào thân thiết_bị chứa phóng_xạ của công_ty apave châu_á thái_bình_dương ."
+    ],
+    "label": [
+        0,
+        7,
+        1
+    ]
+}

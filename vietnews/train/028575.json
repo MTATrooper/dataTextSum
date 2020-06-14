@@ -1,0 +1,32 @@
+{
+    "title": "nam sinh lớp 11 chế_tạo robot phụ việc nhà_nông",
+    "abstract": "thông_qua robot của đỗ_minh_huy , vị_trí , thông_tin cây_trồng và tình_hình bệnh trên cây sẽ được lưu_trữ để người nông_dân có cơ_sở , kịp_thời tiến_hành các biện_pháp trừ bệnh .",
+    "article": [
+        "chứng_kiến tình_trạng nông_sản của nước ta không được phép xuất_khẩu vì không đạt chuẩn , phải đổ đống khiến đời_sống nông_dân bị ảnh_hưởng nặng_nề , nam sinh đỗ_minh_huy ( lớp 11a5 trường thpt chuyên lê_quý_đôn , đà_nẵng ) đã nghĩ ra ý_tưởng chế_tạo robot theo_dõi và phát_hiện bệnh trên cây_trồng .",
+        "qua tìm_hiểu tình_hình an_ninh_lương_thực trên toàn_cầu , được biết mối đe_doạ từ sâu_bệnh hại là nguyên_nhân chính khiến chất_lượng nông_sản giảm .",
+        "từ tháng 7-2018 , huy bắt_tay vào chế_tạo một robot giúp người_dân dễ_dàng hơn trong việc phát_hiện bệnh trên cây_trồng để kịp_thời có những giải_pháp tối_ưu cải_thiện chất_lượng cây_trồng .",
+        "huy tự học và nghiên_cứu về công_nghệ \" deep learning \" và xử_lý ảnh , sau đó ứng_dụng vào việc phát_hiện bệnh trên cây qua hình_ảnh .",
+        "nhận_thấy việc lấy ảnh thủ_công của các cây trong nhà_kính để đưa vào hệ_thống tốn rất nhiều công_sức , huy ứng_dụng vào một hình_thức cao hơn là xe tự lái .",
+        "xe robot tự đi trong nhà_kính kết_hợp với camera có nhiệm_vụ ghi lại hình_ảnh cây bệnh rồi gửi về hệ_thống để xử_lý , sau đó báo lại tình_hình cho chủ_nhà kính .",
+        "thông_tin truyền về sẽ được xử_lý bởi hệ_thống lập_trình cho máy_chủ bằng trí_tuệ_nhân_tạo .",
+        "thông_qua robot , vị_trí , thông_tin cây_trồng và tình_hình bệnh trên cây sẽ được lưu_trữ để người nông_dân có cơ_sở , kịp_thời tiến_hành các biện_pháp trừ bệnh .",
+        "robot còn giúp kiểm_tra chính_xác hàm_lượng thuốc_trừ_sâu và theo_dõi lượng dinh_dưỡng của cây_trồng .",
+        "huy cho biết : \" người nông_dân thay_vì phải đi dò_dẫm kiểm_tra từng gốc cây thì chỉ cần cài_đặt rôbot , cung_cấp thông_tin về đường_dẫn của trang_trại , khởi_động các robot và truy_cập đọc thông_tin đã xử_lý để biết rõ tình_hình vườn hay thửa ruộng của mình \" .",
+        "robot này cũng được sử_dụng loại bánh_xích để dễ_dàng di_chuyển trong môi_trường bùn đất nhão hoặc mặt_bằng gập_ghềnh .",
+        "để đưa vào ứng_dụng trên đồng_ruộng thì chỉ cần thay_đổi một_vài chi_tiết cho robot hoạt_động phù_hợp .",
+        "huy cho_biết khó_khăn lớn nhất của mình là lượng công_việc và kiến_thức rất nhiều , đặc_biệt là phần nghiên_cứu trí_tuệ_nhân_tạo trên máy_tính .",
+        "vì lịch học khá dày nên bạn chỉ có_thể làm đề_tài vào buổi tối đến 1-2 h sáng khi đã chuẩn_bị xong hết bài cho ngày hôm sau .",
+        "suốt thời_gian dài , huy vừa chế_tạo vừa mang mô_hình robot đến nhiều trang_trại nhà_kính để thử_nghiệm và xin đánh_giá , góp_ý từ chính những chủ trang_trại .",
+        "anh hoàng , một chủ nhà_kính ở đà_nẵng nơi huy thử_nghiệm , đánh_giá : \" tuy mới học cấp iii nhưng huy đã chế_tạo được sản_phẩm khá thú_vị , có tính hiệu_quả cao , phát_hiện bệnh trên cây và vị_trí cây trong vườn chính_xác .",
+        "robot này có_thể tuỳ biến linh_hoạt phù_hợp với môi_trường vận_hành , dễ quản_lý và phát_triển thành sản_phẩm ứng_dụng thực_tế \" .",
+        "huy chia_sẻ : \" mình hi_vọng robot sẽ giúp nông_dân theo_dõi cây_trồng tốt hơn và ngăn_chặn dịch_bệnh kịp_thời , nâng_cao chất_lượng nông_sản , đẩy nhanh quá_trình đưa nông_sản vào các chuỗi nhà_hàng , siêu_thị , mang lại lợi_ích lớn về kinh_tế cho cộng_đồng \" .",
+        "đề_tài vừa đoạt giải nhất cuộc thi sáng_tạo khoa_học - kỹ_thuật tp đà_nẵng , giải ba cuộc thi sáng_tạo công_nghệ dành cho học_sinh thpt u - invent và đại_diện học_sinh đà_nẵng tham_dự cuộc thi khoa_học_kỹ_thuật cấp quốc_gia vào tháng 3 ."
+    ],
+    "image": [
+        "đỗ_minh_huy tự trồng , gây bệnh trên cây_trồng và điều_khiển robot dò bệnh thử_nghiệm - ảnh : bảo_nguyên"
+    ],
+    "label": [
+        7,
+        0
+    ]
+}

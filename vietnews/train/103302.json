@@ -1,0 +1,42 @@
+{
+    "title": "sân_bay nội_bài , tân_sơn_nhất bị tin_tặc tấn_công",
+    "abstract": "chiều nay , hàng_loạt màn_hình hiển_thị thông_tin chuyến bay cùng hệ_thống phát_thanh của sân_bay bất_ngờ bị chèn nội_dung kích_động , xuyên_tạc về biển_đông .",
+    "article": [
+        "khoảng 16h , tại sân_bay nội_bài , tân_sơn_nhất , nhiều hành_khách đang làm thủ_tục hốt_hoảng khi thấy các màn_hình thông_tin chuyến bay bất_ngờ thay_đổi .",
+        "trên màn_hình hiển_thị các thông_tin kích_động , xúc_phạm việt_nam và philippines , xuyên_tạc các nội_dung về biển_đông .",
+        "hệ_thống phát_thanh của sân_bay cũng phát đi những thông_điệp tương_tự .",
+        "sau khoảng 4 phút , nhà_chức_trách sân_bay đã tắt toàn_bộ hệ_thống âm_thanh , màn_hình .",
+        "cùng thời_điểm , trên website của hãng hàng_không việt_nam cũng bị thay_đổi nội_dung , đồng_thời đăng_tải thông_tin của hơn 400.000 thành_viên golden_lotus .",
+        "người dùng khi truy_cập vào địa_chỉ https://www.vietnamairlines.com , nhận được thông_báo website đã bị hack , nội_dung trang_chủ được thay_đổi hoàn_toàn .",
+        "trên trang xuất_hiện các ngôn_ngữ kích_động và để lại thông_tin rằng nhóm hacker 1937cn đã thực_hiện vụ tấn_công này .",
+        "phía cuối website có dẫn đường link đến pastebin.com , chia_sẻ ba liên_kết để tải về tập_tin excel .",
+        "file này nặng khoảng 100 mb , tập_hợp danh_sách trên 400 nghìn tài_khoản khách_hàng thành_viên của việt_nam_airlines , trong đó bao_gồm họ tên , ngày_sinh , địa_chỉ .",
+        "một_số thành_viên còn bị lộ chức_vụ , cơ_quan công_tác , số điện_thoại ... kiểm_tra nhanh của vnexpress với 10 tài_khoản thì các thông_tin trong đó là chính_xác .",
+        "các màn_hình thông_báo ở sân_bay nội_bài chiều nay đã tắt .",
+        "đến khoảng 17h30 , website của việt_nam_airlines ở địa_chỉ trên đã trở_về giao_diện bình_thường .",
+        "tuy_nhiên , tên_miền phụ http://glp.vietnamairlines.com/ cho thấy trang_web vẫn bị hack .",
+        "vietnam_airlines cho_hay trang mạng chính_thức của họ đã bị chiếm quyền domain và chuyển sang trang_web xấu ở nước_ngoài .",
+        "tới 17h45 đã được khôi_phục và đang được kiểm_soát chặt_chẽ , các hệ_thống công_nghệ_thông_tin và hệ_thống dữ_liệu của hãng hàng_không này cũng được cô_lập và kiểm_soát .",
+        "thứ_trưởng giao_thông vận_tải nguyễn_nhật cho biết , tin_tặc chỉ xâm_nhập được vào giao_diện màn_hình hiển_thị các thông_tin về chuyến bay của vietnam_airlines tại sân_bay nội_bài và tân_sơn_nhất , không xâm_nhập hệ_thống tra_cứu , đặt vé .",
+        "hệ_thống điều_hành bay , an_ninh của các sân_bay này vẫn hoạt_động bình_thường .",
+        "theo chuyên_gia bảo_mật nguyễn_hồng_phúc , với các thông_tin mà hacker đăng_tải , có khả_năng nhóm tin_tặc này đã truy_cập thành_công vào hệ_thống khách_hàng của việt_nam_airlines .",
+        "để hạn_chế tác_động , ông khuyến_cáo người dùng có tài_khoản golden_lotus cần đổi mật_khẩu ngay_lập_tức .",
+        "bộ giao_thông đã đề_nghị bộ công_an phối_hợp điều_tra , làm rõ nguyên_nhân .",
+        "giới_chức việt_nam chưa đưa ra bất_kỳ tuyên_bố nào về thủ_phạm vụ tấn_công trên vì \" cần thời_gian xác_minh \" .",
+        "tháng 5/2015 , đã có hơn 200 website của việt_nam bị các nhóm hacker đến từ trung_quốc tấn_công và để lại các thông_tin mang tính_chất khiêu_khích , trong đó phần_lớn đến từ nhóm 1937cn .",
+        "theo các chuyên_gia an_ninh , trang 1937cn.net được lập ra với mục_đích khiêu_khích tấn_công vào các website của việt_nam .",
+        "video cảnh chờ_đợi làm thủ_tục tại sân_bay nội_bài khi mạng nội_bộ tại đây đã bị cắt :",
+        "nhóm phóng_viên",
+        "video : độc_giả hùng_sơn"
+    ],
+    "image": [
+        "các màn_hình thông_báo ở sân_bay nội_bài chiều nay đã tắt .",
+        "hành_khách dồn ứ vì chưa_thể làm được thủ_tục bay .",
+        "sân_bay nội_bài đã xuất_hiện nhiều nhân_viên an_ninh ."
+    ],
+    "label": [
+        15,
+        1,
+        4
+    ]
+}

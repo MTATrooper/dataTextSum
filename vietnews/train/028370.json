@@ -1,0 +1,36 @@
+{
+    "title": "người việt chế robot sống nhỏ nhất thế_giới",
+    "abstract": "robot của nhóm tác_giả người việt nặng chỉ 1gr , dễ_dàng tiếp_cận các địa_hình phức_tạp hỗ_trợ công_tác tìm_kiếm cứu_hộ , thám_hiểm ...",
+    "article": [
+        "\" mượn xác \" bọ cánh cứng sống , nhóm nghiên_cứu robot lai tại trường đh công_nghệ nanyang ( singapore ) đã phát_triển loại côn_trùng lai máy thực_hiện nhiều di_chuyển chính_xác , độc_đáo , hướng đến phục_vụ công_tác dò_tìm cứu_hộ sau thiên_tai .",
+        "đứng đầu nhóm nghiên_cứu là giáo_sư hirotaka_sato , chuyên nghiên_cứu và phát_triển robot sống , cùng hai người việt_nam là ts võ_đoàn_tất_thắng , sinh_viên bùi_xuân_hiển và sinh_viên tan_yong_wen_melvin ( người singapore ) .",
+        "đề_tài được tài_trợ bởi nguồn quỹ startup của đh cn nanyang , bộ giáo_dục singapore và chương_trình nghiên_cứu cho sinh_viên đại_học .",
+        "trao_đổi với tuổi_trẻ , ts .",
+        "võ_đoàn_tất_thắng đang làm nghiên_cứu_sinh sau tiến_sĩ tại phòng_thí_nghiệm nghiên_cứu thiết_bị sinh_học ( biological_machine_laboratory ) , đh công_nghệ nanyang cho_biết : do nhận_thấy việc chế_tạo một con robot nhỏ như côn_trùng tốn nhiều thời_gian và chi_phí , nhóm đã \" mượn xác \" côn_trùng sống , kế_thừa lớp vỏ , hệ cơ và hệ thần_kinh tự_nhiên .",
+        "đây là robot sống nhỏ nhất hiện_giờ với kích_thước 2-2,5 cm , nặng 1gr ( kể_cả mạch điều_khiển và pin ) .",
+        "điều này giúp robot sống dễ_dàng thích_nghi địa_hình phức_tạp và giúp_ích cho công_tác thám_hiểm , tìm_kiếm của con_người .",
+        "hướng đến dòng robot lai tự vận_hành , nhóm đã gắn trên lưng bọ cánh cứng 1 mạch điều_khiển không dây , trên râu bọ có các điện_cực .",
+        "xung_điện được tạo ra để kích_thích các tế_bào thần_kinh trong râu côn_trùng , khởi_động phản_xạ tránh , làm nó di_chuyển theo hướng ngược chiều kích_thích .",
+        "khi kích_thích râu bên trái , con bọ sẽ rẽ sang phải và ngược_lại ; kích_thích cả hai râu sẽ làm nó lùi lại .",
+        "toàn_bộ linh_kiện để làm thiết_bị điều_khiển chỉ tầm khoảng 10 sgd , tức chỉ 160.000 đồng .",
+        "trong đoạn video do nhóm cung_cấp , đường đi màu đen thể_hiện thời_điểm con bọ di_chuyển tự_do , không có kích_thích .",
+        "đường màu đỏ là có kích_thích lên râu bên phải , đường màu xanh là có kích_thích lên râu bên trái , đường màu cam là cả hai râu .",
+        "về ảnh_hưởng của xung_điện lên sinh_vật , anh thắng cho_biết : \" chúng_tôi dùng xung_điện với điện_áp tương_đối thấp ( 2.5 v ) để kích_thích râu của con bọ .",
+        "khảo_sát cho thấy kích_thích đó không ảnh_hưởng đến sinh_hoạt bình_thường của sinh_vật mà chỉ làm nó di_chuyển theo hướng mình muốn khi kích_thích .",
+        "đây là những khả_năng cơ_bản quan_trọng để phát_triển bộ điều_khiển chuyển_động chính_xác cho robot sống , tiến tới phát_triển thế_hệ robot sống tự vận_hành \" .",
+        "\" chúng_tôi hi_vọng trong tương_lai , robot này có_thể len_lỏi dễ_dàng vào các khe hở nhỏ của đống đổ_nát khi có thiên_tai hay thảm_hoạ để giúp quá_trình tìm_kiếm nạn_nhân dễ_dàng và hiệu_quả hơn các loại robot thông_thường \" , anh thắng thêm .",
+        "hiện_giờ , bọ robot được điều_khiển_từ_xa , chưa phải tự_động nên chưa cần camera hay cảm_biến .",
+        "nhưng trong tương_lai , nếu muốn đưa robot sống vào thực_địa , phải trang_bị thêm cảm_biến để có_thể xác_định được vị_trí của nó .",
+        "để kích_thích cho bọ bay và bò theo ý_muốn , các nhà_khoa_học đã bắt_đầu nghiên_cứu từ năm 2007 ở đh california , berkeley và đến nay tại đh công_nghệ nanyang ( singapore ) .",
+        "\" với đề_tài này , nhóm tôi đã thành_công trong việc phát_triển loại robot trên bọ cánh cứng nhỏ , tìm ra được phương_thức điều_khiển mới , có_thể thay_đổi tốc_độ rẽ trái / phải cũng như làm con bọ đi lùi \" , anh thắng chia_sẻ ."
+    ],
+    "image": [
+        "nhóm tác_giả công_bố robot do nhóm nghiên_cứu - ảnh : nvcc .",
+        "robot lai nặng 1gr , giá chỉ 160.000 đồng - ảnh : nvcc"
+    ],
+    "label": [
+        6,
+        0,
+        5
+    ]
+}

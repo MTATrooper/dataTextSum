@@ -1,0 +1,28 @@
+{
+    "title": "mỹ phát_triển hệ_thống săn tàu ngầm dưới biển",
+    "abstract": "bộ quốc_phòng mỹ dự_kiến ứng_dụng công_nghệ định_vị_toàn_cầu dưới lòng biển để thực_hiện trinh_sát , tìm_kiếm tàu_ngầm đối_phương và dò thuỷ_lôi .",
+    "article": [
+        "hệ_thống này giúp tàu lặn không người lái hoạt_động hiệu_quả hơn .",
+        "cơ_quan nghiên_cứu các dự_án phòng_thủ tiên_tiến ( darpa ) trực_thuộc bộ quốc_phòng mỹ đang hợp_tác với bae systems để thử_nghiệm và triển_khai hệ_thống_định_vị_toàn_cầu ( gps ) dưới lòng biển , scout ngày 15/2 đưa tin .",
+        "hệ_thống định_vị dưới biển sâu ( posydon ) có khả_năng điều_phối tín_hiệu thuỷ_âm , gps và phao nổi để truyền thông_tin toạ_độ từ các thiết_bị lặn không người lái ( uuv ) tới trung_tâm chỉ_huy trên tàu_chiến , tàu_ngầm .",
+        "posydon sẽ hỗ_trợ quá_trình trinh_sát trong các nhiệm_vụ chiến_đấu , săn_tìm tàu_ngầm đối_phương và dò thuỷ_lôi .",
+        "darpa cho_biết hệ_thống này có_thể liên_tục thông_báo vị_trí một_cách chính_xác , không đòi_hỏi uuv phải nổi lên mặt_nước để cập_nhật tín_hiệu .",
+        "lin_haas , giám_đốc văn_phòng công_nghệ chiến_lược của darpa , cho_biết dự_án này phải đối_mặt với nhiều thử_thách vật_lý .",
+        "với hệ_thống gps truyền_thống , tốc_độ ánh_sáng là bất_biến , cho_phép họ tính khoảng_cách tới vật_thể tương_đối dễ_dàng .",
+        "nhưng tốc_độ tín_hiệu thuỷ_âm trong lòng biển là không cố_định , nó phụ_thuộc vào độ mặn và nhiệt_độ của nước .",
+        "hải_quân mỹ thử_nghiệm uuv trên biển",
+        "để xác_định khoảng_cách dựa vào tín_hiệu thuỷ_âm , các nhà_khoa_học phải xây_dựng mô_hình và công_thức đặc_biệt .",
+        "các thuật_toán mới cho_phép posydon định_vị uuv với sai_số thấp , giúp chúng tập_trung vào nhiệm_vụ , thay_vì phải đều_đặn nổi lên mặt_nước để thu tín_hiệu gps .",
+        "darpa khẳng_định posydon mới chỉ trong giai_đoạn phát_triển đầu_tiên , trong đó chủ_yếu là xây_dựng mô_hình hệ_thống .",
+        "trong giai_đoạn hai , một bộ thiết_bị sẽ được phát_triển , trước khi tạo nên hệ_thống hoàn_chỉnh trong giai_đoạn cuối .",
+        "tử_quỳnh"
+    ],
+    "image": [
+        "hệ_thống này giúp tàu lặn không người lái hoạt_động hiệu_quả hơn ."
+    ],
+    "label": [
+        1,
+        3,
+        5
+    ]
+}

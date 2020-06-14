@@ -1,0 +1,24 @@
+{
+    "title": "vietcombank cảnh_báo mã độc mới đánh_cắp thông_tin khách_hàng",
+    "abstract": "mã độc red_alert 2.0 tấn_công các ứng_dụng cài_đặt trên thiết_bị di_động sử_dụng hệ_điều_hành android , đặc_biệt ứng_dụng ngân_hàng trực_tuyến ( internet_banking , mobile_banking ) , mạng xã_hội … để lấy cắp thông_tin người dùng .",
+    "article": [
+        "tối 4/10 , nhiều khách_hàng đã nhận được thông_tin cảnh_báo của ngân_hàng tmcp ngoại_thương việt_nam ( vietcombank ) về loại mã độc red_alert 2.0 .",
+        "theo thông_tin cảnh_báo của cục an_toàn thông_tin , bộ thông_tin - truyền_thông , các chuyên_gia an_ninh thông_tin đã phát_hiện một loại mã độc mới có tên red_alert 2.0 .",
+        "red_alert 2.0 khi đã xâm_nhập vào thiết_bị sẽ có khả_năng giả_mạo các ứng_dụng ngân_hàng trực_tuyến và thay_đổi nội_dung của các ứng_dụng để lấy cắp các thông_tin truy_cập , thu_thập danh_sách liên_lạc .",
+        "ngoài_ra , nó còn chặn , nghe lén cuộc_gọi , xem nội_dung tin_nhắn trên điện_thoại .",
+        "red_alert 2.0 được nguỵ_trang dưới các ứng_dụng , file cài đặt ứng_dụng từ các nguồn cung_cấp không tin_cậy .",
+        "điển_hình , các ứng_dụng nổi_tiếng như whatsapp , viber ... từ cửa_hàng ứng_dụng không chính_thức của bên thứ ba , hoặc được tích_hợp dưới dạng bản cập_nhật flash player giả_mạo .",
+        "các file cài đặt ứng_dụng phát_tán tràn_lan trên mạng qua các hình_thức quảng_cáo , lừa_đảo khác : file dạng . apk cho android .",
+        "đặc_biệt đối_với các thiết_bị đã bẻ khoá ( jailbreak , root ) , mã độc càng dễ_dàng cài_đặt và hoạt_động mà không cần sự cho_phép từ phía người dùng .",
+        "để phòng_chống các nguy_cơ lây_nhiễm mã độc trên thiết_bị di_động nói_chung và đảm_bảo an_toàn khi sử_dụng dịch_vụ ngân_hàng điện_tử , vietcombank khuyến_nghị khách_hàng không cài_đặt và sử_dụng ứng_dụng từ các kho ứng_dụng thứ ba hoặc nguồn không rõ_ràng ngoài google_play_store và apple_app_store .",
+        "không sử_dụng các thiết_bị di_động đã bẻ_khoá ( jailbreak / root ) để truy_cập các dịch_vụ ngân_hàng điện_tử .",
+        "khách_hàng cài đặt ứng_dụng chống virus từ nhà_cung_cấp có uy_tín , cảnh_giác trước các câu_hỏi yêu_cầu cung_cấp thông_tin cá_nhân , thông_tin truy_cập dịch_vụ .",
+        "tuân_thủ các quy_định và khuyến_cáo mà vietcombank đã đưa ra để đảm_bảo an_toàn trong việc sử_dụng các dịch_vụ ngân_hàng điện_tử cũng như đảm_bảo quyền_lợi của khách_hàng ."
+    ],
+    "image": [],
+    "label": [
+        2,
+        7,
+        6
+    ]
+}

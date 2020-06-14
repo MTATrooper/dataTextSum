@@ -1,0 +1,35 @@
+{
+    "title": "có_thể chống kẹt xe bằng ' internet vạn_vật '",
+    "abstract": "đó là khẳng_định của ông maciej_kranz , tác_giả cuốn sách building the internet of things ( thiết_lập internet vạn_vật - iot ) , trong cuộc trò_chuyện với phóng_viên tuổi_trẻ nhân_dịp ông tới tp. hcm đầu tháng 10-2018 .",
+    "article": [
+        "lấy ví_dụ tp barcelona như một điển_hình thành_công trong việc ứng_dụng iot để bàn về câu_chuyện của tp. hcm , ông maciej_kranz nói : \" tôi tin hầu_hết các thành_phố đều có những vấn_đề chung như ùn_tắc giao_thông , bãi đậu xe , chiếu sáng hay thu_gom rác .",
+        "barcelona đã đi đầu từ năm 2015 để giải_quyết những chuyện đó .",
+        "chúng_tôi đã lắp_đặt hạ tầng mạng wifi trên toàn thành_phố .",
+        "không_chỉ để góp_phần giải_quyết các vấn_nạn đô_thị , iot còn được ứng_dụng cho việc chăm_sóc sức_khoẻ , chăm_sóc sức_khoẻ từ xa , giải_trí và nhiều lĩnh_vực khác \" .",
+        "* với các điều_kiện cụ_thể của tp. hcm , theo ông , đâu là những lĩnh_vực tiềm_năng chúng_tôi có_thể sớm ứng_dụng các công_nghệ này ?",
+        "- mới chỉ tới tp. hcm được hai ngày , nhưng tôi đã thấy mật_độ giao_thông ở đây rất lớn và thường_xuyên xảy ra tắc đường .",
+        "do_đó , ứng_dụng công_nghệ iot để giảm bớt ùn_tắc giao_thông cũng như giải_quyết việc vận_hành bãi đỗ xe là những chuyện có_thể thực_hiện .",
+        "thứ nữa là ứng_dụng iot trong hệ_thống đèn đường để giảm lượng điện tiêu_thụ thông_qua thiết_lập hệ_thống đèn và cảm_biến để đèn chỉ bật khi có xe và phương_tiện di_chuyển .",
+        "tương_tự cũng có_thể ứng_dụng với thu_gom rác .",
+        "* tôi thấy ông nhấn_mạnh nhiều lần việc muốn triển_khai iot thành_công dứt_khoát phải có sự ủng_hộ của các cấp lãnh_đạo cao nhất trong tổ_chức / cộng_đồng .",
+        "vấn_đề này quan_trọng như_thế_nào ?",
+        "- tôi tin rằng phần_lớn các nhân_tố thành_công cho iot không liên_quan tới công_nghệ , mà liên_quan tới tổ_chức của bạn , tới văn_hoá và những cách thực_hiện tốt nhất .",
+        "như tôi nhấn_mạnh , bạn phải có sự ủng_hộ của giám_đốc_điều_hành ( như ceo , coo ) vì khi áp_dụng bất_cứ công_nghệ mới nào bạn đều có_thể phạm sai_lầm , chắc_chắn có những người không muốn triển_khai công_nghệ đó .",
+        "về cơ_bản , bạn sẽ gặp rất nhiều trở_ngại .",
+        "lý_do thứ hai , việc triển_khai iot là một hành_trình .",
+        "tôi đã nói đó không_chỉ là một sự_kiện , một giải_pháp , một dự_án .",
+        "đó là việc tái thiết_kế cách vận_hành tổ_chức của bạn trong tầm nhìn bạn sẽ phải triển_khai trong thời_gian 5-10 năm với các dự_án liên_tục , và bạn cần có sự ủng_hộ của cấp quản_lý .",
+        "đây là một quá_trình dài_hạn .",
+        "với tầm nhìn đó , tôi tin nếu không có sự ủng_hộ từ cấp cao nhất , bạn sẽ thất_bại .",
+        "với quy_mô thành_phố , chẳng_hạn tại tp. hcm có nhiều quận khác nhau và nhiều cơ_quan , ban_ngành khác nhau , nếu không có sự ủng_hộ từ cấp lãnh_đạo cao nhất của mỗi tổ_chức này , hoặc mỗi nơi lại có một_cách thức triển_khai iot riêng của họ thì vấn_đề sẽ rất phức_tạp .",
+        "và vì việc triển_khai iot là một quá_trình nhiều năm , nên cần phải có sự ủng_hộ của ý_chí chính_trị ."
+    ],
+    "image": [
+        "ông maciej_kranz trao_đổi với một cộng_sự tại cisco - ảnh : nvcc"
+    ],
+    "label": [
+        0,
+        12,
+        4
+    ]
+}

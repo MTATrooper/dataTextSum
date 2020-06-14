@@ -1,0 +1,27 @@
+{
+    "title": "' thủ_phạm ' làm chết máy xe tay ga là thiết_bị báo khách của shop thời_trang",
+    "abstract": "trung_tâm tần_số vô_tuyến_điện khu_vực ii vừa chính_thức có thông_báo về nguyên_nhân gây nhiễu chìa_khoá thông_minh ( smartkey ) ôtô , xe_máy tại tỉnh tiền_giang do thiết_bị báo khách không dây .",
+    "article": [
+        "ngày 6-12 , sở thông_tin và truyền_thông tiền_giang cho_biết đã có kết_luận chính_thức về việc chìa_khoá thông_minh nhiều ôtô , xe_máy chạy trên đường lý_thường_kiệt , phường 4 , tp mỹ_tho , tỉnh tiền_giang bị nhiễu sóng trong nhiều ngày qua .",
+        "theo đó , ông lâm_minh_trung - phó giám_đốc trung_tâm tần_số vô_tuyến_điện khu_vực ii thuộc cục tần_số vô_tuyến_điện , bộ thông_tin và truyền_thông - đã ký văn_bản thông_báo về nguyên_nhân gây nhiễu smartkey ôtô , xe_máy tại tiền_giang là do thiết_bị báo khách không dây , chứ không phải camera không dây như thông_tin ban_đầu .",
+        "kết_quả đo_đạc của trung_tâm ii đã xác_định nguyên_nhân gây nhiễu là do thiết_bị báo khách không dây được đặt tại shop thời_trang elsa , số nhà 118 đường lý_thường_kiệt , tp mỹ_tho phát gần như liên_tục trên tần_số 433.9 mhz , trùng với tần_số của smartkey .",
+        "khi gỡ bỏ thiết_bị nói trên , hiện_tượng nhiễu chấm_dứt .",
+        "cũng theo phân_tích của trung_tâm ii , thiết_bị báo khách không dây gồm 2 bộ_phận là cảm_biến ( sử_dụng tia_hồng_ngoại ) và chuông báo được liên_lạc với bộ_phận cảm_biến bằng sóng_vô_tuyến ở tần_số 433.9 mhz .",
+        "khi có người đi qua , bộ_phận cảm_biến phát_hiện tín_hiệu , sau đó gửi tín_hiệu vô_tuyến truyền về bộ_phận chuông báo .",
+        "tại thời_điểm kiểm_tra , thiết_bị này đã phát tín_hiệu gần_như liên_tục , gây ra hiện_tượng nhiễu nói trên .",
+        "đại_diện của shop thời_trang elsa cho_biết thiết_bị đang bị lỗi ( chuông báo kêu liên_tục ) khoảng 10 ngày_nay nên đã tháo nguồn phần chuông báo .",
+        "đến 11h ngày 1-12 , tình_trạng gây nhiễu tại khu_vực nêu trên đã được khắc_phục hoàn_toàn .",
+        "trước đó , vào ngày 30-11 , sau khi nhận được thông_tin phản_ảnh của người_dân về việc xe tay ga , ôtô có gắn chìa_khoá thông_minh bị nhiễu sóng trên đoạn đường lý_thường_kiệt , sở thông_tin và truyền_thông đã nhanh_chóng phối_hợp với trung_tâm ii rà_soát , khoanh vùng , đo kiểm , xác_định nguồn gây nhiễu .",
+        "nghi_vấn ban_đầu do các camera không dây của shop thời_trang elsa nên sở thông_tin và truyền_thông đề_nghị chủ cửa_hiệu tạm_thời tháo_gỡ camera để tránh gây nhiễu .",
+        "tuy_nhiên , qua kết_quả đo_đạc của các thiết_bị chuyên_dụng của trung_tâm ii , nguyên_nhân gây can_nhiễu smartkey ôtô , xe_máy không phải do camera không dây , mà là thiết_bị báo khách không dây đặt tại shop thời_trang nói trên ."
+    ],
+    "image": [
+        "\" thiết_bị báo khách không dây ” gây nhiễu được đặt tại shop elsa - ảnh : hoài_thương .",
+        "nhiều xe_gắn_máy sử_dụng smartkey không khởi_động được ngày 30-11 - ảnh : hoài_thương"
+    ],
+    "label": [
+        1,
+        0,
+        4
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "hãng chip intel bị tố ưu_ái trung_quốc hơn chính_phủ mỹ",
+    "abstract": "sau loạt tai_tiếng về lỗi bảo_mật chip xử_lý , hãng công_nghệ intel lại bị tố thông_báo cho khách_hàng trung_quốc biết nhưng lại che_giấu chính_phủ mỹ .",
+    "article": [
+        "theo báo wall_street_journal , hãng intel được cho là đã thông_báo sớm cho một_số khách_hàng của họ về lỗi bảo_mật trong các chip xử_lý spectre và meltdown , nhưng lại chừa ... chính_phủ mỹ ra .",
+        "một_số khách_hàng biết thông_tin sớm từ intel là các doanh_nghiệp trung_quốc , dù hiện chưa có bằng_chứng cho thấy việc này gây hại đến lợi_ích của mỹ .",
+        "một người_phát_ngôn hãng intel giải_thích công_ty không kịp thông_báo cho tất_cả vì thông_tin bị lọt ra ngoài sớm hơn dự_kiến",
+        "nhưng người_ta nhận ra lý_do này còn \" thốn \" hơn .",
+        "nhà_báo zach_whittaker chỉ ra rằng intel đã phát_hiện lỗi trong chip xử_lý từ tháng 6-2017 , họ lên kế_hoạch công_bố vào ngày 9-1-2018 nhưng chỉ_định báo cho chính_phủ mỹ sớm trước một tuần .",
+        "\" đó là một mớ rác_rưởi hạng a \" - ông whittaker so_sánh đầy vẻ giận_dữ .",
+        "do thông_tin bị lọt ra ngoài sớm hơn 1 tuần , hãng intel đã phải chật_vật để thanh_minh .",
+        "thông_thường , các công_ty có_thể thông_báo sớm cho vài khách_hàng lớn và nhà_chức_trách về lỗi trước khi khắc_phục nhằm hạn_chế thiệt_hại đến mức tối_thiểu .",
+        "lỗi bảo_mật của chip meltdown và spectre đặ_biệt nguy_hiểm vì nó có_thể ảnh_hưởng hầu_hết người dùng , kết_quả là cần đến một nỗ_lực khổng_lồ để khắc_phục tất_cả hệ_thống máy_tính .",
+        "do tầm mức của vấn_đề , intel ở vào thế khó khi phải quyết_định thông_báo cho ai trước mà vẫn đảm_bảo thông_tin không lan rộng ra ngoài , gây nguy_cơ cho người dùng .",
+        "tuy_nhiên , dù gặp sự_cố với meltdown và spectre , báo_cáo doanh_thu quý 4 năm 2017 do intel vừa công_bố tuần trước đẩy cổ_phiếu của hãng này lên gần 10 % ."
+    ],
+    "image": [
+        "giám_đốc_điều_hành intel_brian_krzanich tại sự_kiện ces , las_vegas ngày 8-1 - ảnh : reuters"
+    ],
+    "label": [
+        0,
+        1,
+        2
+    ]
+}

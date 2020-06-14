@@ -1,0 +1,40 @@
+{
+    "title": "công_dân trẻ tiêu_biểu : nghiên_cứu tách tế_bào trong ảnh y_khoa",
+    "abstract": "ba tháng thực_tập ở mỹ , tôn_thất_vĩnh tiếp_cận hướng nghiên_cứu khá mới_mẻ , đề_xuất ý_tưởng và nhận kết_quả xuất_sắc cuộc_thi về tách tế_bào trong ảnh y_khoa tại hội_nghị hàng_đầu thế_giới về ứng_dụng tin_học trong y_khoa .",
+    "article": [
+        "phần_lớn tác_giả công_bố nghiên_cứu tham_dự cuộc_thi trong khuôn_khổ hội_nghị này đều có trình_độ thạc_sĩ trở lên .",
+        "nhưng tác_giả đề_xuất phương_pháp mới tách các tế_bào trong ảnh y_khoa lại là sinh_viên việt_nam : tôn_thất_vĩnh - lớp cử_nhân tài_năng ngành công_nghệ_thông_tin trường đh khoa_học_tự_nhiên ( đh quốc_gia tp. hcm ) .",
+        "dấu_ấn quan_trọng",
+        "vĩnh chỉ có ba tháng để làm_quen , nghiên_cứu đề_xuất phương_pháp mới , trong kỳ thực_tập tại phòng nghiên_cứu của gs đỗ_ngọc_minh ở đh uiuc ( university of illinois at urbana - champaign ) , mỹ .",
+        "vĩnh được gs minh đánh_giá cao ở kiến_thức nền và tiềm_năng nghiên_cứu khi bắt_đầu tham_gia nghiên_cứu và là đồng_tác_giả bài báo khoa_học công_bố tại hội_nghị cvpr ( computer_vision & pattern_recognition ) 2017 và 2018 , một trong những hội_nghị hàng_đầu thế_giới về thị_giác máy_tính .",
+        "vì là hướng nghiên_cứu mới , chưa từng tiếp_cận trong nước , vĩnh phải dành nhiều thời_gian bổ_sung kiến_thức và thường_xuyên trao_đổi với cộng_sự là ts ben_chidester - đh_cmu ( carnegie_mellon_university ) .",
+        "những nỗ_lực ấy đã được đền_đáp xứng_đáng .",
+        "thành_quả nghiên_cứu được công_bố tại hội_nghị hàng_đầu về ứng_dụng tin_học trong y_khoa , xếp thứ 11 trong gần 40 kết_quả của nhiều trường danh_tiếng đến từ mỹ , đức , anh , trung_quốc , ấn_độ , áo ...",
+        "từ ảnh chụp mô bệnh học , qua nghiên_cứu được đề_xuất sẽ cho_phép tăng độ_chính_xác trong việc đếm số tế_bào thuộc các loại tế_bào khác nhau .",
+        "vĩnh nói máy_tính phân_tích ảnh đếm số_lượng tế_bào , có_thể giúp theo_dõi quá_trình thuốc tác_động trong điều_trị ung_thư để điều_chỉnh lượng thuốc phù_hợp .",
+        "\" đây là hướng nghiên_cứu tiềm_năng và có ý_nghĩa quan_trọng , kết_quả nghiên_cứu có_thể hỗ_trợ thêm cho các chuyên_gia y_khoa trong chẩn_đoán và điều_trị bệnh từ các ảnh y_khoa \" - pgs.ts trần_minh_triết ( phó hiệu_trưởng trường đh khoa_học_tự_nhiên ) nhận_xét .",
+        "vĩnh còn được nhắc đến với việc tham_gia nghiên_cứu về bài_toán phân_đoạn thực để tách các đối_tượng trong video .",
+        "kết_quả đã công_bố rất có ý_nghĩa trong việc xây_dựng các hệ_thống camera thông_minh phục_vụ giám_sát giao_thông tự_động , hệ_thống bảo_vệ với camera an_ninh giúp phát_hiện những hành_vi , sự_kiện bất_thường , hệ_thống phân_tích hỗ_trợ xe tự lái ...",
+        "đam_mê nghiên_cứu",
+        "vĩnh nhận ra niềm đam_mê tìm_tòi , khám_phá kiến_thức mới khi làm_quen với môn_học phương_pháp nghiên_cứu khoa_học .",
+        "cậu sinh_viên năm thứ hai lúc ấy nhận được sự hướng_dẫn của pgs.ts trần_minh_triết và ts lê_trung_nghĩa ( viện tin_học quốc_gia nhật_bản ) , không_chỉ học được phương_pháp giải_quyết các bài_toán trong nghiên_cứu mà_còn dần mở cánh cửa bước vào thế_giới kiến_thức về thị_giác máy_tính và máy học đầy hấp_lực .",
+        "dù đang là sinh_viên năm cuối , hành_trang anh_chàng đã sở_hữu sáu bài báo khoa_học tại các hội_nghị khoa_học quốc_tế về lĩnh_vực thị_giác máy_tính .",
+        "trong đó vĩnh là tác_giả chính hai bài , đồng_tác_giả bốn bài cùng nhóm nghiên_cứu , tập_trung ở ba chủ_đề chính : phân_đoạn đối_tượng trong video và ảnh y_khoa , dự_đoán vận_tốc xe trong camera giao_thông , truy_vấn mô_hình ba chiều .",
+        "suốt ba tháng ở mỹ , vĩnh chỉ dám dành đúng hai ngày cuối trước khi kết_thúc kỳ thực_tập trở_về việt_nam để đi chơi , lên chicago cho_biết \" nước mỹ là thế_nào \" !",
+        "những ngày còn lại , hầu_như anh chỉ biết mỗi con_đường từ nơi trọ đến phòng lab , làm_bạn với chiếc máy_tính .",
+        "điều này cũng không khá hơn là mấy khi suốt gần bốn năm trọ học tại tp. hcm , con_đường vĩnh rành nhất , đi nhiều nhất cũng chính là từ phòng trọ đến trường .",
+        "\" không biết đi chơi là gì ? \"",
+        "- tôi hỏi .",
+        "vĩnh phân_trần : \" cũng có chạy xe ra chợ bến_thành , nhà_thờ đức_bà mà ! \" .",
+        "nhưng có_lẽ nhờ vậy_mà con_đường nghiên_cứu và làm khoa_học đang mở ra dẫu không thiếu thách_thức nhưng có_thể nhìn thấy cơ_hội nhiều hơn với anh_chàng ốm ròm này ."
+    ],
+    "image": [
+        "tôn_thất_vĩnh ( trái ) trao_đổi cùng thầy hướng_dẫn - pgs.ts trần_minh_triết - ảnh : q. l .",
+        "tôn_thất_vĩnh ( phải ) chia_sẻ cùng khách tham_quan về nghiên_cứu của mình và cộng_sự tại hội_nghị về thị_giác máy_tính tại mỹ năm 2018 - ảnh : m.triết"
+    ],
+    "label": [
+        7,
+        1,
+        3
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "việt_nam đứng vị_trí thứ 6 trên toàn_cầu về nguồn tấn_công ddos",
+    "abstract": "việt_nam đang đứng trước nguy_cơ lớn bị tấn_công và phát_tán tấn_công từ_chối dịch_vụ ( ddos ) với vị_trí thứ 6 trên toàn_cầu . xuất_hiện xu_hướng tấn_công ddos mới \" bit - and - piece \" .",
+    "article": [
+        "đó là những thông_tin được các chuyên_gia chia_sẻ tại hội_thảo \" bảo_vệ mạng và dữ_liệu khỏi các cuộc tấn_công ddos nhằm vào các tổ_chức , doanh_nghiệp \" - lần đầu_tiên được tổ_chức tại việt_nam do cục an_toàn thông_tin , báo_vietnamnet , thuộc bộ thông_tin và truyền_thông kết_hợp với nexusguard_limited tổ_chức tại hà_nội ngày 3-5 .",
+        "ông donny_chong , đến từ nexusguard cho_biết : theo báo_cáo nguy_cơ quý 4 năm 2018 của nexusguard , những số_liệu thống_kê cho thấy một vị_trí đáng quan_ngại của việt_nam trong bức tranh tấn_công ddos toàn_cầu .",
+        "\" cụ_thể , việt_nam đứng vị_trí thứ 6 trên toàn_cầu về nguồn tấn_công ddos trên toàn_cầu sau trung_quốc , mỹ , pháp , nga và brazil \" - ông chong chia_sẻ thông_tin - \" việt_nam đứng thứ vị_trí thứ 2 trong khu_vực châu_á thái_bình_dương về nguồn tấn_công ddos với tỷ_lệ 9.52 % sau trung_quốc , trên cả vị_trí của ấn_độ và indonesia \" .",
+        "báo_cáo của nexusguard đã tiết_lộ sự xuất_hiện của hình_thức tấn_công ( ddos ) phân_tán vô_cùng lén_lút nhắm vào các nhà_cung_cấp dịch_vụ truyền_thông ( csp ) ví_dụ : như các nhà_mạng viễn_thông , công_ty cung_cấp dịch_vụ internet và trung_tâm dữ_liệu .",
+        "cách tấn_công mới này khai_thác tấn_công ở cấp_độ số_hiệu mạng asn của các nhà csp ( thay_vì tấn_công vào một hệ_thống thông_tin cụ_thể như tấn_công ddos thông_thường ) bằng cách truyền lưu_lượng tấn_công nhỏ qua hàng trăm địa_chỉ ip ( giao_thức internet ) để tránh bị phát_hiện .",
+        "hình_thức tấn_công mới được thiết_kế tránh bị phát_hiện và đã được đặt tên là cuộc tấn_công \" bit - and - piece \" .",
+        "hậu_quả của hình_thức tấn_công này không_chỉ ảnh_hưởng tới mạng_lưới của nhà_cung_cấp dịch_vụ csp mà_còn ảnh_hưởng tới các cơ_quan chính_phủ và doanh_nghiệp trên mạng_lưới này , gây ra việc chậm_trễ trong tiếp_cận dịch_vụ và có_thể làm cho mạng_lưới bị sập .",
+        "ngoài_ra các chuyên_gia của nexusguard đã cập_nhật những nguy_cơ tấn_công ddos mới nhất trong bối_cảnh ngày_càng gia_tăng và áp_dụng các thiết_bị kết_nối iot , cũng như giải_pháp ngăn_chặn cuộc tấn_công ddos gây thiệt_hại cho các nhà_cung_cấp dịch_vụ và dòng dữ_liệu ...",
+        "cũng tại hội_thảo , nexusguard đã công_bố các doanh_nghiệp việt_nam bị tấn_công từ_chối nhiều nhất ( tính từ 1-1 đến hết ngày 15-4 ) là vnpt , viettel , fpt , vietnamobile ...",
+        "ông nguyễn_huy_dũng , quyền cục_trưởng cục an_toàn thông_tin của bộ t t&t t , cho_biết theo số_liệu thống_kê từ trung_tâm giám_sát an_toàn không_gian mạng quốc_gia thuộc cục an_toàn thông_tin cho thấy , từ giữa năm 2018 cho đến hết quý 1 năm 2019 , khi các giải_pháp đảm_bảo an_toàn , an_ninh mạng được quyết_liệt triển_khai , số_lượng các cuộc tấn_công mạng dẫn đến sự_cố đã giảm so với giai_đoạn trước .",
+        "đặc_biệt số cuộc tấn_công mạng nhằm vào các hệ_thống thông_tin tại việt_nam và số địa_chỉ ip việt_nam nằm trong các mạng máy_tính ma đã tiếp_tục giảm mạnh trong quý 1 năm 2019 ."
+    ],
+    "image": [
+        "tỷ_lệ nguồn tấn_công từ số_hiệu mạng việt_nam đứng thứ 4 , với tỷ_lệ 2.29 % , chỉ đứng sau mỹ , trung_quốc và pháp , chuyên_gia của nexusguard cho_biết tại cuộc hội_thảo - ảnh : t.hà"
+    ],
+    "label": [
+        2,
+        5,
+        3
+    ]
+}

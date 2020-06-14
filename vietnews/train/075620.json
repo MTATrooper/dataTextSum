@@ -1,0 +1,25 @@
+{
+    "title": "sinh_viên chế_tạo robot mátxa , giành giải nhất nghiên_cứu khoa_học",
+    "abstract": "robot mátxa có tên massage_bot - sản_phẩm của thầy_trò trường đh sư_phạm kỹ_thuật tp. hcm - mới_đây đã giành giải nhất giải_thưởng sinh_viên nghiên_cứu khoa_học 2018 .",
+    "article": [
+        "sản_phẩm được ban tổ_chức đánh_giá sáng_tạo và có tính ứng_dụng cao .",
+        "máy gồm 1 giường , 2 cánh_tay robot , 1 camera ở phía trên và 1 hệ_thống điều_khiển sử_dụng trí thông_minh nhân_tạo .",
+        "khi người sử_dụng nằm sấp lên giường , camera sẽ chụp hình phần lưng và đưa vào phần_mềm xử_lý ảnh để cho ra chiều dài , chiều rộng của lưng cùng toạ_độ cột_sống .",
+        "sau đó , kết_hợp với các thông_tin về độ tuổi , giới_tính , trí thông_minh nhân_tạo của robot sẽ tính_toán được vị_trí các huyệt đạo trên cơ_thể .",
+        "\" nhóm chúng_tôi phải tìm_hiểu về y_học cổ_truyền và dựa vào nhân_trắc_học để xác_định huyệt đạo ở từng người cụ_thể \" - nguyễn_trần_thanh_phong , một trong những sinh_viên thực_hiện dự_án massage_bot , cho_biết .",
+        "tiếp_theo , robot dựa vào hồ_sơ bệnh_án để lựa_chọn bài mátxa phù_hợp với người sử_dụng .",
+        "hiện_nay nhóm đã phát_triển được 3 bài bao_gồm viêm cơ lưng , nhức mỏi lưng và bệnh về đau vai mỏi cổ , mỗi bài dài từ 20-25 phút .",
+        "trên đầu 2 tay robot có gắn 1 cảm_biến lực để xác_định người sử_dụng có đau hay không với lực tác_động của máy để điều_chỉnh cho thích_hợp .",
+        "đồng_thời , camera liên_tục bám sát cơ_thể và thông_qua phần_mềm xử_lý ảnh giúp máy mátxa đúng chỗ dù cho người dùng dịch_chuyển toạ_độ .",
+        "cuối_cùng , robot sẽ lưu lại thông_tin bệnh_án và lịch_sử mátxa thông_qua vạn_vật kết_nối để người sử_dụng có_thể dễ_dàng truy_cập xem tình_hình điều_trị và giúp chính robot chọn phương_pháp thích_hợp cho lần sau ."
+    ],
+    "image": [
+        "nhóm sinh_viên chế_tạo robot mátxa - ảnh : n.t . t .",
+        "tổng_thể con robot mátxa của sinh_viên - ảnh : n.t . t ."
+    ],
+    "label": [
+        4,
+        7,
+        0
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "dùng trí_tuệ_nhân_tạo ' chữa ' bệnh ung_thư",
+    "abstract": "có hàng triệu bệnh_nhân ung_thư khi ứng_dụng vào kho dữ_liệu nhân_tạo của mỹ , trí_tuệ_nhân_tạo sẽ phân_tích và gợi_ý hướng điều_trị .",
+    "article": [
+        "việc dùng bộ dữ_liệu lớn để bác_sĩ điều_trị có thêm gợi_ý về phác_đồ điều_trị hoàn_toàn không phải là chuyện cao_siêu , xa_lạ , mà đã và đang được áp_dụng ngay tại vn .",
+        "điều_trị ung_thư bằng trí_tuệ_nhân_tạo",
+        "trước tết năm 2018 , bệnh_viện đa_khoa tỉnh phú_thọ là cơ_sở y_tế đầu_tiên đưa bộ dữ_liệu gồm 1,5 triệu hồ_sơ bệnh_án của bệnh_nhân ung_thư mỹ vào dùng tại phòng_khám - tư_vấn sử_dụng trí_tuệ_nhân_tạo điều_trị ung_thư .",
+        "ông trần_quý_tường , cục_trưởng cục công_nghệ_thông_tin , bộ y_tế , khá mừng_rỡ cho_biết có rất nhiều lợi_ích khi áp_dụng bộ dữ_liệu như_vậy trong chẩn_đoán và điều_trị bệnh ở vn .",
+        "theo ông tường , ngay khi nhập thông_tin được bệnh_nhân mô_tả về tình_hình bệnh , kết_hợp với các phương_tiện xét_nghiệm vào máy , hệ_thống phần_mềm sẽ cho ra 10-100 gợi_ý chẩn_đoán và phác_đồ điều_trị mới nhất cho bệnh_nhân , các phác_đồ đó đều là phác_đồ mới nhất áp_dụng tại mỹ .",
+        "\" thông_thường nếu bác_sĩ chưa thật chắc_chắn về chẩn_đoán của mình , bác_sĩ có_thể phải liên_lạc với các thầy , các chuyên_gia trong và ngoài nước để xem chẩn_đoán phác_đồ của mình đã thật chuẩn chưa , nhưng khi có bộ dữ_liệu với số bệnh_án lớn như_thế_này thì bác_sĩ có ngay những gợi_ý trước khi quyết_định .",
+        "ví_dụ biểu_hiện thông_thường của viêm phổi là ho , sốt , khó thở và cho các thuốc cụ_thể là x , y , nhưng nếu biểu_hiện và xét_nghiệm của bệnh_nhân là viêm phổi mà bác_sĩ có chẩn_đoán khác và cho thuốc lạ là thiết_bị sẽ hỏi lại ngay \" - ông tường cho biết .",
+        "ông tường cũng cho_rằng dịch_vụ y_tế có nhiều tiềm_năng ứng_dụng trí_tuệ_nhân_tạo , hiện các kỹ_thuật như chụp ct , mri , robot phẫu_thuật hay sử_dụng bộ dữ_liệu để hỗ_trợ quyết_định như tại bệnh_viện đa_khoa tỉnh phú_thọ đều là ứng_dụng trí_tuệ_nhân_tạo .",
+        "đến kê đơn qua ... giọng nói",
+        "chuyện tưởng như rất xa_lạ này lại có_thể được áp_dụng trong tương_lai không xa tại vn .",
+        "theo bác_sĩ vũ_mạnh_tiến - một chuyên_gia về công_nghệ_thông_tin trong y_tế , trong khảo_sát vừa_qua đa_số bệnh_viện t.ư ở vn đang đạt chỉ_số ứng_dụng công_nghệ_thông_tin ở mức 4-5 , bệnh_viện tỉnh mức 3 và bệnh_viện huyện mức 2 , trong khi nếu bệnh_viện này đạt mức 6-7 là đạt tiêu_chuẩn bệnh_viện thông_minh .",
+        "điều đó cho thấy bệnh_viện ở vn đang tiến gần tới tiêu_chuẩn bệnh_viện thông_minh và có cơ_hội áp_dụng mô_hình này .",
+        "bs tiến cho_biết nếu đạt tiêu_chuẩn bệnh_viện thông_minh , bác_sĩ có_thể kê đơn thuốc qua giọng nói và không cần phải kê đơn bằng cách ghi ra giấy , các phần_mềm hiện có có_thể hiểu giọng nói và có_thể hiểu yêu_cầu bằng tiếng việt .",
+        "ngay sau khi bác_sĩ kê đơn qua giọng nói , phần_mềm sẽ lục tung bộ dữ_liệu đang lưu_trữ để xem các bác_sĩ giỏi cho đơn thuốc trong trường_hợp bệnh_lý tương_tự đó như_thế_nào , đồng_thời có phản_hồi với bác_sĩ trong trường_hợp chi_phí thuốc quá cao hoặc thuốc chưa phù_hợp .",
+        "trong ngành y , ngành chữa con_người tức_là chữa_trị trong từng trường_hợp bệnh_nhân cụ_thể , nhưng những ứng_dụng công_nghệ để bác_sĩ có_thể xem phác_đồ điều_trị của bệnh_nhân tương_tự trên thế_giới , hoặc phản_hồi cho bác_sĩ nếu chi_phí thuốc đó cao , thuốc không có ở thị_trường vn hay có tương_tác với thuốc khác trong cùng đơn thuốc là một ứng_dụng rất hay và cần_thiết ."
+    ],
+    "image": [
+        "phẫu_thuật cho bệnh_nhân ở bệnh_viện k. sắp tới đây bệnh_viện k cũng sẽ ứng_dụng trí_tuệ_nhân_tạo vào khám và điều_trị cho bệnh_nhân"
+    ],
+    "label": [
+        2,
+        4,
+        7
+    ]
+}

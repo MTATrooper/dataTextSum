@@ -1,0 +1,26 @@
+{
+    "title": "facetime gặp lỗi cho_phép nghe lén người khác",
+    "abstract": "cnn đưa tin vừa phát_hiện một lỗi nghiêm_trọng của ứng_dụng facetime trên iphone , cho_phép người gọi nghe được âm_thanh và thậm_chí có_thể nhìn qua camera phía trước của người nhận cuộc_gọi cho_dù người đó chưa bắt máy .",
+    "article": [
+        "lỗi ứng_dụng này được phát_hiện bởi chuyên_trang công_nghệ 9to5mac vào hôm_qua , 28-1 , và sau đó nhanh_chóng lan_truyền trên các trang mạng xã_hội .",
+        "cnn cũng xác_nhận thực_sự có lỗi này trong nhiều bài kiểm_tra độc_lập .",
+        "trong phát_biểu mới nhất , apple cho_biết đang tìm cách khắc_phục và sẽ phát_hành bản vá lỗi trong lần cập nhập phần_mềm gần nhất vào tuần sau .",
+        "lỗi cho_phép nghe lén người khác xuất_hiện trên iphone và ipad chạy ios 12.1 , và máy bàn apple chạy phiên_bản macos_mojave .",
+        "khi người dùng bật facetime và gọi cho người khác , vuốt lên trên rồi chọn thêm người vào_cuộc gọi , sau đó tự thêm số điện_thoại của chính mình vào .",
+        "người thực_hiện cuộc_gọi có_thể nghe được âm_thanh từ máy người nhận cuộc_gọi , mặc_dù người đó chưa bắt máy .",
+        "trên màn_hình không có dấu_hiệu nào cho thấy cuộc_gọi đã được kết_nối .",
+        "trong một_vài trường_hợp , người gọi có_thể nhìn qua camera trước của người nhận nếu họ bấm nút volume để tắt tiếng cuộc_gọi .",
+        "trang 9to5mac khuyên để tránh bị nghe lén thông_qua cách này , hãy tắt ứng_dụng facetime trên thiết_bị và chờ cho đến khi bản cập_nhật phần_mềm mới được tung ra .",
+        "để tắt facetime trên iphone và ipad , bạn bấm vào settings ( cài_đặt ) - > vuốt xuống dưới rồi chọn facetime .",
+        "sau đó tắt nút xanh ghi facetime ở trên đầu màn_hình .",
+        "để tắt facetime trên máy mac , mở ứng_dụng facetime và chọn nút \" turn_facetime_off \" ( tắt_facetime ) ở phía trên cùng màn_hình ."
+    ],
+    "image": [
+        "facetime gặp lỗi nghiêm_trọng cho_phép nghe lén người dùng khác thông_qua tính_năng gọi nhóm - ảnh : 9to5mac"
+    ],
+    "label": [
+        5,
+        7,
+        0
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "đoán ảnh thời trẻ của các tổng_thống mỹ",
+    "abstract": "hãy cùng xem ảnh thời trai_trẻ của các tổng_thống mỹ và đoán tên của họ .",
+    "article": [
+        "câu 1 : chàng_trai 19 tuổi này là ai ?",
+        "( chọn câu trả_lời chính_xác )",
+        "barack_obama",
+        "ronald_reagan",
+        "george_w._bush 4 .",
+        "george_h._w._bush",
+        "ảnh : wiki",
+        "phương_vũ"
+    ],
+    "image": [
+        "ảnh : wiki"
+    ],
+    "label": [
+        6
+    ]
+}

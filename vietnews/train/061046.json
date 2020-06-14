@@ -1,0 +1,30 @@
+{
+    "title": "cách tính thuế của nhà chung_cư nội_thành hà_nội",
+    "abstract": "theo dự_thảo luật_thuế_tài_sản , bộ tài_chính đề_xuất bóc tách phần đất và phần nhà ( đã xây ) riêng khi xác_định mức thuế phải nộp . vì_vậy , một ngôi nhà , dù là nhà_đất hay chung_cư , đều phải chịu cả thuế đất lẫn thuế nhà . vậy so với cách tính cũ thì mức giá chênh_lệch nhau thế_nào ?",
+    "article": [
+        "một căn_hộ chung_cư 80m2 trên đường hoàng_đạo_thuý ( thanh_xuân ) , giá đất thành_phố quy_định 39 triệu / m2 , không có tầng hầm và cao 25 tầng .",
+        "nếu tính thuế đất cho nhà chung_cư theo thông_tư 153/2011 của bộ tài_chính ( đang có hiệu_lực ) thì tính theo công_thức :",
+        "số thuế phải nộp = số thuế phát_sinh - số thuế được miễn , giảm ( nếu có )",
+        "số thuế phát_sinh = diện_tích nhà của từng tổ_chức , hộ gia_đình , cá_nhân x hệ_số phân_bổ x giá của 1m2 đất tương_ứng x thuế_suất .",
+        "trong đó hệ_số phân_bổ = diện_tích đất xây_dựng nhà nhiều tầng nhiều hộ ở , nhà chung_cư ( tổng diện_tích nhà của các tổ_chức , hộ gia_đình , cá_nhân sử_dụng là 80x25 tầng = 2000 ) .",
+        "theo điểm b , khoản 1 , điều 7 , thông_tư 153/2011 thì đất ở nhà nhiều tầng nhiều hộ ở , nhà chung_cư , công_trình xây_dựng dưới mặt_đất áp_dụng mức thuế_suất 0,03 % .",
+        "số thuế phát_sinh = 80 x 2000 x 39 x 0.03 = 187 nghìn đồng .",
+        "nếu không có thuế miễn_giảm thì con_số 187 nghìn đồng giữ nguyên .",
+        "nếu tính số thuế phải nộp đối_với nhà chung_cư theo dự_thảo luật mới thì số thuế phải nộp = thuế đất + thuế nhà .",
+        "trong đó , thuế đất nhà chung_cư = diện_tích đất tính thuế x giá đất x thuế_suất ( thuế_suất với diện_tích để ở là 0,2 ) .",
+        "thì chủ căn_hộ phải nộp thuế đất : 80 x 0,2 x 39 x 0,4 % = 2,496 triệu đồng / năm .",
+        "đối_với phần nhà , số tiền phải nộp theo dự_thảo = { ( diện_tích x suất vốn đầu_tư ) - 700 } x thuế_suất .",
+        "suất vốn đầu_tư được bộ xây_dựng quy_định của nhà chung_cư 25 tầng với mỗi m2 sàn là 11,35 triệu đồng .",
+        "giá tính thuế của căn_hộ là 80 x 11,35 = 908 triệu đồng .",
+        "khi đó , áp_dụng mức thuế_suất 0,4 % với phần vượt 700 triệu đồng , thuế nhà chủ căn_hộ trên phải nộp là 832 nghìn đồng .",
+        "tổng_cộng , chủ căn_hộ này phải nộp số thuế 3,328 triệu đồng / năm nếu tính theo dự_thảo luật thuế tài_sản ."
+    ],
+    "image": [
+        "một công_trình chung_cư ( ảnh minh_hoạ ) ."
+    ],
+    "label": [
+        1,
+        14,
+        0
+    ]
+}

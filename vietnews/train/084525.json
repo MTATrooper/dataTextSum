@@ -1,0 +1,28 @@
+{
+    "title": "cảnh_báo mã độc tống_tiền tấn_công người dùng việt_nam",
+    "abstract": "công_ty bkav vừa phát đi cảnh_báo một biến_thể mới của mã_độc_mã_hoá tống_tiền gandcrab đang tấn_công trên diện rộng người dùng internet việt_nam .",
+    "article": [
+        "theo thống_kê từ hệ_thống giám_sát virus của bkav , tại việt_nam đã có 3.900 trường_hợp máy_tính bị virus này mã_hoá dữ_liệu tống_tiền .",
+        "gandcrab lây_lan bằng cách gửi cho nạn_nhân một email giả_mạo với nội_dung thúc_giục nạn_nhân mở tập_tin văn_bản đính kèm trong email .",
+        "thực_chất tập_tin đính kèm này có chứa virus nên nếu nạn_nhân mở tập_tin lên , máy_tính sẽ bị nhiễm mã độc .",
+        "sau khi lây_nhiễm , mã độc sẽ mã_hoá toàn_bộ dữ_liệu của người dùng , dữ_liệu khi bị mã_hoá sẽ không_thể mở .",
+        "lúc này , trên máy_tính nạn_nhân sẽ xuất_hiện thông_báo đòi tiền chuộc để giải_mã các tập_tin dữ_liệu .",
+        "theo đó , để trả tiền chuộc người dùng phải cài trình_duyệt tor , thanh_toán bằng tiền điện_tử dash hoặc bitcoin với giá_trị tương_đương 200 usd đến 1.200 usd tuỳ theo số tập_tin bị mã_hoá .",
+        "theo ghi_nhận của bkav , hiện_tại chưa nạn_nhân nào thực_hiện trả tiền chuộc cho hacker .",
+        "chuyên_gia bkav cũng cho_biết mã độc mới gandcrab đang lây_lan tại việt_nam thuộc thế_hệ thứ 5 của gandcrab .",
+        "thế_hệ thứ nhất của gandcrab được phát_hiện lần đầu trên thế_giới vào tháng 1-2018 .",
+        "từ đó đến nay dòng mã độc nguy_hiểm này liên_tục được hacker cải_tiến , nâng_cấp liên_tục qua 4 thế_hệ với mức_độ tinh_vi và độ phức_tạp ngày_càng cao .",
+        "để phòng_chống virus , bkav khuyến_cáo : \" người dùng cần cài_đặt phần_mềm diệt virus thường_trực cho máy_tính của mình .",
+        "tuyệt_đối không mở tập_tin đính kèm từ các email không rõ nguồn_gốc .",
+        "trong trường_hợp bắt_buộc phải mở để xem nội_dung , người sử_dụng có_thể mở tập_tin trong môi_trường cách_ly an_toàn safe_run \" ."
+    ],
+    "image": [
+        "mã độc tống_tiền gandcrab đang nhắm đến người dùng việt_nam .",
+        "- ảnh : bkav"
+    ],
+    "label": [
+        7,
+        3,
+        0
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "học_sinh sáng_chế phần_mềm về giải_phẫu cơ_thể người",
+    "abstract": "thấy môn sinh_học còn khô , thiếu thực_hành , nhóm học_sinh trường phổ_thông năng_khiếu ( đh quốc_gia tp. hcm ) đã nghiên_cứu cho ra_đời phần_mềm virtual_anatomy để dễ nhớ hơn khi học về cơ_thể người .",
+    "article": [
+        "nhóm học_sinh này gồm lâm_đào_quế_anh ( lớp 11 chuyên_văn ) và nguyễn_gia_huy ( lớp 12 chuyên tin ) , đã đoạt giải ba cuộc_thi khoa_học , kỹ_thuật cấp quốc_gia học_sinh trung_học năm 2017-2018 ( visef ) do bộ giáo_dục - đào_tạo vừa tổ_chức .",
+        "làm_sao cho môn sinh bớt khô",
+        "\" nhiều môn_học trong trường hiện_nay còn thiên về lý_thuyết , nặng kiến_thức , ít thực_hành khiến học_sinh mau quên .",
+        "môn sinh_học ( đặc_biệt là về cơ_thể con_người ) cũng vậy , có khối kiến_thức nặng , lúc học thấy ... chán lắm .",
+        "phải làm gì đó cho môn sinh_học bớt khô_khan \" - quế anh lý_giải việc các bạn chọn sáng_chế phần_mềm này .",
+        "nghĩ vậy nên trong nhiều ngày cùng nhau làm_việc , dưới sự hỗ_trợ của giáo_viên cũng như các bạn học_sinh chuyên tin như đỗ_mạnh_hùng , thăng_long , tuấn_khải và linh_chi , phần_mềm \" virtual_anatomy \" của quế_anh và gia_huy đã ra_đời .",
+        "phần_mềm giúp người học quan_sát được các bộ_phận cơ_thể một_cách trực_quan , sinh_động , gồm 8 hệ cơ_quan lớn trong cơ_thể con_người : hệ bài_tiết , hệ tiêu_hoá , hệ tuần_hoàn , hệ thần_kinh , hệ sinh_dục , hệ bạch_huyết , hệ hô_hấp và hệ hoocmôn , với hệ_thống hơn 700 xương và hơn 400 cơ .",
+        "sản_phẩm sử_dụng cảm_ứng không dây ba chiều leap_motion ( lm ) - công_cụ nhận thông_số từ hệ_thống tracking gồm camera hồng_ngoại để xử_lý và chuyển_hoá thành bàn_tay ảo .",
+        "điều này mang nhiều hứng_thú cho người học khi có_thể di_chuyển bàn_tay ảo để thực_hiện các thao_tác trong quá_trình \" giải_phẫu \" mô_phỏng cơ_thể người .",
+        "thiết_kế bàn mổ ảo",
+        "ở mức nâng_cao , quế_anh và gia_huy đã hoàn_tất mô_phỏng cơ_bản ca phẫu_thuật gắp mảnh đạn ra khỏi cánh_tay người .",
+        "\" tuy_nhiên , ca phẫu_thuật vẫn chưa đạt đến độ_chính_xác cao nhất do những khó_khăn gặp phải trong việc mô_phỏng các chất dịch trong cơ_thể \" - gia_huy cho_hay .",
+        "gia_huy và quế_anh đều ấp_ủ hoàn_thiện hơn_nữa phầm mềm cho môn sinh_học này để được áp_dụng vào giảng_dạy .",
+        "các bạn đang tiếp_tục đưa các thông_số sinh_học vào phần_mềm , từ đó điều_chỉnh mô_hình chi_tiết hơn , đặc_biệt phát_triển sâu các bộ_phận của cánh_tay , da , xương , sụn ... , nghiên_cứu hoàn_thiện các code để sản_phẩm ngày_càng có độ_chính_xác cao hơn .",
+        "\" tụi mình cũng kỳ_vọng nghiên_cứu , phát_triển thêm theo hướng thiết_kế bàn mổ ảo để mô_phỏng lại chân_thực như một buổi giải_phẫu trong thực_tế ; nghiên_cứu để tạo mô_hình động như dòng máu chảy , tim đập , cơ_chế đông_máu ... \" - quế anh chia_sẻ .",
+        "giúp học_sinh \" học phải có hành \" chính là ý_nghĩa mà hai tác_giả học_sinh này mong_muốn ."
+    ],
+    "image": [
+        "từ trái qua : các bạn lâm_đào_quế_anh , nguyễn_gia_huy , đỗ_mạnh_hùng - ảnh : c.k .",
+        "dùng phần_mềm virtual_anatomy để tìm_hiểu về cơ_thể người - ảnh : c.k ."
+    ],
+    "label": [
+        3,
+        5,
+        8
+    ]
+}
