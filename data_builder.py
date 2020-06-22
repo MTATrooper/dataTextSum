@@ -72,7 +72,7 @@ def create_json(src_path, des_path, makevocab = False, create_ref = False):
                     data[tmp] = line.lower().strip()
             doc_sent_list = data['article']
             abstract_sent_list = data['abstract']
-            data['label'] = greedy_selection(doc_sent_list, abstract_sent_list, 3)
+            data['label'] = greedy_selection(doc_sent_list, abstract_sent_list, 2)
             outfile = filepath.split('/')[-1].split('.')[0]
             json.dump(data, open(os.path.join(des_path, '{}.json'.format(outfile)), 'w', encoding='utf-8'), indent=4, ensure_ascii=False)
             if makevocab:
