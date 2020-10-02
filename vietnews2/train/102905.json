@@ -1,0 +1,24 @@
+{
+    "title": "ga hà_nội , sài_gòn lắp_đặt hệ_thống soát vé tự_động",
+    "abstract": "thay_vì nhân_viên soát vé , ngành đường_sắt đã lắp_đặt cửa soát vé để đọc thông_tin từ vé hành_khách .",
+    "article": [
+        "từ 15/12 , tổng_công_ty đường_sắt bắt_đầu lắp_đặt cổng soát vé tự_động tại nhà_ga của hai thành_phố lớn .",
+        "ga hà_nội được lắp 6 làn với 10 cổng soát vé tự_động , ga sài_gòn lắp 3 làn với 5 cổng soát vé tự_động .",
+        "hành_khách đi tàu sẽ quét mã vé trên giấy hoặc trên màn_hình điện_thoại vào đầu_đọc của cổng soát vé .",
+        "cổng soát vé gửi thông_tin về phần_mềm kiểm_tra của đường_sắt để xem_xét tính hợp_lệ .",
+        "nếu vé hợp_lệ , cổng sẽ tự_động mở chốt cửa cho một người qua .",
+        "kiếm soát vé tự_động ở ga hà_nội .",
+        "nếu vé không hợp_lệ , cổng sẽ không mở và thông_báo cho hành_khách biết trạng_thái qua đèn led và âm_thanh .",
+        "trong trường_hợp vé hợp_lệ nhưng cổng kiểm_soát vé tự_động không mở , nhân_viên đường_sắt sẽ can_thiệp .",
+        "tại các cụm cửa soát vé tự_động , nhân_viên đường_sắt được bố_trí hướng_dẫn hành_khách khi thao_tác soát vé tự_động và hỗ_trợ hành_khách là người cao_tuổi , người khuyết_tật , phụ_nữ có_thai có nhu_cầu mang vác hộ hành_lý , đẩy xe_lăn trong phạm_vi ga .",
+        "theo lãnh_đạo tổng_công_ty đường_sắt , việc tổ_chức kiểm_soát ra vào tại các ga nhằm đảm_bảo an_ninh trật_tự , kiểm_soát chặt_chẽ hàng_hoá và hạn_chế người buôn_bán hàng rong vào ga lên tàu .",
+        "dịp cuối năm , ngành đường_sắt sẽ đưa vào nhiều đoàn tàu chất_lượng cao chạy các tuyến hà_nội - vinh , tp hcm - nha_trang ."
+    ],
+    "image": [
+        "kiếm soát vé tự_động ở ga hà_nội ."
+    ],
+    "label": [
+        0,
+        3
+    ]
+}

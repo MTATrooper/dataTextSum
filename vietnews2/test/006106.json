@@ -1,0 +1,30 @@
+{
+    "title": "facebook phát_minh đơn_vị thời_gian mới nhỏ hơn 1 micro giây",
+    "abstract": "facebook đã phát_minh ra một đơn_vị thời_gian mới : \" flick \" , tương_đương với 1/705.600.000 của 1 giây - lớn hơn 1 nano giây và nhỏ hơn 1 micro giây .",
+    "article": [
+        "christopher_horvath - người phát_minh ra flick , cho_biết nó là từ viết tắt của \" frame tick \" , một cụm_từ có nguồn_gốc từ ngành điện_ảnh .",
+        "vì_sao facebook cần một đơn_vị thời_gian mới ?",
+        "chuyện này xuất_phát từ công_ty_con oculus vr của họ và cú \" đặt_cược \" lớn của công_ty này vào thực_tế ảo .",
+        "còn đối_với horvath , người trước_đây từng làm_việc cho các hãng phim lớn như pixar , weta_digital , và industrial_light & magic , nó là một phần của một dự_án đầy đam_mê .",
+        "trong phim_ảnh , các trò_chơi điện_tử và những phương_tiện dựa trên màn_hình khác , những người tạo ra chúng phải suy_nghĩ rất nhanh .",
+        "chẳng_hạn , hầu_hết các bộ phim đều được quay ở tốc_độ 24 khung hình / giây , nghĩa_là bộ_phim đó sẽ thể_hiện 24 hình_ảnh tĩnh liên_tục trong mỗi giây để \" đánh_lừa \" người xem là mọi thứ đang chuyển_động .",
+        "vấn_đề là , như mô_tả của horvath , toán_học lại trở_nên \" lộn_xộn \" khi chúng_ta cố_gắng làm_việc với một khung hình theo một tỉ_lệ nào đó .",
+        "ở tốc_độ 24 khung hình / giây ( hay còn gọi là fps ) , mỗi khung hình chỉ kéo_dài khoảng 0,04166666667 giây , hay 41666666,669 nano giây .",
+        "những con_số đó nhìn không \" đẹp_mắt \" tí nào , khi phần số lẻ cứ lặp lại vô_tận .",
+        "kết_quả là nó có_thể gây khó_khăn cho các lập_trình_viên và nghệ_sĩ đang cố_gắng làm_việc một_cách chính_xác với những tỉ_lệ này .",
+        "đó là lý_do vì_sao flick của facebook ra_đời .",
+        "nó có_thể đại_diện cho một khung hình bằng một con_số chẵn , nhìn khá đẹp_mắt .",
+        "ví_dụ như ở tốc_độ 24 fps của hầu_hết các bộ phim thì mỗi khung hình là 29.400.000 .",
+        "ở tốc_độ 60 fps , một tỉ_lệ được xem là đáng khao_khát cho các trò_chơi điện_tử , thì mỗi khung hình là dài 11.760.000 flick .",
+        "đó là một con_số có_thể giúp cho việc nhân chia hay cộng_trừ được dễ_dàng , vì chúng_ta không phải lo_lắng về những dấu_chấm thập_phân .",
+        "về phần mình , facebook đã phát_hành các tài_liệu của họ về phát_minh này và hiện đang dùng flick như một mã nguồn mở , nghĩa_là bất_kỳ ai cũng có_thể tải nó xuống và thêm phần hỗ_trợ cho đơn_vị này vào phần_mềm của riêng mình .",
+        "điều đó cũng đồng_nghĩa với việc flick có_thể trở_thành một đơn_vị thời_gian tiêu_chuẩn - nếu không phải trên chiếc đồng_hồ của bạn thì cũng là trong lĩnh_vực nghệ_thuật thị_giác ."
+    ],
+    "image": [
+        "facebook đã phát_minh ra một đơn_vị thời_gian mới nhỏ hơn 1 micro giây - ảnh : reuters"
+    ],
+    "label": [
+        0,
+        1
+    ]
+}

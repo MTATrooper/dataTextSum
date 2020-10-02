@@ -1,0 +1,21 @@
+{
+    "title": "abbank triển_khai phương_thức xác_thực bảo_mật soft otp cho giao_dịch online_banking và abbank mobile",
+    "abstract": "nhằm nâng_cao tính bảo_mật trong giao_dịch thanh_toán điện_tử theo quy_định của nhnnvn và tăng_cường trải_nghiệm cho khách_hàng , ngân_hàng tmcp an_bình ( abbank ) chính_thức triển_khai giải_pháp xác_thực an_toàn soft otp cho các giao_dịch tài_chính trên abbank online_banking và ứng_dụng abbank_mobile .",
+    "article": [
+        "soft otp là phương_thức xác_thực giao_dịch thanh_toán điện_tử được đánh_giá là an_toàn và tiện_ích nhất hiện_nay .",
+        "soft otp được sinh ra từ hệ_thống bảo_mật xác_thực dựa trên các thuật_toán riêng của từng hệ_thống ngân_hàng đồng_bộ thời_gian thực với giao_dịch thanh_toán điện_tử của người dùng , giúp tiết_kiệm thời_gian , tăng cao tính bảo_mật của giao_dịch và phòng_tránh được_việc đánh_cắp , làm giả dữ_liệu .",
+        "khác với hình_thức xác_thực cũ là nhập mã otp từ tin nhắn sms , soft otp trên abbank mobile cho_phép người dùng lấy mã xác_thực ngay trên ứng_dụng mà không cần phải mở ứng_dụng khác tạo mã để lấy otp , mã otp sẽ được hệ_thống xử_lý tích_hợp và tự_động được điền vào tại màn_hình xác_thực giao_dịch .",
+        "đặc_biệt , với những khách_hàng thường_xuyên đi công_tác / du_lịch nước_ngoài , giải_pháp xác_thực soft otp còn mang lại ưu_điểm vượt_trội khi không phụ_thuộc vào sóng điện_thoại của mạng viễn_thông , không cần sử_dụng chế_độ roaming mà vẫn thực_hiện giao_dịch thuận_lợi và nhanh_chóng .",
+        "với những tiện_ích mà soft otp mang lại cho người dùng , cùng chủ_trương nâng_cao trải_nghiệm dịch_vụ cho khách_hàng , abbank đã áp_dụng miễn_phí soft otp đối_với các giao_dịch tài_chính trên ứng_dụng abbank mobile trong tháng 4/2019 và chính_thức triển_khai đối_với hệ_thống abbank online_banking vào ngày 28/6/2019 vừa_qua .",
+        "với abbank mobile , khách_hàng có_thể dễ_dàng kích_hoạt và thực_hiện xác_thực sử_dụng soft otp khi thực_hiện các giao_dịch tài_chính theo hướng_dẫn ngay trên ứng_dụng .",
+        "để sử_dụng soft otp trên hệ_thống abbank online_banking , khách_hàng có_thể cài đặt ứng_dụng abbank soft_otp được cung_cấp trên google_play hoặc app_store , và dễ_dàng kích_hoạt trên online_banking hoặc tại các quầy giao_dịch abbank .",
+        "ông phạm_duy_hiếu – quyền tổng_giám_đốc abbank cho_biết : “ với ứng_dụng abbank soft_otp , abbank mong_muốn nâng_cao tính trải_nghiệm , rút ngắn thời_gian thao_tác và tăng thêm mức_độ bảo_mật , an_toàn cho các giao_dịch trực_tuyến , giúp khách_hàng hoàn_toàn yên_tâm sử_dụng dịch_vụ của ngân_hàng và có thêm thời_gian để tận_hưởng giá_trị của cuộc_sống hiện_tại .",
+        "cùng với đó , đây cũng là một trong những nỗ_lực của abbank trong công_tác phát_triển thanh_toán không dùng tiền_mặt tại việt_nam . ”",
+        "linh_ngọc"
+    ],
+    "image": [],
+    "label": [
+        4,
+        0
+    ]
+}

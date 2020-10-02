@@ -1,0 +1,48 @@
+{
+    "title": "dạy , học tự_do như đại_học hàn_quốc",
+    "abstract": "ở hàn_quốc , giảng_viên được tự chọn giáo_trình , bài giảng , tự quyết_định về chuyên_môn . còn sinh_viên tự_do chọn môn_học , chọn giảng_viên và có quyền huỷ môn_học .",
+    "article": [
+        "việc huỷ môn_học có_thể thực_hiện sau khi bắt_đầu môn_học khoảng một tháng , nếu sinh_viên cảm_thấy môn đó không phù_hợp hoặc mình không theo kịp .",
+        "việc tổ_chức thi ở các trường đh hết_sức nhẹ_nhàng .",
+        "giảng_viên ra đề và giám_sát sinh_viên lớp mình trong ngày thi .",
+        "giảng_viên không cần điểm danh_số thí_sinh dự thi , sinh_viên cũng không cần phải ký_tên vào danh_sách thi khi nộp bài .",
+        "vì thi cuối kỳ là nghĩa_vụ và quyền_lợi của sinh_viên , mọi người phải tự_giác đi thi .",
+        "trường_hợp sinh_viên vắng thi , nếu có nguyện_vọng được thi , các giảng_viên phụ_trách môn_học sẽ tạo điều_kiện tối_đa để sinh_viên được thi bổ_sung .",
+        "tuy_nhiên , tại các trường đh ở hàn_quốc , tiêu_chuẩn đánh_giá kết_quả học_tập của sinh_viên rất chặt_chẽ .",
+        "mỗi học_kỳ , sinh_viên phải trải qua hai kỳ thi : giữa kỳ ( gk ) và cuối kỳ ( ck ) .",
+        "điểm đánh_giá cuối kỳ ( đgck ) được quy_định như sau :",
+        "đgck = chuyên_cần ( 10 % ) + bài_tập ( 20 % ) + gk ( 30 % ) + ck ( 40 % )",
+        "dựa trên số điểm đánh_giá , sinh_viên sẽ được xếp loại học_tập rất nghiêm_ngặt , vì điều này liên_quan đến việc xét cấp học_bổng cho học_kỳ sau và năm sau .",
+        "điểm số tính theo hệ_số 100 và sinh_viên được xếp loại như sau ( xem bảng ) :",
+        "những sinh_viên đạt loại d có_thể được thi cải_thiện điểm , nhưng kết_quả thi cải_thiện không vượt quá xếp loại a_+ và b + .",
+        "cuối học_kỳ , sinh_viên đăng_nhập vào hệ_thống website của trường để đánh_giá giáo_viên .",
+        "nhưng những sinh_viên chỉ đạt loại c và d sẽ không có quyền đánh_giá này .",
+        "điểm đặc_biệt là không phải tất_cả sinh_viên đạt điểm tốt đều đương_nhiên được xếp loại a hay a_+ , mà có sự khống_chế tỉ_lệ rất chặt_chẽ : loại a và a_+ chỉ có 30 % sinh_viên / tổng_số sinh_viên của lớp .",
+        "loại b và b + chỉ có 65 % sinh_viên / tổng_số sinh_viên .",
+        "còn lại là loại c , d , e , f. nếu vượt quá tỉ_lệ quy_định này thì khi nhập điểm vào máy , hệ_thống sẽ báo lỗi .",
+        "đây là điều gây \" đau_đầu \" cho các giảng_viên khi đánh_giá , xếp loại sinh_viên , nhất_là với những lớp có số sinh_viên khá , giỏi chiếm tỉ_lệ cao .",
+        "một học_kỳ kéo_dài 15 tuần , trong học_kỳ sẽ có một_số ngày nghỉ lễ , đại_hội_thể_dục thể_thao , lễ_hội sinh_viên , hoạt_động cho sinh_viên năm thứ nhất ... vì_vậy những ngày nghỉ sẽ được học bù vào tuần thứ 15 .",
+        "thời_gian thi giữa kỳ , cuối kỳ và tổng_kết điểm trên internet đều được ấn_định sẵn từ đầu năm_học .",
+        "trong đánh_giá cuối kỳ , điểm chuyên_cần được tính 10 % trên tổng_số điểm .",
+        "nếu sinh_viên vắng từ 1/4 thời_lượng môn_học trở lên sẽ bị điểm f. do đó , nhà_trường yêu_cầu các giảng_viên điểm_danh sinh_viên rất chặt_chẽ , không phải điểm_danh từng buổi học , mà từng tiết học .",
+        "buổi học có bao_nhiêu tiết , giảng_viên phải điểm_danh bấy_nhiêu lần .",
+        "từ năm 2016 , trường đh chungwoon đã áp_dụng điểm_danh sinh_viên bằng phần_mềm tự_động : điểm_danh trên smartphone .",
+        "mỗi giảng_viên và sinh_viên được cấp một id và password để truy_cập vào website của nhà_trường .",
+        "bước vào lớp , việc đầu_tiên là giảng_viên đăng_nhập vào hệ_thống lớp_học ( e - class system ) rồi chọn mã_số lớp_học .",
+        "trên màn_hình sẽ hiện ra danh_sách sinh_viên .",
+        "sau khi giảng_viên ấn nút điểm_danh , một mã_số dành riêng cho tiết học đó sẽ xuất_hiện , sinh_viên đăng_nhập vào hệ_thống bằng smartphone cá_nhân và nhập mã_số đó để đánh_dấu sự hiện_diện của mình .",
+        "trên bảng điện_tử , các thông_tin về sĩ_số sinh_viên của lớp , họ tên sinh_viên , mã_số sinh_viên kèm hình_ảnh sinh_viên , số sinh_viên có_mặt ( đã điểm_danh ) , số sinh_viên vắng_mặt ... đều hiện ra .",
+        "khi sinh_viên điểm_danh xong , nơi tên và mã_số sinh_viên của họ sẽ xuất_hiện một con_dấu màu đỏ ( xác_nhận sự hiện_diện ) .",
+        "giảng_viên sẽ kiểm_tra số sinh_viên có_mặt trong lớp tương_ứng với số dấu đỏ đã hiển_thị và ấn nút kết_thúc điểm_danh .",
+        "sinh_viên đến trễ có_thể yêu_cầu giáo_sư phụ_trách môn_học điểm_danh lại , tất_nhiên trong hệ_thống sẽ ghi_nhận là đi trễ .",
+        "khi điểm_danh bằng smartphone , sinh_viên không_thể nhờ bạn điểm_danh thay .",
+        "đó cũng là cách buộc sinh_viên phải có_mặt trên lớp , nếu không muốn bị ảnh_hưởng đến kết_quả chung ."
+    ],
+    "image": [
+        "các sinh_viên hàn_quốc điểm_danh trên smartphone - ảnh : m.n ."
+    ],
+    "label": [
+        5,
+        6
+    ]
+}

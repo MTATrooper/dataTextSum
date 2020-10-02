@@ -1,0 +1,19 @@
+{
+    "title": "xem ' robot rồng ’ vươn mình qua cửa_sổ chữa_cháy",
+    "abstract": "các nhà_khoa_học nhật_bản đã chế ra loại robot được gắn luôn vào ống dẫn nước , gọi là ' robot rồng ' , có khả_năng luồn_lách qua các cấu_trúc rỗng và vươn qua cửa_sổ để chữa_cháy hiệu_quả hơn .",
+    "article": [
+        "theo trang daily_mail , \" robot rồng \" có tên dragonfirefighter với phần thân được thiết_kế như một con rắn , có khả_năng vươn tới những ngóc_ngách khó tiếp_cập giữa các cấu_trúc không_gian và vươn lên các ô cửa_sổ của những tầng cao trong toà nhà .",
+        "với thiết_kế đó \" robot rồng \" cứu_hoả có_thể giúp dập tắt những đám cháy ở những nơi lính cứu_hoả thường gặp khó_khăn khi tác_nghiệp .",
+        "đây là sáng_chế của các nhà_nghiên_cứu thuộc đại_học tohoku , viện công_nghệ quốc_gia nhật_bản và trường cao_đẳng hachinohe .",
+        "sáng_chế được trình_bày tại hội_nghị quốc_tế về robotics và tự_động_hoá tại brisbane , úc vừa_qua .",
+        "robot_dragonfirefighter có_thể tự \" nhấc mình \" lên cao khỏi mặt_đất và vươn cao lên bằng cách sử_dụng áp_lực lớn của sức nước .",
+        "cùng với phần nước phun từ đầu vòi dập lửa chính , các module dọc theo thân của robot được sử_dụng để tạo áp_lực đẩy vòi_nước lên cao và điều_khiển nó tham_gia chữa_cháy .",
+        "độ vươn cao của robot này không tuỳ_thuộc vào bề_mặt hoạt_động của nó , miễn_sao có đủ nguồn nước cung_cấp để tạo áp_lực đẩy .",
+        "điều này có nghĩa độ cao của vòi_nước là không giới_hạn ."
+    ],
+    "image": [],
+    "label": [
+        0,
+        6
+    ]
+}

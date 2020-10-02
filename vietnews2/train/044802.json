@@ -1,0 +1,26 @@
+{
+    "title": "máy_bay nga phát_hiện mục_tiêu từ sóng điện_thoại",
+    "abstract": "trinh_sát cơ không người lái trong hệ_thống leer -3 có_thể định_vị mục_tiêu qua sóng điện_thoại để quân_đội nga tung đòn tiêu_diệt .",
+    "article": [
+        "hệ_thống leer -3 gồm đài điều_khiển đặt trên xe_tải kamaz và ba máy_bay_không_người_lái ( uav ) orlan -10 , có khả_năng truy_cập và phân_tích dữ_liệu từ trạm phát_sóng viễn_thông ( bts ) nhằm xác_định chính_xác vị_trí của từng thuê_bao .",
+        "thông_tin sẽ giúp binh_sĩ theo_dõi mục_tiêu và tung đòn không_kích nếu cần_thiết , truyền_thông nga ngày 11/9 dẫn nguồn tin từ bộ quốc_phòng nước này .",
+        "leer -3 đã được thử_nghiệm thành_công ít_nhất hai lần trong năm nay và có_thể phát_hiện tín_hiệu của điện_thoại_di_động ngay cả khi không nghe gọi hoặc bị tắt nguồn .",
+        "trong quá_trình tác_chiến , hai uav trong hệ_thống sẽ làm nhiệm_vụ trinh_sát và tác_chiến_điện_tử , máy_bay còn lại đóng vai_trò trạm chuyển_tiếp dữ_liệu với trung_tâm điều_khiển .",
+        "uav orlan -10 trong đợt huấn_luyện tại vùng khabarovsk đầu năm 2019 .",
+        "các uav orlan -10 trong hệ_thống trước_đây chỉ có_thể chế_áp các trạm bts bằng cách thả thiết_bị gây nhiễu , sau đó đóng vai_trò trạm phát tin nhắn sms để theo_dõi thiết_bị .",
+        "hệ_thống leer -3 có nhiều tính_năng hiện_đại hơn , cho_phép ba chiếc orlan -10 kết_nối cùng lúc với đài điều_khiển để giám_sát dữ_liệu thu phát .",
+        "\" hệ_thống này hoạt_động khá đơn_giản , uav có_thể truy_cập các trạm bts từ xa và can_thiệp vào luồng truyền_tải dữ_liệu .",
+        "thông_tin định_vị mục_tiêu có_thể chỉ sai_lệch vài mét \" , denis_kuskov , giám_đốc hãng phân_tích telecom_daily , nhận_xét .",
+        "sau khi phát_hiện mục_tiêu , leer -3 sẽ chuyển tham_số tới hệ_thống tác_chiến thống_nhất của quân_đội nga theo thời_gian thực .",
+        "pháo_binh , tiêm_kích và nhiều đơn_vị mặt_đất có_thể dựa vào dữ_liệu mục_tiêu này để tung đòn tiêu_diệt chớp_nhoáng .",
+        "orlan -10 có bán_kính tác_chiến 120 km , hoạt_động được 14 giờ liên_tục ở độ cao 5.000 m . quân_đội nga không tiết_lộ khoảng_cách để nó truy_cập được trạm bts , nhưng cho_biết con_số này là \" khá đáng_kể \" .",
+        "vũ_anh ( theo sputnik )"
+    ],
+    "image": [
+        "uav orlan -10 trong đợt huấn_luyện tại vùng khabarovsk đầu năm 2019 ."
+    ],
+    "label": [
+        10,
+        9
+    ]
+}

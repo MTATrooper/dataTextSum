@@ -1,0 +1,23 @@
+{
+    "title": "cách nào để rút_tiền tại atm khi không mang theo thẻ ?",
+    "abstract": "khách_hàng có_thể sử_dụng vân tay , hoặc ứng_dụng quét mã qr code để rút_tiền tại atm hoặc livebank của tpbank để có_thể rút_tiền mà không cần thẻ atm .",
+    "article": [
+        "sử_dụng thẻ atm để rút_tiền tại các máy atm là giải_pháp quen_thuộc mà nhiều ngân_hàng đưa ra và đó là giải_pháp rất phổ_biến , tuy_nhiên một_số ngân_hàng đang thay_đổi mạnh_mẽ điều này bằng công_nghệ , điển_hình là tpbank .",
+        "ngày 5/11 , tpbank cho_biết đã hoàn_tất việc triển_khai tính_năng rút_tiền bằng qr code trên toàn_bộ hệ_thống atm và livebank cho toàn_bộ khách_hàng .",
+        "để sử_dụng tính_năng này , khách_hàng tpbank cần download ứng_dụng quickpay cho iphone hoặc điện_thoại nền_tảng android , sau đó tích_hợp tài_khoản thẻ nội_địa , thẻ visa hoặc master_card vào quickpay là đã sẵn_sàng có_thể rút_tiền trên toàn_bộ hệ_thống atm , livebank của tpbank .",
+        "đối_với atm , khách_hàng chỉ cần bấm phím 9 trên màn_hình atm hoặc chọn biểu_tượng ( icon ) rút_tiền qr code , sau khi mã qr code hiện ra thì khách_hàng sử_dụng ứng_dụng quickpay để quét mã qr code này , chọn thẻ cần rút_tiền trên ứng_dụng quickpay , nhập mã pin thẻ của mình và thực_hiện rút_tiền trên máy atm / livebank như bình_thường .",
+        "trải_nghiệm người dùng và hướng_dẫn rút_tiền bằng qr code trên atm , livebank với ứng_dụng quickpay .",
+        "video : youtube",
+        "rút_tiền bằng qr code đem lại sự an_toàn lớn cho khách_hàng , khi loại_bỏ hoàn_toàn nguy_cơ khách_hàng bị sao_chép thông_tin thẻ trong bối_cảnh tội_phạm ăn cắm dữ_liệu thẻ đang phổ_biến tại việt_nam do thẻ nội_địa đang là thẻ từ .",
+        "trước đó , tpbank đã cập_nhật tính_năng rút_tiền bằng vân tay trên toàn_bộ hệ_thống livebank loại_bỏ hoàn_toàn khả_năng khách_hàng bị đánh_cắp mã pin , thông_tin thẻ khi giao_dịch .",
+        "thành_lương"
+    ],
+    "image": [
+        "rút_tiền bằng qr code trên máy atm an_toàn hơn , tiện_ích hơn .",
+        "để rút_tiền bằng qr code trên máy atm , livebank , khách_hàng cần nhúng tài_khoản thẻ vào ứng_dụng quickpay"
+    ],
+    "label": [
+        2,
+        4
+    ]
+}

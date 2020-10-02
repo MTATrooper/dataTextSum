@@ -1,0 +1,34 @@
+{
+    "title": "trí_tuệ_nhân_tạo và khi robot vẽ tranh chân_dung giá 10.000 usd",
+    "abstract": "robot có_thể tạo ra những bức_tranh , nhưng liệu chúng có tính nghệ_thuật và mang giá_trị cao ? hai bức chân_dung được tạo ra bởi máy_móc gần đây đã trả_lời câu_hỏi này .",
+    "article": [
+        "bạn có từng nghĩ máy_móc có_thể tự vẽ một bức tranh nghệ_thuật và hoạ_sĩ sẽ nằm trong số những nghề được thay_thế bởi robot hay không ?",
+        "tuần này , một tác_phẩm nghệ_thuật được tạo ra bằng trí_tuệ_nhân_tạo ( ai ) sẽ được bán_đấu_giá lần đầu_tiên , trong khi một bức tranh do máy_tính vẽ đầu năm nay đã rinh về giải_thưởng quốc_tế .",
+        "cả hai đều là chân_dung .",
+        "tác_phẩm đầu_tiên có tên portrait of edmond de belamy ( 2018 , tạm dịch : chân_dung của edmond de belamy ) .",
+        "đây là một tác_phẩm in trên vải canvas , mô_tả hình_ảnh một người đàn_ông hư_cấu với đường_nét mờ_ảo .",
+        "bức tranh trị_giá 7.000-10.000 usd ( tương_đương 163-233 triệu đồng ) khi được đem ra bán_đấu_giá bởi nhà bán_đấu_giá christie ’ s ’ ở thành_phố new_york vào ngày 25-10 .",
+        "đây sản_phẩm của công_ty obvious , được lập ra bởi một nhóm hoạ_sĩ ở paris ( pháp ) gồm 3 thành_viên là hugo_caselles - dupré , pierre_fautrel và gauthier_vernier .",
+        "sử_dụng mực , vải canvas và một thuật_toán trí_tuệ_nhân_tạo phức_tạp có tên generative_adversarial_network ( tạm dịch : hệ_thống đối_kháng sản_sinh ) , nhóm hoạ_sĩ 25 tuổi đang làm rung_chuyển thế_giới nghệ_thuật , theo cnbc .",
+        "nhóm này muốn chứng_minh rằng trí_tuệ_nhân_tạo có_thể làm được nhiều thứ hơn , bên cạnh việc vận_hành các xe tự lái hay dây_chuyền sản_xuất .",
+        "trong khi đó , một bức tranh có tên the_butcher ’ s son ( tạm dịch : con_trai của đồ_tể ) - mô_tả hình_ảnh một người khoả_thân đang ngồi - đã thắng giải vàng tại lễ trao giải thường_niên lumen_prize hồi đầu năm nay .",
+        "hoạ_sĩ người đức mario_klingemann ( cũng là người chọn tên cho bức tranh ) đã sử_dụng thuật_toán để giúp máy_tính hiểu được một bức chân_dung sẽ trông như_thế_nào , sau đó tạo ra tác_phẩm giống như được vẽ bởi con_người .",
+        "khuôn_mặt của bức chân_dung bị biến_dạng với những đường_nét máu_me đúng với ý_nghĩa liên_quan tới đồ_tể .",
+        "khi ban giám_khảo quan_sát the_butcher ’ s son , họ nhận_xét bức chân_dung làm gợi nhớ đến những khuôn_mặt méo_mó trong các tác_phẩm của hoạ_sĩ tượng_hình người anh francis_bacon vào thế_kỷ 20 .",
+        "phần còn lại của chân_dung được vẽ lỏng_lẻo với màu_da người nhìn khá tự_nhiên .",
+        "có một_số bộ_phận dường_như đã được khéo_léo bỏ đi , chẳng_hạn tay và cẳng_tay .",
+        "bà carla_rapoport , nhà sáng_lập lumen_prize , cho_biết tác_phẩm the_butcher ’ s son sử_dụng lô gích có_thể giống với lô gích để tạo ra portrait of edmond de belamy của các hoạ_sĩ obvious .",
+        "bà nói rằng mario_klingemann là người đã quyết_định đưa thuật_toán gì vào trong máy_tính và ông là người đã lựa_chọn ra một trong số hàng ngàn bức_ảnh mà máy_tính tạo ra để tham_gia cuộc_thi của lumen_prize .",
+        "\" bạn có_thể dùng hoàn_toàn máy_tính để vẻ y_như hoạ_sĩ van_gogh , nhưng điều đó sẽ không thú_vị chút nào cả .",
+        "điều hấp_dẫn là cách một hoạ_sĩ trải_nghiệm với công_nghệ \" - bà carla_rapoport nhận_định .",
+        "tháng tới , trong một dấu_hiệu cho thấy nghệ_thuật số ( digital art ) đang trở_thành xu_thế chủ_đạo , lumen_prize sẽ mang 4 tác_phẩm mới tới trung_quốc trưng_bày tại lễ_hội về nghệ_thuật số công_chúng ."
+    ],
+    "image": [
+        "tranh chân_dung được vẽ bằng ai có tên portrait of edmond de belamy - ảnh : obvious .",
+        "bức chân_dung the_butcher ’ s son - ảnh : mario_klingermann"
+    ],
+    "label": [
+        0,
+        2
+    ]
+}

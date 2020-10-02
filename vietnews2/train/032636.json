@@ -1,0 +1,22 @@
+{
+    "title": "lý_do mật_khẩu của hàng trăm triệu tài_khoản nằm trong tay nhân_viên facebook",
+    "abstract": "một chuỗi lỗi khiến mật_khẩu chỉ được lưu dưới dạng văn_bản thuần , khiến 20.000 nhân_viên của mạng xã_hội facebook có_thể xem được mật_khẩu của hàng trăm triệu tài_khoản .",
+    "article": [
+        "theo vnexpress , hàng trăm triệu mật_khẩu tài_khoản facebook được lưu ở dạng văn_bản thuần , cho_phép nhân_viên công_ty dễ_dàng tiếp_cận .",
+        "theo krebs on security , 200-600 triệu người dùng facebook đã bị ảnh_hưởng khi mật_khẩu của họ không được mã_hoá .",
+        "một chuỗi lỗi khiến mật_khẩu chỉ được lưu dưới dạng văn_bản thuần , khiến 20.000 nhân_viên của mạng xã_hội này có_thể xem được .",
+        "trong một bài đăng trên blog , facebook xác_nhận vấn_đề bảo_mật trên và nói rằng sự_cố được phát_hiện từ tháng 1/2019 trong chương_trình đánh_giá bảo_mật thông_thường .",
+        "mạng xã_hội này nói đã khắc_phục lỗi và sẽ thông_báo cho tất_cả thành_viên bị ảnh_hưởng .",
+        "vietnamnet cho_hay , nếu bạn là một trong những người dùng bị ảnh_hưởng , một_số kỹ_sư facebook có quyền truy_cập nội_bộ vào máy_chủ và cơ_sở_dữ_liệu đã đọc được mật_khẩu facebook hoặc instagram của bạn .",
+        "facebook cho_biết đã phát_hiện ra lỗi bảo_mật này vào tháng 1 năm nay trong quá_trình kiểm_tra bảo_mật thông_thường .",
+        "trong một bài đăng trên blog được công_bố hôm_nay , phó chủ_tịch kỹ_thuật của facebook là pedro_canahuati cho_biết một cuộc điều_tra nội_bộ về vụ_việc không tìm thấy bằng_chứng về bất_kỳ nhân_viên nào của facebook lạm_dụng các mật_khẩu đó .",
+        "canahuati không đề_cập đến số_lượng người dùng chính_xác bị ảnh_hưởng bởi sự_cố này , nhưng xác_nhận rằng công_ty sẽ bắt_đầu thông_báo đến \" hàng trăm triệu người dùng facebook_lite bị ảnh_hưởng , hàng chục triệu người dùng facebook và hàng chục nghìn người dùng instagram . \"",
+        "đào_vũ ( tổng_hợp )"
+    ],
+    "image": [
+        "ảnh minh_hoạ"
+    ],
+    "label": [
+        2
+    ]
+}

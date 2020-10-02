@@ -1,0 +1,33 @@
+{
+    "title": "nhóm hacker triều_tiên_lazarus đang âm_thầm đánh_cắp bitcoin",
+    "abstract": "sự gia_tăng đột_biến của giá bitcoin hiện_nay được cho là nguyên_nhân khiến triều_tiên quan_tâm đến việc phát_động các cuộc tấn_công . được biết , nhóm hacker lazarus dùng phần_mềm độc_hại đính kèm trong email lừa_đảo để đánh_cắp bitcoin .",
+    "article": [
+        "nhóm hacker lazarus của triều_tiên là chủ_mưu trong vụ trộm bitcoin này .",
+        "lazarus vốn từng bị buộc tội tung ra các cuộc tấn_công quy_mô toàn_cầu , bao_gồm cả vụ wannacry và các vụ cướp trực_tuyến ngân_hàng bangladesh_bank với tổng thiệt_hại 81 triệu usd .",
+        "các hoạt_động của nhóm hacker khét_tiếng này lần đầu_tiên được đưa ra ánh_sáng sau khi bị buộc_tội tấn_công sony_pictures vào năm 2014 .",
+        "theo các chuyên_gia bảo_mật tại secureworks , lazarus đã tung ra chiến_dịch lừa_đảo từ tháng 10 với cách_thức tấn_công không quá phức_tạp .",
+        "vẫn là hình_thức đính kèm mã độc vào email với nội_dung hấp_dẫn như mua bitcoin với giá rẻ và lừa nạn_nhân nhấp chuột vào đó , nhưng thay_vì nhắm vào người dùng và các nhân_viên bình_thường , chúng nhắm mục_tiêu vào các giám_đốc tài_chính đang quản_lý tiền ảo , trong đó có bitcoin .",
+        "hacker sẽ gửi đến một email có chứa thông_tin về vị_trí giám_đốc tài_chính của một công_ty khác .",
+        "bên trong , email đính kèm một văn_bản lưu lại bằng microsoft_word , đồng_thời yêu_cầu chỉnh_sửa lại văn_bản này .",
+        "khi nhấp vào tài_liệu sẽ tự_động tải rat ( một trojan truy_cập từ xa ) , cho_phép hacker hoàn_thành việc truy_cập vào máy_tính của nạn_nhân .",
+        "nó cho_phép hacker có_thể tải và cài_đặt phần_mềm độc_hại khác bất_cứ lúc_nào .",
+        "nếu máy_tính đó thực_hiện các giao_dịch bitcoin hoặc tiền điện_tử khác , các thông_tin có_thể bị ghi lại và bị âm_thầm đánh_cắp .",
+        "không_những thế , khi tập_tin văn_bản được mở ra , lập_tức một macro sẽ xâm_nhập hệ_thống , tự_động tạo một văn_bản giả mô_tả vai_trò của một cfo đang làm_việc cho một công_ty tiền điện_tử tại châu_âu với thông_tin được lấy từ một cfo thực_tế trên linkedin .",
+        "cách tấn_công này mới_lạ , nguy_hiểm và khó phát_hiện hơn .",
+        "zdnet báo_cáo các nhà_nghiên_cứu của secureworks cho_rằng phần_mềm độc_hại được sử_dụng trong chiến_dịch này là một dạng trojan mới , có khả_năng được lập_trình đặc_biệt cho các cuộc tấn_công kiểu này .",
+        "rafe_pilling , một nhà_nghiên_cứu cao_cấp , cho_biết : \" điều thú_vị ở đây là kỹ_thuật và chiến_thuật được chúng sử_dụng đã thay_đổi bản_chất .",
+        "trước_đây , lazarus nhắm mục_tiêu các tổ_chức quốc_phòng , giờ chuyển sang các công_ty tài_chính . \"",
+        "không phải gần đây khi giá bitcoin tăng thì triều_tiên mới quan_tâm đến .",
+        "từ năm 2013 , nước này đã bắt_đầu tiến_hành các nghiên_cứu về tiền điện_tử .",
+        "pilling nói thêm : \" vào thời_điểm đó , triều_tiên đã sử_dụng proxy để che_giấu địa_chỉ ip gốc , nhưng thỉnh_thoảng các proxy này thất_bại và tiết_lộ ip thực_sự của họ .",
+        "với mức giá bitcoin tăng hiện_nay , chúng_tôi nghi_ngờ rằng sự quan_tâm của triều_tiên về tiền điện_tử vẫn còn rất cao .",
+        "các chiến_dịch gần đây của nhóm lazarus vẫn đang tiếp_diễn \" .",
+        "cơ_quan gián_điệp hàn_quốc cho_biết có bằng_chứng cho thấy hacker triều_tiên đã tấn_công bithumb - một trong những sàn giao_dịch bitcoin bí_mật lớn nhất của hàn_quốc - vào tháng 6 và cũng thực_hiện một cuộc tấn_công tương_tự với coinis vào tháng 9 .",
+        "hiện có ít_nhất một công_ty về tiền điện_tử tại anh bị tấn_công theo cách_thức này ."
+    ],
+    "image": [],
+    "label": [
+        12,
+        0
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "vụ hệ_thống ngàn tỉ , tàu lửa suýt tông nhau : do người vận_hành ?",
+    "abstract": "tổng_công_ty đường_sắt vn vừa có văn_bản thừa_nhận nhiều sự_cố xảy ra tại những nơi được lắp hệ_thống tín_hiệu tự_động , nhưng lại cho_rằng đa_số sự_cố là do con_người chứ không phải thiết_bị .",
+    "article": [
+        "văn_bản này là để phản_hồi bài \" hệ_thống tín_hiệu tự_động ngàn tỉ : nguy_cơ tàu lửa đụng nhau \" đăng trên tuổi_trẻ ngày 15-11 .",
+        "trả_lời tuổi_trẻ về vấn_đề thiết_bị tín_hiệu 6502 của trung_quốc áp_dụng cho hệ_thống đường_đôi , còn ở vn sử_dụng đường_sắt đơn có_thể chưa phù_hợp , tổng_công_ty đường_sắt vn giải_thích tại trung_quốc vẫn có đường_sắt đơn và họ vẫn xài thiết_bị 6502 .",
+        "khi áp_dụng vào vn , hệ_thống tín_hiệu tuân_thủ các quy_chuẩn kỹ_thuật hiện_hành .",
+        "ngành đường_sắt còn cho_rằng dù là hệ_thống tự_động , nhưng con_người có_thể vận_hành độc_lập bằng tay trong những trường_hợp đặc_biệt hoặc có trở_ngại .",
+        "về sự_cố hai tàu \" suýt \" tông nhau ở ga suối_vận đêm 14-7 , tổng_công_ty đường_sắt vn quy trách_nhiệm do nhân_viên trực_ban ngủ_gật , lúc tỉnh dậy tự tháo niêm_phong kẹp chì và quay thiết_bị chuyển_hướng đoàn tàu bằng tay .",
+        "\" sự_cố xảy ra không phải lỗi của thiết_bị tín_hiệu 6502 \" - tổng_công_ty đường_sắt vn đánh_giá .",
+        "tuy_nhiên , việc đổ lỗi cho người lao_động là chưa thuyết_phục .",
+        "nếu thiết_bị 6502 giúp tàu tránh nhau tự_động thì tại_sao nhân_viên trong ga lại thao_tác đón tàu bằng cách thủ_công ?",
+        "cục đường_sắt vn từng có quy_định : \" cấm đón hai tàu vào ga cùng một lúc , cấm đón một tàu và gửi một tàu cùng chiều một lúc \" , nhưng hiện_nay thiết_bị 6502 tại ga suối_vận đều thực_hiện được các thao_tác trên cùng một lúc .",
+        "cục đường_sắt cũng cho_biết ga suối_vận và 6 ga khác như gia_huynh , sông_phan ( bình_thuận ) , trản_táo , long_khánh , bảo_chánh , gia_ray ( đồng_nai ) nếu mở tín_hiệu 6502 cho tàu vào ga tránh nhau là vi_phạm quy_chuẩn vì độ dốc lớn ( trên 6 ‰ ) .",
+        "do_đó , thay_vì đón tàu bằng hệ_thống tự_động , nhân_viên đường_sắt lại phải thường_xuyên mở niêm_phong kẹp chì thiết_bị để điều_hành chạy_tàu bằng phương_pháp thủ_công .",
+        "đây chính là những bất cập , ảnh hưởng đến an toàn chạy tàu .",
+        "các chuyên_gia đường_sắt cho_rằng dù lý giải kiểu gì thì việc để \" hai tàu vào một đường cùng lúc \" là một sự cố nghiêm trọng , đe dọa tính mạng hành khách đi tàu .",
+        "thiết_bị tự_động là để hạn_chế được sai_lầm của con_người có_thể gây ra , nhưng giờ_đây con_người lại được phép \" can_thiệp \" hệ_thống tự_động , khi sơ_suất thì làm mất an_toàn chạy_tàu .",
+        "trong nội_dung văn_bản trả_lời báo tuổi_trẻ , tổng_công_ty đường_sắt vn cho_rằng thiết_bị 6502 vẫn an_toàn , không bất_cập , nhưng trên thực_tế thì lãnh_đạo ngành này lại đề_nghị các công_ty phải rà_soát , tìm nguyên_nhân sự_cố thiết_bị 6502 , ssi ( nhất_là sự_cố trật bánh ) để yêu_cầu các nhà_thầu khắc_phục .",
+        "dự_án hệ_thống tín_hiệu có mục_tiêu làm tăng năng_lực vận_tải , tăng hệ số an toàn và giảm nhân lực trong quá_trình chạy_tàu ở các ga . nhưng các mục_tiêu này vẫn còn là dấu_hỏi , bởi tới nay quá_trình vận_hành phải trở_lại hình_thức thủ_công .",
+        "để \" sống chung \" với những bất_cập của thiết_bị tín_hiệu , ngành đường_sắt yêu_cầu một_số ga phải \" đẻ ra \" thêm quy_tắc , biện_pháp kiểm_chứng , chế_độ \" hô đáp mệnh_lệnh \" giữa trực_ban chạy_tàu với nhân_viên quay thiết_bị chuyển_hướng tàu ...",
+        "tuy_nhiên , theo tìm_hiểu , ở các ga sử_dụng phương_pháp nói trên cũng đang gặp phiền_toái , bởi lúc quay bằng tay thì thiết_bị 6502 không ghi lại được thao_tác trực_ban trên đài điều_khiển .",
+        "còn thiết_bị ssi có ghi lại được , nhưng muốn đọc phải gửi dữ_liệu về nhà_thầu alstom ( pháp ) để giải_mã .",
+        "do_đó , ngành đường_sắt phải tốn thêm tiền lắp_đặt hệ_thống camera ở toàn_bộ các ga sử_dụng thiết_bị 6502 , ssi để giám_sát hoạt_động của người lao_động .",
+        "theo cục đường_sắt vn , thời_gian qua các ga như trảng_bom , hố_nai ( đồng_nai ) , sông_mao , sông_lòng_sông ( bình_thuận ) , cà_ná ( ninh_thuận ) dù được đầu_tư làm thêm và kéo_dài đường tránh trong ga nhưng vẫn chưa đồng_bộ hoá hệ_thống tín_hiệu .",
+        "điều này dẫn đến một ga đồng_thời sử_dụng hình_thức quay thiết_bị chuyển_hướng tàu vừa tự_động vừa thủ_công , dẫn đến khó_khăn trong công_tác quản_lý , đồng_thời không phát_huy hết năng_lực của các ga .",
+        "theo đánh_giá của chuyên_gia đường_sắt , những bất_cập trong quá_trình vận_hành thiết_bị làm ảnh_hưởng tới năng_lực vận_tải của đường_sắt , tiềm ẩn nguy_cơ mất an toàn , bởi chế độ \" hô đáp mệnh_lệnh \" thủ_công giữa con_người với nhau trong quá_trình điều_hành chạy tàu có_thể dễ nhầm_lẫn ."
+    ],
+    "image": [
+        "đoàn tàu chạy qua khu_vực lắp_đặt hệ_thống tín_hiệu 6502 của trung_quốc tại ga suối_vận - nơi từng xảy ra sự_cố hai tàu suýt đụng nhau - ảnh : quang_khải"
+    ],
+    "label": [
+        5,
+        3
+    ]
+}

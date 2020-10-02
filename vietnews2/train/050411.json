@@ -1,0 +1,22 @@
+{
+    "title": "cảnh_báo khói được kích_hoạt trước khi máy_bay ai_cập rơi xuống biển",
+    "abstract": "dữ_liệu chuyến bay cho thấy cảnh_báo được kích_hoạt trên chuyến bay ms804 của egyptair vài phút trước khi nó rơi xuống địa_trung_hải .",
+    "article": [
+        "thân_nhân hành_khách trên chuyến bay ai_cập gặp nạn .",
+        "những thông_điệp cảnh_báo được hệ_thống máy_tính của phi cơ a320 gửi tự_động tới trạm mặt_đất cho thấy khói được phát_hiện ở toilet gần buồng_lái , ngay sau khi vào không_phận ai_cập .",
+        "thông_điệp từ hệ_thống cảnh_báo và xử_lý liên_lạc máy_bay ( acars ) dường_như cũng cho thấy dấu_hiệu có_thể có trục_trặc với bộ_phận điều_khiển và máy_tính , có ý_nghĩa thiết_yếu với việc kiểm_soát máy_bay .",
+        "sky_news đã thu thâp được ảnh chụp màn_hình dữ_liệu từ máy_tính của trung_tâm vận_hành egyptair , trong đó có dấu thời_gian khớp với thời_gian mất_tích ước_tính của phi cơ .",
+        "bbc dẫn lời philip_baum , biên_tập_viên tạp_chí an_ninh hàng_không quốc_tế , cho_rằng ông không loại_trừ khả_năng về lỗi kỹ_thuật .",
+        "\" khói xuất_hiện trong toilet máy_bay , rồi khói ở khu_vực hệ_thống điện_tử , và trong ba phút , hệ_thống máy_bay tắt \" , ông nói .",
+        "\" điều này bắt_đầu gợi_ý rằng có_thể đó không phải là một vụ không tặc , cũng có_thể không phải là một cuộc vật_lộn trong buồng_lái , nhiều khả_năng đó là hoả_hoạn trên khoang .",
+        "giờ liệu đó là cháy do lỗi kỹ_thuật , đoản_mạch hay bom phát_nổ , chúng_tôi không biết \" .",
+        "trọng_giáp"
+    ],
+    "image": [
+        "thân_nhân hành_khách trên chuyến bay ai_cập gặp nạn ."
+    ],
+    "label": [
+        1,
+        0
+    ]
+}

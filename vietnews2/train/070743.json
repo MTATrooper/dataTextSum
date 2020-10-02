@@ -1,0 +1,51 @@
+{
+    "title": "ra_mắt ứng_dụng giúp thí_sinh biết được vị_trí của mình trong kỳ thi thpt quốc gia 2019",
+    "abstract": "mới_đây , một nhóm startup_việt đã cho ra_mắt ứng_dụng kami - một trợ lý ảo hỗ_trợ tính năng tra_cứu điểm thi , phân_tích phổ_điểm , tra_cứu chỉ_tiêu xét tuyển , và gợi_ý chọn trường .",
+    "article": [
+        "sản_phẩm ứng_dụng này được phát_triển bởi startup công_nghệ nerd.vn trên nền_tảng trợ_lý ảo vav của nhóm giảng_viên , sinh_viên trường đại học công_nghệ - đại học quốc gia hà nội .",
+        "pv báo người đưa tin đã có dịp trao_đổi với ts .",
+        "nguyễn_bá_đạt , một trong những sáng_lập_viên của nerd.vn:",
+        "thưa ts .",
+        "nguyễn bá đạt , tải kami , người dùng có_thể tra_cứu được điểm thi đại học như_thế_nào ?",
+        "sau khi cài app , người dùng có_thể “ tra cứu điểm thi ngay khi được công_bố ” , tránh tình_trạng chậm_trễ do máy_chủ “ treo ” là một trong những tính_năng quan_trọng của trợ_lý ảo kami .",
+        "bên cạnh việc cung_cấp điểm của thí_sinh , kami còn cho_biết thứ_hạng của thí_sinh trong một vùng đối_tượng nhất_định .",
+        "tiến sĩ có thể nói rõ hơn về tính_năng này ?",
+        "khái_niệm điểm cao hay thấp tuỳ_thuộc theo độ khó của đề_thi , và theo phổ_điểm .",
+        "chính vì_vậy , bên cạnh thông_tin về điểm , thứ_hạng của thí_sinh theo môn thi , khối thi , và theo vùng cũng là những thông_tin rất hữu_ích , được các thí_sinh rất quan_tâm .",
+        "về tính_năng đặc_biệt của kami : kami có các dữ_liệu để người dùng có_thể tra_cứu một_cách hệ_thống về điểm chuẩn , về tổ_hợp xét tuyển , các ngành xét tuyển ?",
+        "có rất nhiều nguồn khác nhau như các nguồn báo , website , trang facebook đưa các thông_tin về tuyển_sinh như chỉ_tiêu xét tuyển , điểm chuẩn của các nghành trong những kỳ tuyển_sinh trước , ... tuy_nhiên tra_cứu và tổng_hợp những thông_tin này mất rất nhiều thời_gian và công_sức .",
+        "kami hỗ_trợ thí_sinh làm tất_cả các tác_vụ này trên một nền_tảng .",
+        "hơn_nữa nhờ áp_dụng các công_nghệ mới trong lĩnh_vực xử_lý ngôn_ngữ_tự_nhiên , kami hỗ_trợ thí_sinh tra_cứu một_cách nhanh_chóng và tiện_lợi bằng ngôn_ngữ_tự_nhiên tiếng việt .",
+        "trước_đây , nhóm giảng_viên và sinh_viên của trường đại học công_nghệ đã xây_dựng thành_công trợ lý ảo vav , trợ lý kami có kế_thừa điều gì từ trợ lý tiền_nhiệm không , thưa tiến sĩ ?",
+        "trợ_lý vav là một sản_phẩm nghiên_cứu tuyệt_vời của nhóm các giảng_viên và sinh_viên trường đại học công_nghệ , đại học quốc gia hà nội .",
+        "có_thể nói vav là một trong những trợ_lý ảo phổ_biến và thành_công nhất cho người việt tính đến thời_điểm này .",
+        "kami kế_thừa tất_cả nền_tảng nghiên_cứu của trợ_lý ảo vav .",
+        "ngoài_ra , những cải_tiến kami phát_triển hiện có gồm :",
+        "thứ nhất , tích_hợp hệ tri_thức lớn dưới dạng đồ_thị ( knowledge graph ) chứa hàng triệu đỉnh , hàng trăm triệu cạnh về con_người , tổ_chức , địa_điểm việt_nam .",
+        "nhờ đó , kami sẽ có khả_năng hỗ_trợ hỏi_đáp tốt hơn .",
+        "thứ hai , kami được thiết_kế để dễ_dàng cho việc mở_rộng và tích_hợp một tính_năng mới .",
+        "trong tương_lai gần , các cá_nhân và tổ_chức khác cũng có_thể sử_dụng giao_diện lập_trình ứng_dụng ( api ) của nerd.vn để phát_triển tính_năng trên trợ_lý ảo kami .",
+        "phiên_bản kami “ tiếp_sức mùa thi ” lần này là bản thử_nghiệm đầu_tiên .",
+        "bằng cách nào mà kami chứa nguồn dữ_liệu khổng_lồ đến như_vậy ?",
+        "tại nerd.vn , chúng_tôi phát_triển rất nhiều những công_cụ về xử_lý ngôn_ngữ_tự_nhiên , trích xuất và tổng_hợp thông_tin tự_động từ rất nhiều nguồn khác nhau như wikipedia , các trang báo , các website , ...",
+        "ngoài_ra , chúng_tôi kết_hợp những công_nghệ lưu_trữ và tổ_chức dữ_liệu tiên_tiến như graph - db để việc truy_vấn và phân_tích thông_tin trở_nên dễ_dàng và hiệu_quả .",
+        "dự_kiến hướng phát_triển các tính_năng của kami trong thời_gian tới ?",
+        "sau phiên_bản “ tiếp_sức mùa thi ” thử_nghiệm , kami sẽ được tích_hợp rất nhiều các tính_năng như : 1 ) hỗ_trợ đời_sống hàng ngày như : hỏi thời_tiết , hỏi ngày_tháng , đặt lịch , ... 2 ) hỗ_trợ tính_năng giải_trí : nghe nhạc , trò_chuyện , ... 3 ) hỗ_trợ hỏi_đáp và nhiều tính_năng khác nữa .",
+        "tiến sĩ có thể chia_sẻ đôi điều về nhóm xây_dựng và phát_triển kami ?",
+        "các thành_viên của nerd.vn đều mang mong_muốn xây_dựng một sản_phẩm có_thể “ hiểu ” được người việt , phục_vụ tốt cho người “ việt ” .",
+        "vì_thế , kami luôn cố_gắng cập_nhật những tính_năng cần_thiết phục_vụ cho con_người việt trong đời_sống hàng ngày .",
+        "một_số thành_viên trong nhóm chúng_tôi đã từng học tại trường đại học công_nghệ , đại học quốc gia hà nội .",
+        "ngoài_ra , trong những sự_kiện đặc_biệt , kami sẽ có những phiên_bản / tính_năng đặc_biệt giành riêng cho sự_kiện đó .",
+        "với cộng_đồng , kami sẽ luôn là một trợ_lý ảo miễn_phí cho người dùng việt .",
+        "trân_trọng cảm_ơn ts .",
+        "nguyễn bá đạt về cuộc trao_đổi !",
+        "dưới đây là hình ảnh sử dụng ứng dụng kami :"
+    ],
+    "image": [
+        "nguyễn_bá_đạt ."
+    ],
+    "label": [
+        14,
+        4
+    ]
+}

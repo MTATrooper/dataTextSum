@@ -1,0 +1,34 @@
+{
+    "title": "sự_cố tân_sơn_nhất do nhân_viên kỹ_thuật thao_tác sai",
+    "abstract": "đại_diện tổng_công_ty quản_lý bay việt_nam cho biết , nguyên_nhân sự_cố mất điện trung_tâm điều_hành không lưu tân_sơn_nhất là do kíp trực thực_hiện sai thao_tác kỹ_thuật .",
+    "article": [
+        "tổng_công_ty quản_lý bay việt_nam cho biết , theo quy_định , nguồn điện cung_cấp cho hệ_thống điều_hành không lưu tại trung_tâm kiểm_soát đường dài hồ_chí_minh và tiếp_cận tân_sơn_nhất ( acc hcm ) gồm điện_lưới và điện máy_nổ đều dẫn qua thiết_bị lưu_điện ups nhằm đảm_bảo không bị ngắt_điện đột_ngột .",
+        "hệ_thống ups có 3 bộ đấu song_song để dự_phòng cho nhau .",
+        "quy_trình kỹ_thuật yêu_cầu mỗi tuần phải chạy máy_phát_điện 2 ngày để kiểm_tra .",
+        "ngày 20/11 là thời_điểm phải vận_hành 2 chiếc máy_phát_điện thay cho điện_lưới .",
+        "khi chuyển sang điện_máy phát , bộ_phận kỹ_thuật phát_hiện một trong 3 ups bị hỏng nên phải cắt tải để khắc_phục .",
+        "chiếc ups này từng bị trục_trặc tương_tự vào các ngày 13 và 18/11 , đã được xử_lý thành_công .",
+        "tuy_nhiên , ngày 20/11 , kíp trưởng lê_trí_tình thao_tác sai nên đã gây sập hệ_thống .",
+        "trên cả 3 bộ ups ghi rõ cảnh_báo nguy_hiểm \" nếu ấn nút cắt tải trong trường_hợp đấu nối song_song sẽ ngắt toàn_bộ thiết_bị ra khỏi hệ_thống \" .",
+        "do không nắm kỹ cảnh_báo này , kíp trưởng chưa thực_hiện cô_lập ups hỏng đã nhấn nút ngắt tải nên 2 ups còn lại cũng lập_tức bị ngắt_điện .",
+        "để khắc_phục , kíp trưởng cố_gắng đấu lại điện_máy phát song lo_ngại không an_toàn cho hệ_thống thiết_bị không lưu nên vẫn cố_gắng đấu qua 2 ups không bị hỏng , hệ_thống ups vẫn bị tự_động ngắt ra .",
+        "theo quy_định , khi thao_tác phải có 2 người để giám_sát , kiểm_tra chéo nhưng vì kíp trưởng trực_tiếp thực_hiện nên nhân_viên trực kỹ_thuật điện không có ý_kiến gì .",
+        "chỉ đến khi đấu nối nhiều lần không thành , bộ_phận kỹ_thuật mới quyết_định đấu trực_tiếp điện_máy phát vào hệ_thống thiết_bị không_lưu .",
+        "do_đó , thời_gian sập mạng bị kéo_dài khoảng một tiếng rưỡi .",
+        "nếu làm đúng theo quy_trình có_thể chỉ cần 20 phút .",
+        "thời_điểm mất điện tại acc hcm , trong vùng thông_báo bay hồ_chí_minh ( fir hồ_chí_minh ) đang có 54 máy_bay hoạt_động , 8 chuyến chuẩn_bị hạ_cánh .",
+        "thời_gian sự_cố kéo_dài 35 phút , có thêm 92 máy_bay vào vùng thông_báo bay .",
+        "trong khi , sân_bay quốc_tế tân_sơn_nhất không còn khả_năng tiếp_thu các chuyến bay đến / đi và ảnh_hưởng đến các chuyến bay qua vùng fir hồ_chí_minh .",
+        "cục hàng_không và các chuyên_gia hàng_không đều đánh_giá , sự_cố sập hệ_thống điện tại acc hcm là đặc_biệt nghiêm_trọng mang tính quốc_tế , chưa từng có tiền_lệ .",
+        "lãnh_đạo bộ giao_thông vận_tải khẳng_định sẽ xử_lý nghiêm các cá_nhân và tổ_chức có liên_quan đến vụ_việc này .",
+        "chủ_tịch tập_đoàn airbus bị chậm chuyến bay",
+        "ngày 20/11 , chủ_tịch tập_đoàn airbus có kế_hoạch thăm và làm_việc với một hãng hàng_không tại việt_nam , song do sự_cố tại tân_sơn_nhất , máy_bay chở vị này không_thể đáp xuống mà phải chuyển_hướng đến hong_kong .",
+        "hơn 19h tối cùng ngày , máy_bay chở chủ_tịch airbus mới về được tân_sơn_nhất .",
+        "đoàn_loan"
+    ],
+    "image": [],
+    "label": [
+        0,
+        6
+    ]
+}

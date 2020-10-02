@@ -1,0 +1,37 @@
+{
+    "title": "máy kiểm_soát nồng_độ cồn tự_động ' khoá ' xe_máy",
+    "abstract": "thiết_bị gắn trên xe_máy giúp người uống rượu_bia tự đo nồng_độ cồn , nếu vượt mức cho_phép xe sẽ không nổ máy và tự_động báo về điện_thoại cho người_thân biết .",
+    "article": [
+        "với đề_tài thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia , bạn nguyễn_văn_sỹ , học_sinh lớp 11/2 trường thpt phan_châu_trinh ( huyện tiên_phước , quảng_nam ) đã ẵm giải nhì cuộc_thi khoa_học_kỹ_thuật tỉnh quảng_nam dành cho học_sinh trung_học năm_học 2017-2018 .",
+        "gần_gũi với cuộc_sống",
+        "sỹ kể từ cuối lớp 10 , khi nhà_trường phát_động phong_trào sáng_tạo , sỹ hình_thành nhiều ý_tưởng nhưng muốn phải tạo ra một thiết_bị gì gần_gũi với cuộc_sống thường_nhật quanh mình hơn .",
+        "bạn kể nhiều lần thấy người_thân trong gia_đình cũng như hàng_xóm thường hay uống rượu_bia xong thì chạy xe_máy về nhà , có người té ngã giữa đường phải nhập_viện cấp_cứu .",
+        "\" mình le_lói ý_tưởng có thiết_bị đo nồng_độ cồn người sử_dụng rượu_bia .",
+        "thiết_bị đó phải gắn với xe_máy , để làm_sao nếu nồng_độ cồn vượt mức cho_phép , xe sẽ không hoạt_động được \" - sỹ kể lại .",
+        "sau thời_gian dài mày_mò , phát_triển thêm ý_tưởng đa_năng cho sản_phẩm , phải đến nửa đầu lớp 11 , sỹ mới chế_tạo được thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia .",
+        "thiết_bị này có các chức_năng như giúp người lái biết được nồng_độ cồn trong hơi thở và máu , chỉ cho_phép khởi_động xe sau khi đã kiểm_tra nồng_độ cồn qua khí thở , cảnh_báo nguy_hiểm khi nồng_độ cồn quá cao và tự_động liên_lạc cho người_thân .",
+        "ngoài_ra thiết_bị còn định_vị vị_trí người say rượu_bia thông_qua tin_nhắn hay google maps để người_thân dễ_dàng xác_định .",
+        "\" thiết_bị này gần_gũi với cuộc_sống , có_thể phần_nào giảm đi số vụ tai_nạn đáng tiếc xảy ra cho người lái và người tham_gia giao_thông trên đường \" - sỹ nói .",
+        "đánh vào nhận_thức người lái_xe",
+        "về nguyên_lý hoạt_động thiết_bị , sỹ cho biết đầu_tiên người lái_xe phải thổi vào một ống gắn ở đầu xe_máy để đo nồng_độ cồn .",
+        "khi thổi vào tức đã bật button nhận_biết có người thổi vào , đồng_thời cảm_biến mq3 sẽ nhận_biết có nồng_độ cồn đi vào rồi xuất tín_hiệu ra cho arduino xử_lý .",
+        "nếu nồng_độ chưa vượt ngưỡng cho_phép , arduino sẽ gửi tín_hiệu tới relay để mở dây nguồn của ic xe vì đó là bộ_phận phát lửa trực_tiếp cho động_cơ có_thể hoạt_động .",
+        "màn_hình lcd sẽ hiển_thị nồng_độ cồn và báo cho người lái_xe biết \" có an_toàn \" .",
+        "còn nếu nồng_độ cồn vượt ngưỡng cho_phép ( 0,2 mg / l khí thở ) , arduino sẽ gửi tín_hiệu tới module relay để đóng dây nguồn ic xe_máy .",
+        "sau đó lcd hiển_thị nồng_độ cồn lên màn_hình và báo \" không an_toàn \" .",
+        "lúc đó động_cơ xe_máy sẽ tự_động ngắt , người lái không_thể nổ máy xe được .",
+        "đồng_thời , điện_thoại sẽ tự_động gọi về một_số điện_thoại của người_thân đã được cài_đặt sẵn .",
+        "sử_dụng với tên danh_bạ \" nguy_hiểm \" lúc đó , người_thân sẽ biết được độ cồn đã vượt ngưỡng cho_phép .",
+        "và một thao_tác giao_tiếp với thiết_bị định_vị là phải gửi tin nhắn tới thiết_bị định_vị thông_qua trình_duyệt để nhận_định vị_trí người lái_xe đã ngầm định sẵn để người_thân biết .",
+        "sỹ cho biết thiết_bị này không ngắt hẳn động_cơ của xe_máy ; khi muốn xe hoạt_động lại chỉ cần , gọi một người bình_thường không sử_dụng rượu_bia thổi vào ống đo thì có_thể nổ máy .",
+        "sau cuộc_thi , sỹ áp_dụng cho người_thân và hàng_xóm đều được mọi người thích_thú , đánh_giá cao .",
+        "\" nhiều chú cảnh_sát giao_thông cũng thấy thích_thú với thiết_bị này , muốn đem giới_thiệu trong các buổi tuyên_truyền về luật giao_thông \" - sỹ kể ."
+    ],
+    "image": [
+        "thiết_bị kiểm_soát thông_minh và nâng_cao an_toàn cho lái_xe khi sử_dụng rượu_bia được gắn trên đầu xe_máy của sỹ - ảnh : l.t ."
+    ],
+    "label": [
+        5,
+        14
+    ]
+}

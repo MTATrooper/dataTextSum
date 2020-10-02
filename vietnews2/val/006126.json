@@ -1,0 +1,35 @@
+{
+    "title": "sinh_viên chế_tạo_máy đọc sách cho người khiếm_thị",
+    "abstract": "máy gồm camera , bộ_phận xử_lý và loa . khi người dùng tra tay lên chữ và bấm nút , camera sẽ chụp lại các ký_tự , chuyển cho hệ_thống xử_lý thành âm_thanh .",
+    "article": [
+        "với mong_muốn đưa sách_báo đến gần hơn với người khiếm_thị , nhóm các bạn nguyễn_thái_hoàng , nguyễn_khánh_trình , tạ_sinh_phúc và bùi_lê_đạt ( sinh_viên khoa điện trường đại_học bách_khoa - đại_học đà_nẵng ) đã chế_tạo_máy hỗ_trợ đọc sách cho người khiếm_thị .",
+        "chiếc máy vừa đoạt giải nhất cuộc_thi asu / aws eduhackathon 2017 do trường đại_học bang arizona , liên_minh build - it và amazon_web_services tổ_chức và được đánh_giá là có tính ứng_dụng cao .",
+        "bùi_lê_đạt ( một thành_viên trong nhóm ) cho biết sản_phẩm được thiết_kế khá đơn_giản , xây_dựng trên nền_tảng công_nghệ điện_toán đám mây của aws chỉ với ba phần chính là camera , bộ_phận xử_lý và loa .",
+        "khi người khiếm_thị tra tay trên từng dòng chữ và bấm nút , camera gắn ở đầu ngón tay người dùng sẽ chụp lại các ký_tự có trong trang sách , sau đó chuyển qua định_dạng thích_hợp và gửi lên bộ_phận xử_lý .",
+        "sau khi xử_lý xong , hệ_thống sẽ cho về thông_tin dưới dạng audio chính là các ký_tự trong sách và xuất âm_thanh ra loa hoặc tai_nghe .",
+        "với cách làm này , người khiếm_thị có_thể đọc được mọi loại sách_báo mà không bị giới_hạn bởi sách chữ_nổi dành riêng cho họ .",
+        "chia_sẻ về ý_tưởng tạo nên sản_phẩm , nguyễn_thái_hoàng cho_biết : \" mình thấy nhiều người chế_tạo được sản_phẩm dạy_học chữ_nổi cho người khiếm_thị , nhưng vẫn có nhiều sách_báo không có bản chữ_nổi và nhiều người khiếm_thị không biết chữ .",
+        "họ sẽ thiệt_thòi trong việc tiếp_cận sách_báo \" .",
+        "và hoàng đã chia_sẻ ý_tưởng của mình cùng các bạn trong lớp và nhanh_chóng nhận được sự góp_sức của ba bạn .",
+        "sau gần một năm kể từ khi lên ý_tưởng , không ít lần nhóm vấp phải khó_khăn nhưng không hề nản_lòng .",
+        "\" điều khó_khăn nhất_là chúng_mình đều học tự_động_hoá nên việc viết ngôn_ngữ_lập_trình cho máy là lắm gian_nan .",
+        "nhờ sự hướng_dẫn của thầy ngô_đình_thanh , một giảng_viên trong khoa , nên chúng_mình đã vượt qua khó_khăn đó \" , hoàng nói .",
+        "hoàng cho_biết việc khó nhất với các bạn là in các chi_tiết .",
+        "\" riêng việc in ngón tay đeo trên máy cũng mất khá nhiều thời_gian và công_sức .",
+        "có hôm cả nhóm phải ngồi tại phòng emaker của khoa cả ngày trời .",
+        "in sai phải làm_đi_làm_lại nhưng nhóm vẫn không nản_lòng \" .",
+        "trong vòng ba tháng , nhóm hoàng đã hoàn_thành sản_phẩm .",
+        "ngay khi sản_phẩm vừa hoàn_thiện , một_số người khiếm_thị đã tìm đến các bạn với mong_muốn có được một \" đôi mắt thông_minh \" giúp họ đọc được sách .",
+        "võ_văn_nhật , một người khiếm_thị , chia_sẻ : \" tôi rất thích đọc sách_báo và mong_muốn có một thiết_bị nhỏ gọn , đơn_giản với giá_thành hợp_lý giúp những người khiếm_thị như tôi được thực_hiện niềm ao_ước đó \" .",
+        "vì_vậy nên khi nghe đến sản_phẩm của nhóm các bạn , nhật tìm đến hỏi_thăm và trao_đổi những mong_muốn của mình .",
+        "hiện nhóm đang gấp_rút hoàn_thiện phiên_bản tiếng việt cho máy và đưa vào thử_nghiệm ở người khiếm_thị .",
+        "các bạn cũng đang thay_thế các thiết_bị trên sản_phẩm với các vi_xử_lý nhỏ gọn hơn và có chức_năng tương_đương nhưng giá_thành rẻ để thiết_bị chỉ còn giá vài trăm_nghìn đồng , có_thể phục_vụ cả người khiếm_thị khó_khăn .",
+        "các thành_viên của nhóm chia_sẻ trong tương_lai sẽ phát_triển thêm nhiều ứng_dụng hơn cho thiết_bị như có_thể nhận_diện các đồ_vật trong siêu_thị giúp người khiếm_thị biết được mình cần mua gì mà không phải phụ_thuộc vào người khác ."
+    ],
+    "image": [
+        "nhóm của hoàng và thiết_bị hỗ_trợ đọc sách cho người khiếm_thị - ảnh : đoàn_nhạn"
+    ],
+    "label": [
+        3
+    ]
+}
